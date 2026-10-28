@@ -1,0 +1,61 @@
+{
+  "summary": "Contestants demonstrate practical skills in configuring, maintaining, and troubleshooting devices as an IT technician. The event includes an objective test and, at Nationals, a certification exam and a performance component. Contestants may use written reference materials during some portions, and must follow specific equipment and eligibility rules.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "Preliminaries - No more than sixty (60) minutes for objective test",
+    "Preliminaries (Nationals only) - No more than sixty (60) minutes for objective test",
+    "Preliminaries (Nationals only) - No more than fifty (50) minutes for certification test",
+    "Preliminaries (Nationals only) - No more than sixty (60) minutes for performance component",
+    "Finals (Nationals only) - No more than sixty (60) minutes for performance component"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials, including hands-on tasks",
+    "(Optional) Cordless calculator: Electronic devices will be monitored according to ACT standards"
+  ],
+  "competencies": [
+    "Install, upgrade, and safely replace hardware components to maintain, optimize, and extend device performance and lifecycle",
+    "Identify and connect peripheral devices using the appropriate ports and interfaces, install and update device drivers, and diagnose and resolve connectivity, compatibility, and performance issues",
+    "Configure and manage storage devices and technologies, allocate and optimize system resources, and troubleshoot storage-related and resource-related performance issues",
+    "Diagnose hardware and software issues, troubleshoot boot procedures, and perform preventative maintenance to minimize downtime and ensure system reliability",
+    "Install, configure, and maintain Windows® and Linux operating systems and manage user accounts to support secure and efficient computing environments",
+    "Configure and manage cloud services and firewall settings to enable secure connectivity, data storage, and remote access",
+    "Configure, manage, and secure mobile devices using Mobile Device Management (MDM) tools to ensure consistent policies, data protection, and reliable access across enterprise environments",
+    "Use imaging and deployment tools to create, customize, and deploy operating system images, ensuring efficient setup, standardization, and rapid provisioning of client systems",
+    "Create, configure, and manage virtual machines for testing and troubleshooting, enabling safe experimentation, multi-OS environments, and flexible lab simulations",
+    "Identify, diagnose, and resolve connectivity, configuration, and security issues in Internet of Things (IoT) devices to ensure reliable integration within modern network environments"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Previous Business Professionals of America tests and/or sample tests (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification",
+    "At NLC, contestants will take IT Specialist Device Configuration and Management certification as part of the event. Contestants passing this certification will have 50 points added to their event score.",
+    "A Pearson profile must be created at https://certiport.pearsonvue.com before attending NLC",
+    "Contestants must include their BPA Contestant ID in their Pearson profile when they register",
+    "Certiport Parent/Legal Guardian Consent Form must be uploaded to: education@bpa.org",
+    "Reference materials are not allowed for certification testing",
+    "The top 10 contestants at Nationals will advance to a final round that includes a performance component. Scores from the preliminary round and the objective test will not carry over to the finals. Reference materials may be used during the application portion of the final round."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Entries vary by state"
+  ],
+  "keywords": [
+    "device configuration",
+    "troubleshooting",
+    "IT technician",
+    "hardware",
+    "operating systems",
+    "certification",
+    "performance component",
+    "cloud services",
+    "mobile device management",
+    "virtual machines"
+  ]
+}

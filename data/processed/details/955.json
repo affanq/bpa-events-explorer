@@ -1,0 +1,175 @@
+{
+  "summary": "Teams of 2-4 students create a website celebrating unsung heroes in their local community, including a landing page and at least three themed sub-pages. Teams submit their website and required documentation before the deadline, then present their project to judges at the competition. The event evaluates both the technical quality of the website and the team's presentation skills.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than five (5) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at five (5) minutes"
+  ],
+  "submission_requirements": [
+    "Submit clickable Project URL (with login credentials if needed), Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s) and AI Usage and Documentation Form in one combined PDF",
+    "Submit at https://upload.bpa.org",
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Team ID cannot be accepted",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Website",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Design and develop a responsive, accessible website optimized for cross-browser compatibility",
+    "Apply leadership skills and collaborate on web development projects",
+    "Apply ethical standards, copyright compliance, and data privacy principles in all aspects of web design and content management",
+    "Apply problem-solving and troubleshooting techniques to resolve technical challenges and ensure secure, efficient web functionality",
+    "Proofread to ensure content accuracy and clarity"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted clickable Project URL (with login credentials if needed), Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s) and AI Usage and Documentation Form in one combined PDF.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Page Layout",
+      "max_points": 60.0,
+      "description": "Visual organization is clear and intuitive; colors and fonts are highly aesthetic and enhance readability; consistent format is maintained across all pages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Graphic Media Use",
+      "max_points": 60.0,
+      "description": "Graphics strongly enhance the topic; highly creative and original design using templates, code, or both."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content",
+      "max_points": 60.0,
+      "description": "The website demonstrates a good understanding of the topic and presents relevant and accurate information throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical",
+      "max_points": 60.0,
+      "description": "Website works seamlessly across browsers; source code is clean, organized, and validated; innovative technologies (e.g., SASS, Python, JavaScript) are effectively used; grammar and spelling are flawless."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Navigational Theme",
+      "max_points": 50.0,
+      "description": "All links present, fully functional, consistently formatted; navigation path is clear, logical, and easy to follow."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and vary their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "Presentation content flows adequately, and each team contestant’s role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges’ questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes and presentation lasted no more than five (5) minutes."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "website design",
+    "team event",
+    "web development",
+    "community heroes",
+    "presentation",
+    "responsive design",
+    "cross-browser",
+    "AI usage",
+    "copyright",
+    "middle level"
+  ]
+}

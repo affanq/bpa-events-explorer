@@ -1,0 +1,133 @@
+{
+  "summary": "Teams research, develop, and deliver an investor-ready pitch for a new music festival startup called PulsePeak Events. The presentation covers the business opportunity, target market, competitive advantage, financial projections, and growth strategy. Teams present their pitch to judges acting as potential investors.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes setup",
+    "No less than seven (7) and no more than ten (10) minutes oral presentation",
+    "No more than five (5) minutes judges’ questions"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the Works Cited formatted according to the Style & Reference Manual, signed BPA Release Form(s), and AI Usage and Documentation Form for each round of the event (preliminary and final)",
+    "Works Cited in the correct format according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form were submitted at presentation check-in (both preliminaries and finals)"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Analyze an assigned business idea and develop a clear, compelling value proposition that communicates the opportunity to potential investors",
+    "Identify and analyze the target market, including customer demographics, needs, and market size",
+    "Evaluate the competitive landscape and articulate the business's unique competitive advantage",
+    "Develop and justify basic financial projections including startup costs, revenue potential, and profitability",
+    "Create and present a realistic go-to-market and growth strategy for the proposed business",
+    "Deliver a persuasive, professional investor pitch using effective verbal and nonverbal communication skills",
+    "Respond confidently and knowledgeably to judges' questions, demonstrating deep understanding of the business concept",
+    "Collaborate effectively as a team by assigning roles and delivering a cohesive, well-organized presentation"
+  ],
+  "rubric": [
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Market & Audience Understanding",
+      "max_points": 15.0,
+      "description": "Presentation demonstrates a strong understanding of the target market. Audience is clearly defined with specific segmentation, supported assumptions, and a realistic explanation of market demand, customer needs and market size."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Business Model, Strategy & Competitive Advantage",
+      "max_points": 15.0,
+      "description": "Presentation demonstrates a clear and compelling business model. Strong value proposition, well-defined competitive advantage supported by competitive landscape analysis, and a cohesive marketing and revenue strategy that differentiates from competitors."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Financial Feasibility & Growth",
+      "max_points": 15.0,
+      "description": "Presentation demonstrates strong financial reasoning. Startup costs, pricing strategy, revenue projections, and profitability are realistic, clearly explained, and supported by logical assumptions. Long-term growth and scalability are thoughtfully addressed."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, presentation lasted no less than seven (7) minutes and no longer than ten (10) minutes. Works Cited in the correct format according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form were submitted at presentation check-in (both preliminaries and finals)."
+    }
+  ],
+  "rubric_total_points": 100.0,
+  "rubric_section_totals": [
+    {
+      "section": "510 Industry Pitch Team Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Length of event: no more than three (3) minutes setup, no less than seven (7) and no more than ten (10) minutes oral presentation, no more than five (5) minutes judges’ questions",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "The use of graphics, including charts, should be part of the presentation",
+    "Format Works Cited according to the Style & Reference Manual",
+    "The team is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project.",
+    "The team is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project. It is the policy of Business Professionals of America to comply with copyright law. The Style & Reference Manual contains guidelines for Copyright and/or Fair Use. Contestants will be disqualified for violations of the guidelines.",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name. Refer to the BPA Graphic Standards in the Style & Reference Manual.",
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event.",
+    "A team will consist of 2-4 contestants.",
+    "Entries that do not follow the provided topic, or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified."
+  ],
+  "keywords": [
+    "industry pitch",
+    "investor pitch",
+    "business plan",
+    "team event",
+    "presentation",
+    "music festival",
+    "startup",
+    "financial projections",
+    "marketing strategy",
+    "competitive analysis"
+  ]
+}

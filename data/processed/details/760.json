@@ -1,0 +1,110 @@
+{
+  "summary": "Contestants research and create a multimedia presentation about modern entrepreneurship, covering its benefits, challenges, technology's impact, and skills needed. The presentation must include real-world examples, practical tips, and be delivered professionally with proper documentation. Judging is based on delivery, organization, content knowledge, responses to questions, and adherence to event requirements.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No less than seven (7) and no more than ten (10) minutes for oral presentation",
+    "No more than five (5) minutes judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Works Cited formatted in accordance with the Style & Reference Manual",
+    "Signed BPA Release Form(s)",
+    "AI Usage and Documentation Form for each round of the event (preliminary and final)"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation"
+  ],
+  "competencies": [
+    "Create a clear, engaging multimedia presentation using modern digital tools to enhance key ideas",
+    "Use charts, graphs, and other visuals correctly and clearly to present information and support key ideas",
+    "Deliver a professional, well-organized oral presentation using effective verbal and nonverbal communication skills",
+    "Use credible research, facts, and supporting data to strengthen key ideas within the presentation",
+    "Analyze the assigned topic and organize a clear message using an effective introduction, body, and conclusion",
+    "Prepare and submit a properly formatted Works Cited page that follows BPA’s Style & Reference Manual",
+    "Respond to judge questions clearly and confidently, using examples or reasoning to support your answers"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines, and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, presentation lasted no less than seven (7) minutes and no longer than ten (10) minutes. Works Cited is in the correct format according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form were submitted at presentation check-in (both preliminaries and finals)."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the contestant and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "A contestant may not participate in more than one of the following events in the same year: Presentation Individual or Prepared Speech",
+    "Previously used presentations may not be used",
+    "Entries that do not follow the topic provided, the Copyright and/or Fair Use Guidelines or the Artificial Intelligence Usage & Citation Policy, will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "presentation",
+    "entrepreneurship",
+    "multimedia",
+    "business",
+    "leadership",
+    "professional development",
+    "digital tools",
+    "communication",
+    "individual event",
+    "research"
+  ]
+}

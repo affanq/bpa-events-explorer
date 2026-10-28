@@ -1,0 +1,171 @@
+{
+  "summary": "Contestants research and analyze economic trends related to the gig economy and income stability, write a research paper, and present their findings to judges. The event requires both a written submission and an oral presentation, focusing on evidence-based solutions and economic analysis. Participants must follow specific formatting, citation, and copyright guidelines.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes setup time",
+    "No more than seven (7) minutes presentation time",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing Research Paper, Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File must be named ETRI-ContestantID.pdf",
+    "Follow the Report format located in the Style & Reference Manual (no Title Page required)",
+    "Header information on the first page: Contestant ID Number, Harvey Rosen (Recipient’s Name), Financial Services Department (Recipient’s Department), Current Date",
+    "Document length limited to seven double-spaced, single-sided, numbered pages with one-inch margins (Works Cited not included in limit; graphs, tables, and charts are included)",
+    "In-text citations required throughout the paper",
+    "Materials must follow BPA Graphic Standards and proper use of BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Research Paper",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation"
+  ],
+  "competencies": [
+    "Apply foundational economic concepts to analyze and interpret global and domestic economic trends",
+    "Conduct rigorous economic research using credible sources and communicate findings clearly and professionally through oral presentations and written reports",
+    "Analyze workplace economic factors such as productivity, labor markets, and technological change to inform organizational strategy and decision-making",
+    "Compare and contrast global economic systems, evaluating their effectiveness in addressing contemporary economic challenges",
+    "Evaluate strategies for promoting sustainable economic growth and apply modern metrics to measure economic performance",
+    "Utilize diverse research methodologies and digital resources to gather, analyze, and interpret economic data, ensuring ethical standards and data integrity",
+    "Critically analyze economic issues using quantitative and qualitative methods and propose evidence-based solutions aligned with industry trends"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted one (1) combined PDF file containing their Research Paper and Works Cited in the correct format according to the Style & Reference Manual, BPA Release Form(s) and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Comprehension of Topic",
+      "max_points": 30.0,
+      "description": "Exhibits deep understanding, explaining complex ideas clearly with insightful examples and thorough coverage."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Organization and Expansion of Ideas",
+      "max_points": 30.0,
+      "description": "The argument is well-organized, with smooth transitions and thoroughly expanded points, demonstrating clear reasoning."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Introduction/Summary",
+      "max_points": 30.0,
+      "description": "The introduction and summary are compelling, with strong evidence and a concise, impactful summary."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity",
+      "max_points": 30.0,
+      "description": "The response is highly original and inventive, with well-integrated resources adding depth and creativity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 30.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation flows logically, with a clear and well-integrated structure. The speaker transitions smoothly between points, enhancing the overall coherence and impact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than seven (7) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 160.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the contestant within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Business Professionals of America assumes no responsibility for hardware/software provided by the contestant",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Presentation will be stopped at seven (7) minutes"
+  ],
+  "eligibility_notes": [
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries",
+    "SECONDARY EVENT ONLY"
+  ],
+  "keywords": [
+    "economic trends",
+    "gig economy",
+    "income stability",
+    "research paper",
+    "presentation",
+    "labor market",
+    "financial planning",
+    "independent contractors",
+    "BPA",
+    "secondary event"
+  ]
+}

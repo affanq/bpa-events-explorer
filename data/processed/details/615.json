@@ -1,0 +1,149 @@
+{
+  "summary": "Contestants research and create a multimedia presentation on how collaboration accelerates pediatric cancer research. They present their findings to judges, analyze challenges, evaluate partnerships, and recommend strategies to improve collaboration and develop new therapies for children with cancer.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No less than seven (7) and no more than ten (10) minutes for oral presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the signed BPA Release Form(s), Works Cited, Fair Use Guidelines and AI Usage and Documentation Form for each round of the competition (preliminaries and finals)",
+    "No materials, other than the required submission materials, may be left with judges",
+    "Contestant ID is required for all submissions. Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted",
+    "The contestant is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "The contestant is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Conduct comprehensive research using diverse resources and communicate findings through professional reports and presentations, responding to questions with evidence-based reasoning",
+    "Design and deliver engaging multimedia presentations using advanced digital tools and cloud-based platforms",
+    "Demonstrate effective communication skills while presenting a multimedia presentation"
+  ],
+  "rubric": [
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Opening & Summary",
+      "max_points": 20.0,
+      "description": "Strong, engaging opening and clear summary that wraps up the presentation effectively."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Objectives",
+      "max_points": 20.0,
+      "description": "Objectives are clearly stated and connect well to the overall theme."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Stage Presence & Delivery",
+      "max_points": 20.0,
+      "description": "Contestant is confident, engaging, uses eye contact, and speaks clearly throughout."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "General Content",
+      "max_points": 20.0,
+      "description": "Content is accurate, well-researched, and clearly supports the project goals."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Typography",
+      "max_points": 20.0,
+      "description": "Fonts are well-chosen, readable, and enhance the overall design."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Functional Graphics",
+      "max_points": 20.0,
+      "description": "Graphics clearly support and enhance the message or concept."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Charts & Graphs",
+      "max_points": 20.0,
+      "description": "Charts/graphs are clear, accurate, and help explain the idea effectively."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Color & Space",
+      "max_points": 20.0,
+      "description": "Color and space are used creatively and effectively to enhance the design."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Multimedia Technology",
+      "max_points": 20.0,
+      "description": "Multimedia is used creatively and adds strong value to the presentation."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Development of Theme",
+      "max_points": 20.0,
+      "description": "Theme is clearly developed and carried through all parts of the project."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Judge Questions",
+      "max_points": 20.0,
+      "description": "Answers are thoughtful, complete, and show deep understanding of the project."
+    },
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no less than seven (7) and no more than ten (10) minutes. One (1) copy of the Works Cited and signed BPA Release Form(s) for each round of the event (preliminary and final) was submitted."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "615 Health Trends Research Presentation Presentation Scoring Rubric",
+      "total_points": 230.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the contestant and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "health trends",
+    "pediatric cancer",
+    "research presentation",
+    "multimedia",
+    "collaboration",
+    "data sharing",
+    "healthcare",
+    "BPA",
+    "oral presentation",
+    "AI citation"
+  ]
+}

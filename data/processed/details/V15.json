@@ -1,0 +1,216 @@
+{
+  "summary": "Contestants create a digital portfolio, resume, and cover letter tailored to a job at Digital Solutions, then participate in a virtual interview. All materials are submitted online and judged virtually, with finalists presenting live via videoconference. The event tests job search, portfolio, and interview skills in a professional virtual setting.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit all required items in one combined PDF to https://upload.bpa.org",
+    "File must be named V15-ContestantID.pdf",
+    "Contestant ID is required for all submissions",
+    "Materials from non-registered members and/or those missing Contestant ID cannot be accepted"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Digital Portfolio",
+    "Resume",
+    "Cover Letter",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "Submission deadline: January 15, 2027, 11:59 p.m. Eastern Time",
+    "Online digital portfolios must be live and working between January 15 – March 1 for judging purposes"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Apply technical writing skills to produce a professional cover letter, resume, and digital portfolio tailored to a targeted job opportunity",
+    "Conduct job market research to identify position qualifications, required skills, and industry expectations, and align application materials accordingly",
+    "Demonstrate knowledge of employability skills and job advancement strategies, including the professional behaviors and competencies required to obtain, retain, and grow within a career",
+    "Project a professional image through appearance, demeanor, and conduct that reflects workplace standards and expectations in a virtual environment",
+    "Demonstrate effective communication and interpersonal skills, and apply knowledge of workplace ethics and professional environment expectations to interact appropriately in a business setting"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The following items have been submitted in one combined (1) PDF.\n1. Digital Portfolio\n2. Cover Letter\n3. Resume\n4. Works Cited\n5. BPA Release Form(s)\n6. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter: Introduction",
+      "max_points": 20.0,
+      "description": "Introduction is engaging and tailored to the position and audience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter: Skills",
+      "max_points": 20.0,
+      "description": "Skills are well -articulated and strongly aligned with the role."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter: Closing",
+      "max_points": 20.0,
+      "description": "Closing is confident, polished, and leaves a strong impression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter: Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Writing is polished, precise, and enhances clarity and professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume: Position Listed",
+      "max_points": 20.0,
+      "description": "Position is clearly stated and strategically aligned with resume content."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume: Layout",
+      "max_points": 20.0,
+      "description": "Layout is professional, visually appealing, and enhances readability."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume: Work History Order",
+      "max_points": 20.0,
+      "description": "Work history is thorough, well-organized, and highlights relevant experience and is in reverse chronological."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume: Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Writing is polished, precise, and enhances clarity and professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Digital Portfolio: Evidence of Work",
+      "max_points": 20.0,
+      "description": "Work samples are diverse, high-quality, and strongly showcase relevant skills."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Digital Portfolio: Certificates & Credentials",
+      "max_points": 20.0,
+      "description": "Credentials are well -selected, clearly presented, and enhance qualifications."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Digital Portfolio: Layout & Design",
+      "max_points": 20.0,
+      "description": "Portfolio is professionally designed, visually engaging, and easy to navigate."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Digital Portfolio: Personal/Professional Statement",
+      "max_points": 20.0,
+      "description": "Statement is compelling, well-written, and clearly tailored to the position."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Applicant’s Greeting",
+      "max_points": 20.0,
+      "description": "Introduction is confident, polished, and immediately engaging."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Applicant’s Appearance",
+      "max_points": 20.0,
+      "description": "Appearance is highly professional and enhances overall presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Personality and Poise",
+      "max_points": 20.0,
+      "description": "Displays strong presence, sincerity, and poise throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Communication Skills",
+      "max_points": 20.0,
+      "description": "Communicates with clarity, warmth, and excellent verbal skills."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Responses",
+      "max_points": 20.0,
+      "description": "Responses are thoughtful, informed, and demonstrate enthusiasm and initiative."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Job Skills Evidence",
+      "max_points": 20.0,
+      "description": "Clearly showcases strong skills, problem-solving abilities, and professionalism."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Close of Interview",
+      "max_points": 20.0,
+      "description": "Concludes with confidence, professionalism, and a lasting positive impression."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 250.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 140.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary, or postsecondary contestant may enter this event.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Contestants who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified."
+  ],
+  "keywords": [
+    "virtual interview",
+    "digital portfolio",
+    "resume",
+    "cover letter",
+    "job search",
+    "professional skills",
+    "presentation",
+    "employability",
+    "technical writing",
+    "career readiness"
+  ]
+}

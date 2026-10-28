@@ -1,0 +1,59 @@
+{
+  "summary": "Contestants demonstrate practical knowledge of C# development by completing programming tasks using core syntax, logic, application design, and IDE tools in a Windows environment. The event includes a timed test and, at NLC, a certification exam in IT Specialist - Software Development. Participants must bring their own equipment and reference materials as specified.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than ten (10) minutes orientation",
+    "No more than ninety (90) minutes testing time",
+    "No more than ten (10) minutes wrap-up",
+    "No more than fifty (50) minutes for certification test"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials",
+    "Computer or laptop/notebook (USB-Type A or adapter required)",
+    "A full-size keyboard may be used (no printer is needed)",
+    "Supporting equipment (extension cords, etc.)",
+    "Contestant must use one of these IDEs: Visual Studio 2022, Visual Studio Code, VSCode",
+    "Only pre-written code that is hard copied is allowed"
+  ],
+  "competencies": [
+    "Apply object-oriented programming principles and structured design techniques, along with efficient algorithms, to design, implement, and maintain scalable, reusable software solutions",
+    "Demonstrate foundational understanding of computer science concepts and proficiency in at least one modern programming language",
+    "Create and interpret UML diagrams to model software architecture and communicate design decisions within development teams",
+    "Use Entity Framework Core to design, query, and manage relational databases through object-relational mapping (ORM) techniques that support scalable application development",
+    "Write expressive, efficient data queries using LINQ and lambda expressions to manipulate collections, interact with databases, and simplify complex logic within .NET applications",
+    "Demonstrate proficiency in developing C# Windows Desktop Programming, emphasizing Windows Forms, WPF, OOP, collections, file access, debugging, and desktop UI design",
+    "Develop and maintain applications using updated .NET 6+ platform features, including performance enhancements, minimal APIs, modern runtime capabilities, and streamlined deployment workflows"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: application",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the contestant and within the time allotted",
+    "Business Professionals of America assumes no responsibility for hardware/software provided by the contestant",
+    "No equipment, supplies or materials other than those specified for the event will be allowed in the testing area",
+    "Previous Business Professionals of America tests and/or sample tests (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification",
+    "Reference materials are not allowed for certification testing"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this application event",
+    "Entries vary by state"
+  ],
+  "keywords": [
+    "C#",
+    "programming",
+    "Windows",
+    "Visual Studio",
+    "application development",
+    ".NET",
+    "Entity Framework",
+    "LINQ",
+    "UML",
+    "IT Specialist certification"
+  ]
+}

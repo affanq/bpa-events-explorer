@@ -1,0 +1,93 @@
+{
+  "summary": "Contestants will draw two business-related topics, select one, and prepare a speech with no prior knowledge of the topic. They have up to ten minutes to prepare and must deliver a speech lasting three to five minutes, using only provided notecards. The speech is judged on delivery, organization, effectiveness, and adherence to event rules.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than ten (10) minutes preparation",
+    "No less than three (3) and no more than five (5) minutes speech",
+    "SPEECH WILL BE STOPPED AT FIVE (5) MINUTES"
+  ],
+  "submission_requirements": [
+    "Speech delivered orally",
+    "Notes can only be made on the notecards provided",
+    "No materials or previously prepared notes allowed into the preparation or presentation room",
+    "No personal electronic devices (smart watches, smart glasses, cell phone, etc.)"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Sharpened pencils",
+    "Pens"
+  ],
+  "competencies": [
+    "Demonstrate clear, professional, and effective oral communication when presenting ideas",
+    "Organize the speech using a clear introduction, body, and conclusion to create a coherent message",
+    "Use appropriate tempo, pitch, and vocal variety to enhance clarity and audience engagement",
+    "Use purposeful nonverbal gestures, posture, and eye contact to support confident delivery",
+    "Analyze the assigned topic quickly and develop key points supported by logical reasoning, examples, and relevant business insights",
+    "Adapt tone, language, and delivery to meet audience expectations",
+    "Use effective opening and closing statements to strengthen the overall message",
+    "Demonstrate professionalism, confidence, and ethical communication while presenting under pressure"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": "If any question results in a NO, please assign a score of 0. If no to the question, please stop scoring and provide a brief reason for the disqualification:"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 20.0,
+      "description": "Speaker maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 20.0,
+      "description": "The speech content flows adequately, with a mostly clear structure and smooth transitions between points."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Effectiveness",
+      "max_points": 50.0,
+      "description": "The speech comprehensively addresses the topic with a clear and focused approach. It includes relevant information that directly relates to the context given. The purpose of the speech (to decide, to impress, to inform, to persuade) is effectively achieved with clarity and impact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "The speech lasted no less than three (3) minutes and no more than five (5) minutes and the contestant did not use any materials other than those specified."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Finals may be part of the competition",
+    "The contestant will be given warnings via flash cards when there are two (2) minutes remaining and when there is (1) minute remaining during the speaking time"
+  ],
+  "eligibility_notes": [
+    "Any postsecondary division contestant may enter this judged event.",
+    "The event may be repeated.",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "speech",
+    "oral presentation",
+    "business topics",
+    "communication",
+    "public speaking",
+    "postsecondary",
+    "judged event",
+    "organization",
+    "delivery",
+    "contemporary issues"
+  ]
+}

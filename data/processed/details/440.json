@@ -1,0 +1,212 @@
+{
+  "summary": "Teams of 2-4 secondary division students create a 3D computer animation (up to 2 minutes) visualizing a new non-profit animal shelter, including storyboard and concept art/prototype. The animation must show exterior, interior, and outdoor spaces, and demonstrate how the shelter serves animals and the community. Teams present their project live and answer judges’ questions.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit the following in one combined PDF: Clickable URL to 3D Animation, Storyboard, Concept Art/Prototype, Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "Saved file name: 3DCAT-TeamID.pdf",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Cite all sources on the Works Cited page",
+    "Secure a signed BPA Release Form(s) from any person whose image or work is used in the project"
+  ],
+  "presubmit_items": [
+    "Clickable URL to 3D Animation",
+    "Storyboard",
+    "Concept Art/Prototype",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m Eastern Time"
+  ],
+  "what_to_bring": [
+    "Optional - Students may use one single-sided laptop, notebook, or tablet for their presentation",
+    "Optional - Props"
+  ],
+  "competencies": [
+    "Utilize industry-standard editing and 3-D animation software and develop animations through storyboarding and scripting tools to ensure clear narrative structure, timing, and alignment with project objectives",
+    "Apply color grading, realistic textures, and dynamic special effects using modern digital tools to enhance visual impact, depth, and storytelling in multimedia projects",
+    "Incorporate seamless transitions, audio editing, lighting effects, and strategic placement of titles and graphics to enhance narrative flow and branding in multimedia projects",
+    "Apply audience analysis and design principles & elements to develop multimedia content that is relevant and engaging for defined target groups across platforms"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted the correct information, in the correct format, as one (1) PDF file: 1. Clickable URL to 3D Animation 2. Storyboard 3. Concept Art/Prototype 4. Works Cited 5. BPA Release Form(s) 6. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Originality of Assets",
+      "max_points": 30.0,
+      "description": "Predominantly original assets, creatively designed and well-integrated into the project."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Attention to Detail in Modeling",
+      "max_points": 30.0,
+      "description": "Models show exceptional craftsmanship, detail, and technical skill throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Camera & Transitions",
+      "max_points": 30.0,
+      "description": "Camera work, timing, and transitions are dynamic, and polished, and enhance storytelling and clarity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Animation & Movement",
+      "max_points": 30.0,
+      "description": "Strong, consistent use of multiple animation principles, resulting in a fluid, lifelike, and engaging motion throughout. Animation principles such as: Squash & Stretch, Anticipation, Slow-In/Slow-Out, and Secondary Actions are evident."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Planning & Execution",
+      "max_points": 30.0,
+      "description": "Concept art and storyboards are detailed, and creative, and clearly guide the final animation’s vision."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Impact",
+      "max_points": 30.0,
+      "description": "Animation is highly engaging, polished, and memorable. Stands out for creativity and execution."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting Quality",
+      "max_points": 30.0,
+      "description": "Lighting is dynamic and effectively enhances atmosphere, focus, and storytelling throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality",
+      "max_points": 30.0,
+      "description": "Audio is exceptionally clear, and well-mixed, and enhances mood, storytelling, and transitions."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Scene Transitions",
+      "max_points": 30.0,
+      "description": "All transitions are seamless, and polished, and support the project’s narrative flow."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "The text is clean, polished, and free of grammar, spelling, and punctuation errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, use appropriate gestures and body language, and vary their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the team within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Only the team captain should complete the submission",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary division contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries",
+    "SECONDARY EVENT ONLY"
+  ],
+  "keywords": [
+    "3D animation",
+    "team event",
+    "animal shelter",
+    "storyboard",
+    "concept art",
+    "multimedia",
+    "visual storytelling",
+    "presentation",
+    "secondary division",
+    "BPA"
+  ]
+}

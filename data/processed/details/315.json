@@ -1,0 +1,52 @@
+{
+  "summary": "Contestants demonstrate foundational knowledge of network administration in a Cisco environment by configuring, managing, and securing network devices and architectures. The event includes an objective test, and at Nationals, a certification exam and a performance component. Contestants may use reference materials for some portions, but not for certification testing.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "Preliminaries - No more than sixty (60) minutes for objective test",
+    "Preliminaries (Nationals only) - No more than sixty (60) minutes for objective test, no more than fifty (50) minutes for certification test, and no more than sixty (60) minutes for performance component",
+    "Finals (Nationals only) - No more than sixty (60) minutes for performance component"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials, including hands-on tasks"
+  ],
+  "competencies": [
+    "Design, configure, secure, and optimize routing, switching, VLANs, and First Hop Redundancy Protocols (FHRP) to ensure efficient, segmented, and highly available enterprise networks",
+    "Design and implement scalable LAN/WAN topologies using advanced routing, switching, and security protocols to support resilient and secure network infrastructures",
+    "Configure and manage NAT, IPv4/IPv6 addressing, and access control lists (ACLs) to secure and control network traffic in modern environments",
+    "Implement network management solutions to monitor, analyze, and maintain network health, performance, and security",
+    "Explain the fundamentals of Software-Defined Networking (SDN) and how centralized control, programmability, and abstraction improve network flexibility, automation, and security",
+    "Use network automation tools to streamline configuration, reduce errors, and improve efficiency in managing network devices and services",
+    "Configure wireless LAN controllers (WLCs) to manage access points, apply wireless policies, and ensure secure, scalable, and high-performance wireless network operations",
+    "Plan and deploy wireless access points by analyzing coverage needs, interference, capacity requirements, and best-practice placement to support reliable and efficient wireless connectivity"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "Previous Business Professionals of America tests and/or sample tests (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification.",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed for certification testing",
+    "Scores from the preliminary round and the objective test will not carry over to the finals"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Entries vary by state"
+  ],
+  "keywords": [
+    "Cisco",
+    "network administration",
+    "routing",
+    "switching",
+    "VLAN",
+    "LAN/WAN",
+    "security",
+    "wireless",
+    "certification",
+    "objective test"
+  ]
+}

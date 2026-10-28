@@ -1,0 +1,280 @@
+{
+  "summary": "Teams of 2-4 students design and develop an original endless runner video game titled 'Afterburn,' set in a futuristic city. They submit game source code, art and audio assets, a Game Manual, and a functional executable, along with required documentation, for virtual judging. Finalists present their project to judges at a videoconference and may be recognized at the National Leadership Conference.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing the URL to Project Files (game source code, art and audio assets, game manual, and functional game), Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name must be V03-TeamID.pdf",
+    "Submission must be uploaded to https://upload.bpa.org"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Project Files (game source code, art and audio assets, game manual, and functional game)",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National submission deadline is January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Design and develop an original endless-runner video game that meets the requirements of the assigned topic, applying core game development principles across code, content, and design",
+    "Implement core game architecture, including the game loop, state management (menus, gameplay, pause, game over, restart), and persistent data for high scores, unlocked gadgets, and player settings",
+    "Apply game-specific mathematics and logic, including coordinate systems, vector movement, physics, collision detection, and basic AI behavior for obstacles and non-player characters",
+    "Design and implement procedural generation systems that produce varied, fair, and well-paced runs aligned with the topic’s endless-runner format",
+    "Develop and tune core player mechanics (dash, jump, slide, boost, gadget use) so they feel responsive, learnable, and consistent with the topic",
+    "Create or curate cohesive game art, animation, and visual effects that establish a clear art direction and support gameplay readability",
+    "Design and implement audio for the game, including sound effects, music, and audio feedback that reinforce game feel and atmosphere",
+    "Design user interface and user experience elements (menus, HUD, onboarding) that clearly communicate vital information during fast-paced gameplay",
+    "Balance gameplay difficulty, pacing, and progression to deliver a fair, engaging, and re-playable experience",
+    "Apply object-oriented or component-based design, code documentation, and performance optimization techniques appropriate to game development",
+    "Evaluate project requirements and delegate responsibilities effectively within a team, managing scope, scheduling, and collaborative development across disciplines (code, art, audio, design)",
+    "Apply structured problem-solving and critical thinking to identify, analyze, and resolve technical and design challenges throughout development",
+    "Document the project clearly, including a Game Manual covering controls, mechanics, features, and build/launch instructions"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submission includes a game source code, art and audio assets, a Game Manual, and a functional, executable version of the game.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing the URL to the Project, Works Cited (formatted according to the Style & Reference Manual), BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Core Run Mechanics (Dash, Jump, Slide)",
+      "max_points": 30.0,
+      "description": "Core actions are tight, responsive, and well-tuned. Movement feels intentional and matches the high-speed endless-runner energy described in the topic."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Procedural Level / Route Generation",
+      "max_points": 30.0,
+      "description": "Route generation produces unique, well-paced runs every time. Obstacle density, spacing, and difficulty curve feel deliberate and varied."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Obstacle & Hazard Design",
+      "max_points": 30.0,
+      "description": "A varied roster of obstacle types tied to the topic is present, each with clear visual telegraphing and fair, consistent collision behavior."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Power Crystals & Gadget Unlocks",
+      "max_points": 30.0,
+      "description": "Crystal collection, fuel/energy management, and gadget unlocks form a cohesive, satisfying progression loop directly aligned with the topic."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Game Loop & State Management",
+      "max_points": 25.0,
+      "description": "Game loop is well-architected. State transitions (menu, play, pause, game over, restart) are clean, deterministic, and easy to follow in code."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Object-Oriented / Modular Design",
+      "max_points": 25.0,
+      "description": "Code shows thoughtful OOP or component-based design with strong cohesion, clear responsibilities, and effective use of inheritance/composition where appropriate."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Performance & Frame Rate",
+      "max_points": 25.0,
+      "description": "Game consistently meets or exceeds 30 FPS, including during heavy procedural generation. Demonstrates clear optimization (pooling, culling, asset management)."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Code Documentation & Readability",
+      "max_points": 25.0,
+      "description": "Code is well-documented with clear comment blocks on classes, key methods, and non-obvious logic. Naming, formatting, and structure consistently aid understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Art Direction & Visual Cohesion",
+      "max_points": 20.0,
+      "description": "Art direction is cohesive, intentional, and clearly communicates the futuristic-city setting. Color, scale, and style work together to support gameplay readability."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Character & Object Animation",
+      "max_points": 20.0,
+      "description": "Animations are smooth, expressive, and clearly communicate every player action and obstacle behavior. Transitions feel polished and reinforce game feel."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Effects & Game Feel",
+      "max_points": 20.0,
+      "description": "Effects enhance game feel meaningfully — collecting, crashing, and boosting all have satisfying, readable visual feedback that elevates the experience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Sound Effects",
+      "max_points": 20.0,
+      "description": "Sound effects are well-mixed, well-timed, and clearly reinforce player actions, hazards, pickups, and outcomes."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Music & Audio Atmosphere",
+      "max_points": 20.0,
+      "description": "Music is original or well-licensed, fits the futuristic-city energy of the topic, and transitions smoothly across menu and gameplay states."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Menus & In-Game HUD",
+      "max_points": 25.0,
+      "description": "Menus and HUD are clean, readable, and well-organized. Vital gameplay information is communicated clearly at a glance during fast-paced runs."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Onboarding, Save Data & Progression Persistence",
+      "max_points": 25.0,
+      "description": "Onboarding clearly teaches mechanics, and persistent data (high scores, unlocked gadgets, settings) reliably saves and loads across sessions."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Stability & Error Handling",
+      "max_points": 15.0,
+      "description": "Game runs stably across a full session. Exceptions are caught gracefully, edge cases are handled, and any errors are communicated cleanly to the player."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Balance & Difficulty Curve",
+      "max_points": 15.0,
+      "description": "Difficulty curve is well-tuned. Each run feels fair, learnable, and steadily more challenging, encouraging mastery and replay."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Design & Development Process",
+      "max_points": 10.0,
+      "description": "Process is clearly explained with insight into design decisions and iteration."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Game Design & Mechanics",
+      "max_points": 10.0,
+      "description": "Mechanics are clearly explained, well-integrated, and demonstrate deliberate design tied to the topic."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Art, Animation & Visual Style",
+      "max_points": 10.0,
+      "description": "Art direction, animation, and visual style are clearly explained, justified, and tied to the game's identity."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Audio & Sound Design",
+      "max_points": 10.0,
+      "description": "Audio choices are clearly explained and shown to reinforce game feel, atmosphere, and player feedback."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Level / Procedural Generation Approach",
+      "max_points": 10.0,
+      "description": "Approach is clearly explained, technically sound, and demonstrates intentional design choices for variety, pacing, and fairness."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Technical Architecture & Implementation",
+      "max_points": 10.0,
+      "description": "Team clearly explains architecture, key systems, and tradeoffs, demonstrating strong technical understanding of their build."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Contribution to Development",
+      "max_points": 10.0,
+      "description": "Each team member clearly describes their contribution; the team demonstrates strong, balanced collaboration."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation Quality, Q&A and Style",
+      "max_points": 10.0,
+      "description": "Presentation is polished, engaging, and professionally delivered; responses to judges are confident and show strong understanding."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Set up lasted no longer than three (3) minutes and the presentation lasted no more than ten (10) minutes.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "At least two original members of the team in attendance at the time of the presentation.",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": 500.0,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 400.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2-4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines will be disqualified.",
+    "Contestant ID is required for all submissions. Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible.",
+    "Only the team captain should complete the submission."
+  ],
+  "keywords": [
+    "game development",
+    "endless runner",
+    "virtual event",
+    "team project",
+    "procedural generation",
+    "art and animation",
+    "audio design",
+    "UI/UX",
+    "code quality",
+    "presentation"
+  ]
+}

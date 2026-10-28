@@ -1,0 +1,245 @@
+{
+  "summary": "Contestants will develop a mobile application titled SafelyGo to promote student safety on and around campus. The app must include features such as safety reporting, emergency contacts, location sharing, a live campus safety map, user registration, account recovery, an admin panel, database integration, and at least one API. Submissions are made virtually and include a URL, written description, source code, screenshots, works cited, release forms, and AI documentation.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing the mobile application, written description of the project and details of a design concept, source code, application screenshots, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and the AI Usage and Documentation Form",
+    "Contestant ID is required for all submissions",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "A clickable URL to the mobile application",
+    "Written description of the project and details of a design concept",
+    "Source code",
+    "Application screenshots",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National Deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Implement system analysis and design concepts to plan, structure, and guide the architecture of a mobile application",
+    "Develop a comprehensive project plan and timeline to manage all phases of the mobile application development lifecycle",
+    "Demonstrate knowledge of program implementation, testing, and deployment processes, including strategies for identifying and resolving technical issues",
+    "Apply Google Android® or Apple iOS® platform-specific programming languages, tools, and techniques to develop a functional mobile application",
+    "Demonstrate proficiency in core programming language concepts — including object-oriented, structured, and procedural techniques — applying variables, assignment statements, mathematical operators, decision-making controls, and iterative structures to implement application logic",
+    "Design a graphical user interface (GUI) for a mobile device by applying design and color principles, incorporating user input controls, icons, images, and other graphic elements to create an intuitive and visually consistent user experience",
+    "Employ database skills and applied programming techniques — including data management, sequential file access, I/O operations, and internal and external function and/or procedure calls — to handle and persist in application data",
+    "Integrate external Application Programming Interfaces (APIs) to extend application functionality and connect to third-party data sources and services",
+    "Apply internal programming documentation standards to ensure code clarity, maintainability, and long-term readability"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted one (1) combined PDF file containing the mobile application, written description of the project and details of a design concept, source code, application screenshots and Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s) and the AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "User Interface",
+      "max_points": 20.0,
+      "description": "Consistently accurate and polished use of grammar, spelling, punctuation, and usage; enhances clarity and professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Consistently accurate and polished use of grammar, spelling, punctuation, and usage; enhances clarity and professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Originality & Innovation",
+      "max_points": 20.0,
+      "description": "Work is highly original, distinctive, and demonstrates exceptional innovation and creativity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Mobile Optimization",
+      "max_points": 20.0,
+      "description": "Design is fully optimized for mobile; intuitive layout, excellent readability, and seamless responsiveness."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Design Elements",
+      "max_points": 20.0,
+      "description": "Design elements are expertly integrated; color, typography, and graphics enhance aesthetics and elevate the overall impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Platform Compliance",
+      "max_points": 20.0,
+      "description": "Design fully complies with platform guidelines; interface is polished, intuitive, and enhances user experience through thoughtful adherence."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Clarity & Simplicity",
+      "max_points": 20.0,
+      "description": "Interface is exceptionally intuitive and streamlined; clarity and simplicity enhance usability and user satisfaction."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Platform Usage",
+      "max_points": 20.0,
+      "description": "Application is well-integrated and optimized for one or both permitted platforms, demonstrating thoughtful use of platform-specific features."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Code Quality",
+      "max_points": 20.0,
+      "description": "Code is clean, well-structured, and follows best practices for readability and maintainability."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Object-Oriented Design",
+      "max_points": 20.0,
+      "description": "Code shows strong OOP skills with thoughtful use of design patterns for structure and scalability."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Database Integration",
+      "max_points": 20.0,
+      "description": "Code integrates the database effectively with secure handling, efficient queries, and well-designed schemas."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Code Documentation",
+      "max_points": 20.0,
+      "description": "Code is clearly documented; comments support readability, maintainability, and collaboration."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Device Deployment",
+      "max_points": 20.0,
+      "description": "The application is fully deployed and optimized for mobile, with smooth performance and seamless integration."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Database Functionality",
+      "max_points": 20.0,
+      "description": "Application reliably and efficiently interacts with the database; data retrieval is accurate, fast, and supports user needs seamlessly."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Consistently accurate and polished use of grammar, spelling, punctuation, and usage; enhances clarity and professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Project Planning",
+      "max_points": 20.0,
+      "description": "Plan is thorough, well-structured, and proactive; includes detailed milestones, contingency strategies, and clear accountability to ensure timely completion."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Development/Design Process",
+      "max_points": 20.0,
+      "description": "Contestant provides a clear, thorough, and insightful explanation of the development and design process; demonstrates deep understanding and thoughtful reflection."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Application Demonstration",
+      "max_points": 20.0,
+      "description": "Demonstration is clear, engaging, and thorough; user interface is used effectively to showcase functionality and user experience."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Logical Design & Patterns",
+      "max_points": 20.0,
+      "description": "Contestant provides a clear, insightful explanation of the logical design and thoughtfully discusses the use and benefits of design patterns."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Code Functionality",
+      "max_points": 20.0,
+      "description": "Confidently explains code structures and their role in functionality and design."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Interview Responses",
+      "max_points": 20.0,
+      "description": "Contestant responds confidently and thoughtfully, showing deep understanding and engaging with questions insightfully."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation Style",
+      "max_points": 20.0,
+      "description": "Presentation is clear, engaging, and professionally delivered to support audience understanding."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 310.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 130.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Contestants who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation policy will be disqualified.",
+    "Contestant ID is required for all submissions. Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "mobile app",
+    "Android",
+    "iOS",
+    "campus safety",
+    "database",
+    "user registration",
+    "API integration",
+    "application development",
+    "virtual event",
+    "presentation"
+  ]
+}

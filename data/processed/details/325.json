@@ -1,0 +1,251 @@
+{
+  "summary": "Teams analyze a business scenario and develop a comprehensive network design proposal for an esports organization expanding to new arenas. The project includes a written report and a presentation, covering network architecture, segmentation, centralized management, security, scalability, streaming integration, and financial analysis. Teams must submit their proposal before the deadline and present their solution to judges, responding to questions and revising their presentation based on an additional scenario element.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes setup in presentation room",
+    "No more than ten (10) minutes presentation time",
+    "No more than ten (10) minutes of judges’ questions",
+    "No more than thirty (30) minutes preparation time at state and national level only"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing Written Proposal, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "Saved File Name: NDT-TeamID.pdf"
+  ],
+  "presubmit_items": [
+    "Written Proposal",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials",
+    "Laptop/notebook computer (each team contestant may have one laptop)",
+    "Portable printer",
+    "Software",
+    "Paper and supporting equipment (extension cords, etc.)",
+    "One single-sided laptop, notebook, or tablet for presentation"
+  ],
+  "competencies": [
+    "Design, implement, and optimize network solutions, including routing strategies and VPNs, to meet organizational requirements for performance, security, and scalability",
+    "Design and document network cable topologies and create detailed network diagrams using industry-standard tools to support communication, troubleshooting, and future planning",
+    "Assess end-user requirements, plan resource placement, evaluate centralized or decentralized strategies, and incorporate scalability for future expansion in network designs",
+    "Design and implement redundancy and secure remote access solutions to ensure network availability and support distributed workforces",
+    "Evaluate project requirements, delegate responsibilities, and analyze technical support structures to ensure effective team collaboration and network maintenance",
+    "Apply analytical and problem-solving techniques to resolve complex networking challenges and optimize protocols, infrastructure, and host configurations",
+    "Assess organizational risk tolerance and develop multiple technical recommendations for networking scenarios to support informed decision-making",
+    "Prepare and present business reports that communicate technical findings, recommendations, and project outcomes to stakeholders",
+    "Design and evaluate SD-WAN architectures to improve application performance, enhance network reliability, and support secure connectivity across distributed enterprise environments",
+    "Incorporate zero-trust networking principles—including identity-based access, continuous verification, and micro-segmentation—into network designs to strengthen security and limit attack surfaces",
+    "Design wireless LAN controller (WLC) architectures and plan access point deployment strategies to ensure scalable, high-performance, and centrally managed wireless networks",
+    "Design and integrate cloud networking solutions by evaluating connectivity options, security models, and resource placement to support hybrid, multi-cloud, and cloud-native infrastructures"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing their Written Proposal, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Customer Profile",
+      "max_points": 20.0,
+      "description": "Thorough and insightful; customer needs and context well-defined."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Objectives",
+      "max_points": 20.0,
+      "description": "Strategic and impactful; objectives show depth and foresight."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Abstract of Implementation",
+      "max_points": 20.0,
+      "description": "Exceptionally clear and well-structured; shows strong understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Explanation of Products/Services",
+      "max_points": 20.0,
+      "description": "Detailed and compelling; clearly demonstrates value."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Clarity of Message",
+      "max_points": 20.0,
+      "description": "Message is compelling, creative, and perfectly aligned with topic."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Short- and Long-Range Goals",
+      "max_points": 20.0,
+      "description": "Goals are strategic, ambitious, and well-supported."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Financial Analysis",
+      "max_points": 20.0,
+      "description": "Detailed, accurate, and insightful financial planning."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Supporting Documentation",
+      "max_points": 20.0,
+      "description": "Comprehensive, well-organized, and enhances understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Innovation of Solution",
+      "max_points": 20.0,
+      "description": "Highly innovative; fresh, unique, and creative approach."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design & Deployment Specifications",
+      "max_points": 50.0,
+      "description": "Detailed and technically sound; exceeds expectations."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Network Structure & Setup",
+      "max_points": 20.0,
+      "description": "Robust and scalable setup; clearly supports requirements."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Bandwidth Tiers & Services",
+      "max_points": 20.0,
+      "description": "Clearly defined tiers; tailored to customer needs."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Scalability & Quality of Service",
+      "max_points": 20.0,
+      "description": "Strong emphasis on scalability, QoS, and future-proofing."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Value-Added Services",
+      "max_points": 20.0,
+      "description": "Creative and strategic enhancements that differentiate solution."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 340.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the allotted time for orientation/warm-up",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Business Professionals of America assumes no responsibility for hardware/software provided by the Contestant",
+    "No equipment, supplies or materials other than those specified for the event will be allowed in the testing area",
+    "No personal electronic devices (smart watches, smart glasses, cell phone, etc.) — other than the laptop, notebook, or tablet approved for the presentation.",
+    "No previous Business Professionals of America tests (handwritten, photocopied, or keyed) may be taken into the testing area. Violation of this rule will result in disqualification.",
+    "At the state and national levels, teams will be given an additional element to the original scenario to address during the presentation. These added elements are specific to the level of competition and are not connected to or carried over from previous competitions",
+    "Cell phones may not be used in the preparation room",
+    "No advisor contact will be allowed between the time of receiving the additional element and the delivery of the presentation",
+    "Only team-prepared graphics may be used in the design. Originality and effectiveness will be given greater consideration",
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event.",
+    "A team will consist of 2-4 contestants.",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified.",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "network design",
+    "team event",
+    "esports",
+    "network architecture",
+    "VLAN",
+    "SD-WAN",
+    "firewall",
+    "QoS",
+    "redundancy",
+    "presentation"
+  ]
+}

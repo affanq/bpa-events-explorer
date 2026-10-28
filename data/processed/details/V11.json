@@ -1,0 +1,263 @@
+{
+  "summary": "Teams of 2-4 students create a 2D computer animation, 1:30 to 2:30 minutes long, telling a story of an object or character that becomes lost, finds its way back, and is changed by the journey. The project includes a storyboard, concept art, works cited, release forms, and AI usage documentation, all submitted in a single PDF. Teams present their work virtually to judges and answer questions about their process.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Animation must be at least 1:30 and not exceed 2:30 minutes",
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing URL to 2D Animation, Storyboard, Concept Art/Prototype, Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "Submission must be uploaded to https://upload.bpa.org",
+    "File name must be V11-TeamID.pdf",
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing team ID cannot be accepted"
+  ],
+  "presubmit_items": [
+    "Clickable URL to 2D Animation",
+    "Storyboard",
+    "Concept Art/Prototype",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National submission deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Demonstrate proficiency in industry-standard editing software applications to execute all phases of the 2-dimensional animation production process",
+    "Develop and sequence animation within a storyboard to communicate a clear and intentional visual narrative",
+    "Apply color theory, artistic effects, textures, and special effects to enhance the visual quality and creative impact of animated content",
+    "Demonstrate knowledge of transitions, audio, lighting effects, and the proper placement of titles and visual effects to produce a polished, professional final product",
+    "Demonstrate an understanding of audience analysis by designing and delivering a final animated product that effectively communicates to a defined target audience"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team used 2D Animation Software.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing URL to 2D Animation, Storyboard, Concept Art/Prototype Works Cited according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Asset Creation",
+      "max_points": 20.0,
+      "description": "Assets are primarily original and demonstrate creativity and effort in design."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Attention to Animation Detail",
+      "max_points": 20.0,
+      "description": "Animation is highly refined, with exceptional attention to detail and technique."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical Execution",
+      "max_points": 20.0,
+      "description": "Camera work, timing, and transitions are expertly executed and enhance the project’s impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Squash and Stretch",
+      "max_points": 20.0,
+      "description": "Movement uses squash and stretch expertly to convey weight, volume, and impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Anticipation",
+      "max_points": 20.0,
+      "description": "Anticipation is used effectively and creatively to enhance timing and viewer engagement."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Staging",
+      "max_points": 20.0,
+      "description": "Staging is highly effective, enhancing clarity, emotion, and storytelling."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Slow-In and Slow-Out",
+      "max_points": 20.0,
+      "description": "Movements are fluid and lifelike, with expertly applied slow-in and slow-out."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Secondary Actions",
+      "max_points": 20.0,
+      "description": "Secondary actions are thoughtfully integrated, adding depth and realism to the animation."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Execution of Plan",
+      "max_points": 20.0,
+      "description": "Concept art and storyboard are highly intentional, detailed, and creatively aligned with project goals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Originality",
+      "max_points": 20.0,
+      "description": "Animation is highly original, expressive, and showcases fresh, innovative ideas."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Impact & Purpose",
+      "max_points": 20.0,
+      "description": "Animation is highly engaging, entertaining, and leaves a lasting impression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting Use",
+      "max_points": 20.0,
+      "description": "Lighting is used creatively and effectively to elevate the visual storytelling."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality & Sync",
+      "max_points": 20.0,
+      "description": "Audio is crisp, perfectly timed, and enhances the overall experience seamlessly."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Transitions",
+      "max_points": 20.0,
+      "description": "Transitions are expertly crafted, enhancing the pacing and visual continuity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Final animation made effective use of time and was within the contest time limit of 1:30 to 2:30 minutes in length.",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Stage Presence",
+      "max_points": 20.0,
+      "description": "Team is highly confident, expressive, and fully engages the audience throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Explanation of Development & Design",
+      "max_points": 20.0,
+      "description": "Thoroughly explains and connects all phases of development to project objectives."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Technology & Techniques",
+      "max_points": 20.0,
+      "description": "Provides detailed, insightful explanation of innovative tools and techniques used."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Media Elements & Assets",
+      "max_points": 20.0,
+      "description": "Offers a comprehensive and engaging explanation of asset creation and integration."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Roles",
+      "max_points": 20.0,
+      "description": "Provides a thoughtful and detailed explanation of team collaboration and responsibilities."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Oral Presentation Quality/Style & Effectiveness",
+      "max_points": 20.0,
+      "description": "Presentation style is polished, dynamic, and powerfully enhances audience understanding and engagement."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 20.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 330.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 155.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "If any required element is answered NO, assign a score of 0 and provide a brief reason for the disqualification.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2-4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "2D animation",
+    "team event",
+    "storyboard",
+    "concept art",
+    "audio sync",
+    "virtual competition",
+    "presentation",
+    "original assets",
+    "animation techniques",
+    "AI usage"
+  ]
+}

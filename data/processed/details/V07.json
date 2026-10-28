@@ -1,0 +1,143 @@
+{
+  "summary": "Contestants demonstrate their knowledge of cybersecurity and digital forensics by completing an objective test and Capture the Flag activities. The top 20 advance to create and present a multimedia presentation on tracing crime through cryptocurrency, which is judged on technical content and presentation skills.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "Round 1: 50-question objective test, no more than sixty (60) minutes",
+    "Presentation: three (3) minutes for setup, no more than ten (10) minutes for the presentation, and no more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at seven (7) minutes"
+  ],
+  "submission_requirements": [
+    "Contestant ID is required for all submissions",
+    "Materials from non-registered members and/or those missing Contestant ID cannot be accepted",
+    "Contestant is responsible for securing a BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "Contestant is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [],
+  "deadlines": [
+    "The registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Identify and assess security threats, applying layered security tactics to prevent, detect, and respond to external attacks",
+    "Demonstrate knowledge of infrastructure security and organizational security principles to safeguard systems, data, and operations at both a technical and policy level",
+    "Apply cryptography, access control, and authentication techniques to protect data integrity, confidentiality, and system access",
+    "Harden Windows, Linux, and network devices and services by applying security best practices and configuration controls to reduce vulnerabilities",
+    "Demonstrate knowledge of TCP/IP, network defense fundamentals, and wireless technologies to secure and monitor network communications",
+    "Develop and implement security policies, conduct risk analysis, and configure router and access control lists to establish and enforce organizational security standards",
+    "Demonstrate knowledge of Internet security issues and biometrics as they apply to identity verification and web-based threat mitigation",
+    "Manage certificates and monitor security infrastructure to maintain compliance, ensure system integrity, and respond to emerging threats"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": 0.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": 0.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Opening & Summary",
+      "max_points": 20.0,
+      "description": "The introduction is engaging and well-structured, and the summary provides a clear, insightful wrap-up that reinforces key findings."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Stated Objectives",
+      "max_points": 20.0,
+      "description": "Objectives are precise, well-articulated, and demonstrate a strong understanding of the project’s purpose."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Use of Technical Language",
+      "max_points": 20.0,
+      "description": "Technical terms are used accurately and effectively, with clear explanations that enhance communication and demonstrate depth of knowledge."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 20.0,
+      "description": "Demonstrates strong understanding with consistently accurate, detailed, and insightful content."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Visual Design & Communication",
+      "max_points": 20.0,
+      "description": "Typography and graphics are thoughtfully designed, enhancing both clarity and the progression of ideas."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Data Visualization",
+      "max_points": 20.0,
+      "description": "Charts and graphs are well-integrated, visually clear, and enhance understanding through effective data presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Verbal Delivery",
+      "max_points": 20.0,
+      "description": "Voice is confident and engaging, with precise diction that enhances clarity and professionalism."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presence & Engagement",
+      "max_points": 20.0,
+      "description": "Shows strong presence with confident delivery, assertive communication, and engaging eye contact that supports audience connection."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Theme Development",
+      "max_points": 40.0,
+      "description": "The theme is thoroughly developed with strong coherence, depth, and consistent alignment to the topic."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges Questions",
+      "max_points": 40.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than seven (7) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 250.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at seven (7) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Contestants who do not submit an entry following the topic listed or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "cybersecurity",
+    "digital forensics",
+    "cryptocurrency",
+    "blockchain",
+    "presentation",
+    "objective test",
+    "capture the flag",
+    "network security",
+    "AI policy",
+    "BPA virtual event"
+  ]
+}

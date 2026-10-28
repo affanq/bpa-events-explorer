@@ -1,0 +1,61 @@
+{
+  "summary": "Contestants demonstrate foundational knowledge of computer security by completing an objective test and, at Nationals, a certification exam and a performance component. The event covers identifying threats, securing systems, and applying cybersecurity principles in Windows and Linux environments.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "Preliminaries - No more than sixty (60) minutes for objective test",
+    "Preliminaries - (Nationals only) No more than sixty (60) minutes for objective test, no more than fifty (50) minutes for certification test, and no more than sixty (60) minutes for performance component",
+    "Finals - (Nationals only) No more than sixty (60) minutes for performance component"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials",
+    "(Optional) Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines. Contestants who violate this rule will be disqualified."
+  ],
+  "competencies": [
+    "Identify, assess, and mitigate security threats by deploying layered security tactics and managing inbound connections to prevent, detect, and respond to attacks",
+    "Develop, implement, and manage infrastructure security controls and organizational security policies to safeguard networks, systems, and data while ensuring compliance",
+    "Apply cryptography, encryption, authentication, and certificate management techniques while monitoring security infrastructure to protect data and detect incidents",
+    "Harden Windows®, Linux, and network devices by applying security best practices, updates, and configuration controls to reduce vulnerabilities and strengthen network defense",
+    "Secure and monitor TCP/IP and wireless networks by implementing encryption, authentication, and traffic analysis to prevent unauthorized access",
+    "Assess systems and networks to identify security vulnerabilities, evaluate potential threats, and prioritize mitigation strategies based on risk",
+    "Deploy and configure biometric authentication methods to strengthen identity verification and enhance access control",
+    "Identify and mitigate Internet security risks including malware, phishing, and web-based attacks while securing wireless networks for mobile and remote access",
+    "Configure and manage cloud Identity and Access Management (IAM) solutions to control permissions, enforce least-privilege access, and protect cloud-based resources across distributed environments",
+    "Explain and implement zero-trust architecture principles —including continuous verification, least-privilege access, and micro-segmentation—to strengthen security in modern, perimeter-less networks",
+    "Deploy and manage Endpoint Detection and Response (EDR) platforms to monitor, detect, and remediate threats on endpoints using behavioral analysis and automated response capabilities",
+    "Use Open-Source Intelligence (OSINT) methodologies to gather, analyze, and validate publicly available information for identifying potential threats, vulnerabilities, or indicators of compromise"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Previous Business Professionals of America tests and/or sample tests (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification.",
+    "At NLC, contestants will take IT Specialist - Cyber Security certification as part of the event. Contestants passing this certification will have 50 points added to their event score.",
+    "A Pearson profile must be created at https://certiport.pearsonvue.com before attending NLC",
+    "Contestants must include their BPA Contestant ID in their Pearson profile when they register",
+    "Certiport Parent/Legal Guardian Consent Form must be uploaded to: education@bpa.org",
+    "Reference materials are not allowed for certification testing",
+    "The top 10 contestants at Nationals will advance to a final round that includes a performance component. Scores from the preliminary round and the objective test will not carry over to the finals. Reference materials may be used during the application portion of the final round."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Entries vary by state"
+  ],
+  "keywords": [
+    "computer security",
+    "cybersecurity",
+    "Windows",
+    "Linux",
+    "objective test",
+    "certification",
+    "network security",
+    "threat detection",
+    "cloud security",
+    "BPA event"
+  ]
+}

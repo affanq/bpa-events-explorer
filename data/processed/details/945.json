@@ -1,0 +1,196 @@
+{
+  "summary": "Contestants develop a creative theme, design a logo, and create a promotional flyer to advertise their school or district's STEM Night & Innovation Showcase. All graphics must be original and computer generated, and contestants present their work to judges. Entries must follow strict submission guidelines and are evaluated on creativity, effectiveness, and presentation skills.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than five (5) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at five (5) minutes"
+  ],
+  "submission_requirements": [
+    "Submit at https://upload.bpa.org",
+    "All items saved as PDFs and bundled together in one PDF file",
+    "Contestant ID required for all submissions",
+    "No changes can be made to the project after the date of submission",
+    "Materials must follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Works Cited formatted according to the Style & Reference Manual",
+    "Signed BPA Release Form(s) required for any person whose image or work is used",
+    "AI Usage and Documentation Form required"
+  ],
+  "presubmit_items": [
+    "Logo",
+    "Flyer",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Submit to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation",
+    "Optional - Design printouts"
+  ],
+  "competencies": [
+    "Apply graphic design principles & elements including layout and typography to create a design aligned with brand",
+    "Use color theory, visual hierarchy, image editing and illustration techniques to create cohesive, theme-based designs",
+    "Prepare marketing materials optimized for print and digital platforms, ensuring color accuracy, resolution standards, and cross-platform compatibility",
+    "Develop and present concepts and artwork using industry-standard tools and platforms"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The following items have been saved as PDFs and bundled together in one PDF file. 1. Logo 2. Flyer 3. Works Cited (formatted according to the Style & Reference Manual) 4. BPA Release Form(s) 5. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Flyer Creativity",
+      "max_points": 20.0,
+      "description": "Highly imaginative and original."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Logo Creativity",
+      "max_points": 20.0,
+      "description": "Distinctive, original, and engaging."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Appeal",
+      "max_points": 20.0,
+      "description": "Eye-catching and professionally styled."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Theme Relevance",
+      "max_points": 20.0,
+      "description": "Strong, clear promotion of STEM Night & Innovation Showcase."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Effectiveness",
+      "max_points": 20.0,
+      "description": "Highly effective, motivational, and precise."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Consistency",
+      "max_points": 20.0,
+      "description": "Cohesive and well-integrated visuals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Graphic Standards Compliance",
+      "max_points": 20.0,
+      "description": "Fully compliant with all graphic standards."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design Layout",
+      "max_points": 20.0,
+      "description": "Design elements are strategically placed using rule of thirds and strong emphasis."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 15.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges’ questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 190.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and set-up of equipment must be done solely by the contestant within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "graphic design",
+    "logo design",
+    "flyer creation",
+    "STEM Night",
+    "innovation showcase",
+    "middle level",
+    "promotion",
+    "visual communication",
+    "presentation",
+    "BPA"
+  ]
+}

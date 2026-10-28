@@ -1,0 +1,221 @@
+{
+  "summary": "Teams of 2-4 students create and present a sports media marketing campaign for a rising young athlete, including a written plan and a short promotional teaser video. The campaign must analyze the target audience, competitive landscape, and propose strategies for brand growth, fan engagement, and sponsorships. Teams submit materials before the deadline and deliver a pitch presentation at the competition.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes setup",
+    "No more than ten (10) minutes oral presentation",
+    "No more than five (5) minutes judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit all required items in one combined PDF",
+    "PDF must include URL to Video Teaser, Sports Media Marketing Campaign (Title Page, Table of Contents), Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "File must be named SMMT-TeamID.pdf",
+    "Upload completed projects along with the video teaser to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings"
+  ],
+  "presubmit_items": [
+    "URL to Video Teaser",
+    "Sports Media Marketing Campaign, including Title Page, Table of Contents",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Supporting materials (e.g., research charts, brochures, etc.) for each round of presentations",
+    "One single-sided laptop, notebook, or tablet for presentation",
+    "Optional: Visuals such as social media mockups, digital advertisements, campaign graphics, etc."
+  ],
+  "competencies": [
+    "Develop and justify a sports media marketing strategy that applies to the marketing mix and demonstrates the role of branding and brand loyalty within the global sports industry",
+    "Analyze sports audiences and consumer behavior by using demographic, psychographic, and fan engagement data to inform marketing decisions and buying influences",
+    "Design integrated marketing communications for sports organizations or events by leveraging digital media, social platforms, and emerging technologies such as influencer marketing",
+    "Evaluate ethical, legal, and technological considerations affecting sports media marketing, including sponsorship transparency, data use, and platform selection",
+    "Create innovative and creative marketing content that demonstrates originality, strategic thinking, and adaptability to current sports media trends",
+    "Apply critical thinking and problem-solving skills to address marketing challenges and optimize campaign outcomes",
+    "Demonstrate professional communication and presentation skills by delivering clear, persuasive, and informative pitches using digital and visual media",
+    "Collaborate effectively as a team in a marketing environment to plan, produce, and present a cohesive campaign within a global and diverse context"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and the Artificial Intelligence & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The teaser video did not exceed the 30 second limit and the Sports Media Marketing plan did not exceed five (5) pages single-sided. The Title Page, Table of Contents, and Works Cited are not included in the five (5) page limit.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing a URL to the teaser video, the Sports Media Marketing Plan Campaign, including the Title Page, Table of Contents, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Brand Identity and Positioning",
+      "max_points": 30.0,
+      "description": "Brand identity is distinctive, cohesive, and strategically positioned"
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Target Audience Analysis",
+      "max_points": 30.0,
+      "description": "Target audience is precise, research-supported, and clearly informs campaign decisions."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Competitive Sports Media Landscape",
+      "max_points": 30.0,
+      "description": "Competitive analysis is thorough, relevant, and used strategically."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Sports Media Marketing Strategy",
+      "max_points": 30.0,
+      "description": "Strategy is comprehensive, well-justified, and strongly aligned to the assigned case."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content Strategy",
+      "max_points": 30.0,
+      "description": "Content strategy is original, integrated, platform-appropriate, and engagement-focused."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Partnership and Sponsorship Opportunities",
+      "max_points": 30.0,
+      "description": "Partnership and sponsorship ideas are strategic, realistic, and brand aligned."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Campaign Measurement and Growth",
+      "max_points": 30.0,
+      "description": "Measures are specific, actionable, and support growth and optimization."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Campaign Teaser Video",
+      "max_points": 40.0,
+      "description": "Video is original, polished, strategic, and highly effective for engagement."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Appearance, Conciseness, and Completeness",
+      "max_points": 20.0,
+      "description": "Campaign is polished, professional, concise, and complete."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Grammar and Mechanics",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation flows smoothly; team roles, transitions, visuals, supporting materials, and/or teaser video are polished and strategically integrated."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a strong understanding of the campaign, assigned sports context, audience, platforms, partnerships, measurement and teaser’s video role in engagement."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Only one (1) team member should complete the submission",
+    "The team captain’s contestant ID should be used in any required documents",
+    "Contestants will present their Sports Media Marketing Campaign as if pitching to an athlete management team, sports organization, or potential sponsor",
+    "Teams may incorporate the campaign teaser video or other visual materials as part of the presentation",
+    "Carry-in and setup of equipment must be done solely by the team within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic, or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified"
+  ],
+  "keywords": [
+    "sports marketing",
+    "media campaign",
+    "branding",
+    "social media",
+    "digital storytelling",
+    "influencer partnerships",
+    "sponsorship",
+    "team event",
+    "presentation",
+    "video teaser"
+  ]
+}

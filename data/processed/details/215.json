@@ -1,0 +1,46 @@
+{
+  "summary": "In this event, contestants design and manage relational databases to store data and create reports. Participants will build fields, relationships, queries, forms, and reports using database software. The event tests skills in database creation, data manipulation, and producing user-friendly outputs.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than ten (10) minutes orientation",
+    "no more than ninety (90) minutes testing time",
+    "no more than ten (10) minutes wrap-up"
+  ],
+  "submission_requirements": [
+    "All student-produced jobs completed on-site are uploaded electronically and are not printed at the national level"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials"
+  ],
+  "competencies": [
+    "Design relational databases by defining fields, relationships, and calculated formulas columns to ensure accurate data storage, retrieval, and advanced reporting capabilities",
+    "Demonstrate foundational knowledge of database management principles and apply industry-standard software to create, modify, maintain, and secure databases",
+    "Manipulate, import, and export data using queries, filters, and multiple formats to meet organizational needs",
+    "Design user-friendly data entry forms and produce professional reports with totals and calculated fields, analyzing results to identify trends and support decision-making"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: application",
+    "AI Policy Level 1 No AI Allowed"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this application event."
+  ],
+  "keywords": [
+    "database",
+    "relational database",
+    "data storage",
+    "queries",
+    "forms",
+    "reports",
+    "data import",
+    "data export",
+    "secondary",
+    "postsecondary"
+  ]
+}

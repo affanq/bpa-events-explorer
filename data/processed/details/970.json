@@ -1,0 +1,185 @@
+{
+  "summary": "Contestants create a complete business plan for a student-run service business, including a research paper and a presentation. The plan must address business description, customer demographics, marketing, pricing, financials, challenges, and solutions. Both the paper and presentation are judged for content, organization, and communication skills.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Research paper must not exceed five (5) pages, double-spaced, single-sided numbered pages with one-inch margins (excluding the Title Page and Works Cited)",
+    "Research paper must follow the Report format in the Style & Reference Manual",
+    "Each research paper must include a Title Page and Works Cited which follow the Style & Reference Manual format",
+    "Any research paper submitted beyond the maximum number of pages will be disqualified",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Team ID is required for all submissions",
+    "The team is responsible for securing a signed BPA Release Form(s) from any person, including themselves, whose image or work is used in the project",
+    "The team is responsible for citing all sources, including themselves, on the Works Cited page for any work used on the project",
+    "Contestants will be disqualified for violations of the guidelines"
+  ],
+  "presubmit_items": [
+    "Research Paper",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Submit the URL to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation",
+    "Optional - props or visual aids"
+  ],
+  "competencies": [
+    "Demonstrate knowledge and understanding of entrepreneurship",
+    "Create a plan of action to solve the problem presented",
+    "Demonstrate effective written and oral communication skills",
+    "Identify and utilize internal and external resources",
+    "Demonstrate effective persuasive and informative communication and presentation skills"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted the Research Paper and Works Cited, formatted according to the Style & Reference Manual, and the required BPA Release Form(s) and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Introduction",
+      "max_points": 20.0,
+      "description": "Engaging and insightful introduction; sets a strong foundation for the paper."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Production Information",
+      "max_points": 20.0,
+      "description": "Thorough and well-analyzed production information; includes visuals or data where appropriate."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Customer Information",
+      "max_points": 20.0,
+      "description": "Deep understanding of customer segments; includes analysis and implications."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Marketing Information",
+      "max_points": 20.0,
+      "description": "Creative and strategic marketing approach; includes rationale and potential impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Financial Information",
+      "max_points": 20.0,
+      "description": "Comprehensive financial analysis; includes projections, break-even analysis, and justification."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Conclusion",
+      "max_points": 20.0,
+      "description": "Strong, reflective conclusion; reinforces main ideas and suggests future directions."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Appearance, Conciseness, and Completeness",
+      "max_points": 20.0,
+      "description": "Professionally presented; highly readable, polished, and thorough."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 15.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges’ questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 150.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic, the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified"
+  ],
+  "keywords": [
+    "entrepreneurship",
+    "business plan",
+    "middle school",
+    "service business",
+    "marketing",
+    "financial plan",
+    "presentation",
+    "research paper",
+    "customer demographics",
+    "BPA competition"
+  ]
+}

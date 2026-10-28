@@ -1,0 +1,211 @@
+{
+  "summary": "Teams of 2-4 students create a 3:00 to 5:00 minute multimedia promotional video spotlighting student athletes making a difference off the field. The video and required documentation are submitted online, and qualifying teams present their project virtually to judges. Entries must follow copyright, fair use, and AI citation guidelines.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Promotional video: 3:00 to 5:00 minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing the URL to the Promotional Video, Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name: V02-TeamID.pdf",
+    "Submit at https://upload.bpa.org",
+    "Contestant ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and proper use of BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Promotional Video",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National submission deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Demonstrate proficiency in industry-standard video production software and equipment to execute all phases of the production process",
+    "Develop a cohesive storyline using a storyboard and script that applies effective scripting techniques to deliver a clear, focused message",
+    "Apply professional camera techniques, including intentional selection of shot types, angles, and framing to support visual storytelling",
+    "Implement lighting techniques, including proper setup and adjustment of light sources, to achieve consistent and professional visual quality",
+    "Perform non-linear editing using industry-standard tools, incorporating transitions, cuts, and audio editing techniques to produce a seamless and polished final cut",
+    "Apply titles, lower thirds, and 2D and/or 3D visual effects to enhance the final product and reinforce the intended message",
+    "Demonstrate an understanding of audience analysis by designing and delivering a final product that effectively communicates to a defined target audience"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The promotional video adhered to the required time range of 3:00 –5:00 minutes, met the minimum resolution of 1920×1080 and conformed to BPA Graphic Standards.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing the URL to the Promotional Video, Works Cited (formatted according to the Style & Reference Manual), BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Organization",
+      "max_points": 20.0,
+      "description": "Layout is exceptionally well-organized; enhances comprehension and flow."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Aesthetic Use of Colors and Fonts",
+      "max_points": 20.0,
+      "description": "Colors and fonts are thoughtfully chosen; enhance visual appeal and readability."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Enhancement of Theme and Purpose",
+      "max_points": 20.0,
+      "description": "Visuals strongly reinforce and elevate the theme and purpose."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Graphic Design and Digital Assets",
+      "max_points": 20.0,
+      "description": "Assets are high-quality and creatively used; design is professional and engaging."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality",
+      "max_points": 20.0,
+      "description": "Audio is crisp, well-balanced, and professionally mixed with no distractions."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting and Special Effects",
+      "max_points": 20.0,
+      "description": "Lighting is well-executed; effects enhance the visual experience and storytelling."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Motion Graphics (2D/3D)",
+      "max_points": 20.0,
+      "description": "Motion graphics are skillfully integrated and enhance the visual narrative."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Production is original and imaginative, with bold creative choices that enhance its impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Color Grading & Visual Effects",
+      "max_points": 20.0,
+      "description": "Color grading enhances tone and emotion; visual effects are polished, purposeful, and support the story."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 20.0,
+      "description": "Demonstrates strong verbal and non-verbal communication with enthusiasm and effective virtual engagement."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 20.0,
+      "description": "The presentation content flows adequately, with a mostly clear structure and smooth transitions between points."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Project Development & Execution",
+      "max_points": 20.0,
+      "description": "Thorough and insightful explanation of all project phases with clear rationale and reflection."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Use of Media Elements",
+      "max_points": 20.0,
+      "description": "Media elements are creatively and effectively used to enhance the presentation; transitions and effects are smooth and professional."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Explanation of Technology & Software",
+      "max_points": 20.0,
+      "description": "Offers a detailed and insightful explanation of technology and software choices, including their impact on the project."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 125.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2 -4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible.",
+    "Only the team captain should complete the submission."
+  ],
+  "keywords": [
+    "multimedia",
+    "video production",
+    "promotion",
+    "student athletes",
+    "community impact",
+    "virtual event",
+    "team competition",
+    "graphic design",
+    "audio editing",
+    "AI citation"
+  ]
+}

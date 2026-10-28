@@ -1,0 +1,316 @@
+{
+  "summary": "Teams of 2-4 students create a 3-5 minute video revealing what is hidden behind digital spaces like social media, gaming, AI, influencers, or online learning. The project must include a script, storyboard, interactive elements, and follow BPA guidelines. Teams present their video and answer judges' questions, with scoring based on creativity, technical quality, and presentation skills.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Teams will have no more than four (4) hours to plan the storyline and complete all production phases including filming and exporting the video (Nationals only)"
+  ],
+  "submission_requirements": [
+    "Submit all required items in one combined PDF",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Secure a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "Cite all sources, including oneself, on the Works Cited page for any work used on the project"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Video",
+    "Script",
+    "Storyboard",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation",
+    "(National only) Film equipment (computer, software, camera, etc.)",
+    "Optional – Props"
+  ],
+  "competencies": [
+    "Apply audience analysis and user-centered design principles & elements to create and refine storylines using digital storyboarding and scripting, ensuring clear messaging and engagement for a defined target audience across web, social, and mobile platforms",
+    "Utilize video production software, hardware, and workflows to plan, capture, and edit high-quality video content, incorporating nonlinear editing techniques, transitions, audio mixing, sound design, titles, and visual effects to enhance storytelling and production value",
+    "Employ camera and lighting techniques—including shot composition, movement, framing, and modern lighting setups—to capture visually engaging footage that meets professional standards"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted the correct information, in the correct format, as one (1) PDF file.\n1. Clickable URL to Video\n2. Script\n3. Storyboard\n4. Works Cited (formatted according to the Style & Reference Manual )\n5. BPA Release Form (s)\n6. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Title Sequence",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included more than one (1) camera angle",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included one (1) voice over",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included ending credits",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Production is free of typos",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "At least 75% of the video footage by team members",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Final video promotion made effective use of time and was within video time limit of three to five (3:00-5:00) minutes.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 25.0,
+      "description": "The video is very creative and original. Ideas are fresh, bold, and clearly show your unique voice and thinking."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Topic Development",
+      "max_points": 25.0,
+      "description": "The topic is clearly explained and well thought out. Details are strong, Interesting, and show deep understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Target Audience",
+      "max_points": 25.0,
+      "description": "The message is clear, strong, and keeps the target audience interested."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Music & Tone",
+      "max_points": 25.0,
+      "description": "Music and tone clearly match the mood and message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Video Focus & Shot Quality",
+      "max_points": 25.0,
+      "description": "Video is very steady, clear, and well-framed. Shots enhance the viewer’s focus."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting Quality",
+      "max_points": 25.0,
+      "description": "Lighting is clear, well-balanced, and enhances the look and feel of the video."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Color Quality",
+      "max_points": 25.0,
+      "description": "Colors are well -chosen and clearly support the topic, mood, and message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality",
+      "max_points": 25.0,
+      "description": "Audio is clear, smooth, and well-balanced. Fades, effects, and foley are used creatively and effectively."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Included more than one camera angle",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Video is exactly 1-minute in length",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Final export met timed event deadline",
+      "max_points": 50.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Exported in correct format",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Video Footage",
+      "max_points": 20.0,
+      "description": "Entire video shot on-site with creative approach."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Storyline",
+      "max_points": 20.0,
+      "description": "Engaging, well-developed, and compelling storyline."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Production Quality",
+      "max_points": 20.0,
+      "description": "Production elevates the message and viewer experience."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Target Audience",
+      "max_points": 20.0,
+      "description": "The message is clear, strong, and keeps the target audience interested."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Focus/Steadiness/Shot Quality",
+      "max_points": 20.0,
+      "description": "Smooth, sharp shots that enhance professionalism."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Lighting Quality",
+      "max_points": 20.0,
+      "description": "Lighting enhances mood and scene clarity."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Color Quality",
+      "max_points": 20.0,
+      "description": "Vibrant and cohesive color grading throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Audio Quality",
+      "max_points": 20.0,
+      "description": "Excellent use of fades, ambient sound, and normalization."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 280.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "total_points": 250.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the contestant within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Only the team captain should complete the submission",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "video production",
+    "team event",
+    "digital media",
+    "storyboarding",
+    "scriptwriting",
+    "interactive elements",
+    "presentation",
+    "editing",
+    "camera techniques",
+    "BPA competition"
+  ]
+}

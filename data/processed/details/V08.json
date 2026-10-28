@@ -1,0 +1,207 @@
+{
+  "summary": "Teams of 2-4 students create and submit a comprehensive business plan for a new enterprise in their local area, including supporting documents. After qualifying, teams present their plan virtually to judges and answer questions. The event focuses on business development, organizational structure, and strategic planning.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing Business Plan, Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File must be named V08-TeamID.pdf",
+    "Submission must be uploaded to https://upload.bpa.org"
+  ],
+  "presubmit_items": [
+    "Business Plan",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "Submission deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Demonstrate understanding of enterprise development and organizational scaling",
+    "Communicate and present research persuasively, both orally and in writing",
+    "Identify and leverage internal/external resources for growth",
+    "Develop a comprehensive, scalable business plan (operations and long-term strategy)",
+    "Analyze target markets and develop a customer acquisition/retention strategy",
+    "Apply strategic pricing and analyze financials (revenue, capital, ROI)",
+    "Design an organizational structure for delegation, leadership, and efficiency"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Business Plan did not exceed ten (10) pages single-sided. The Title Page, Table of Contents, and Works Cited are not included in the ten (10) page limit.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing Business Plan, Works Cited (formatted according to the Style & Reference Manual), BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Executive Summary",
+      "max_points": 30.0,
+      "description": "Compelling, detailed, thoroughly engages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Description of Proposed Business",
+      "max_points": 30.0,
+      "description": "Thorough, intriguing, captivates interest."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Objectives of Business",
+      "max_points": 30.0,
+      "description": "Clear, inspiring Mission and Vision."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Proposed Business Strategies",
+      "max_points": 30.0,
+      "description": "Well-structured, innovative, achievable."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Product(s) and/or Service(s)",
+      "max_points": 30.0,
+      "description": "Detailed, compelling, highlights advantages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Management and Ownership of the Business",
+      "max_points": 30.0,
+      "description": "Comprehensive organizational chart with detailed roles."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Marketing Analysis",
+      "max_points": 30.0,
+      "description": "In-depth analysis, strong edge, justified pricing."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Financial Analysis",
+      "max_points": 40.0,
+      "description": "Comprehensive, realistic, detailed balance sheet."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Appearance, Conciseness, and Completeness",
+      "max_points": 20.0,
+      "description": "Plan is exceptionally well-organized, concise, and complete."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, with a mostly clear structure and smooth transitions between points."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 105.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2-4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Teams participating in the competition must be registered for the event prior to the submission deadline to be eligible.",
+    "Only the team captain should complete the submission."
+  ],
+  "keywords": [
+    "business plan",
+    "start-up",
+    "team event",
+    "entrepreneurship",
+    "organizational structure",
+    "marketing analysis",
+    "financial analysis",
+    "presentation",
+    "virtual competition",
+    "customer acquisition"
+  ]
+}

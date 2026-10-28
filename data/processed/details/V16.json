@@ -1,0 +1,357 @@
+{
+  "summary": "Teams analyze a case study and data pack for an AI-assisted EdTech SaaS company, using AI tools to create professional deliverables in Finance, IT, Business/Marketing, and Digital Media Design. Teams submit a combined PDF with all artifacts, an AI Use Log, and required forms, then present their integrated AI solution virtually to judges. The event emphasizes ethical, responsible, and reproducible AI use, and includes both a technical project and a live presentation.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges' questions"
+  ],
+  "submission_requirements": [
+    "Submit all artifacts, Works Cited, AI Use Log, BPA Release Form(s), and AI Usage and Documentation Form in one combined PDF file to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on January 15, 2027.",
+    "Artifacts 1, 2, and 3 each comply with the two-page limit and follow the report format in the Style & Reference Manual.",
+    "Digital Media Design Artifact follows its own format and is not subject to the two-page limit.",
+    "Works Cited page is excluded from the two-page count for Artifacts 1, 2, and 3.",
+    "Header information on the first page of the report should be as follows: Contestant ID Number (Sender’s ID Number - XXXXXXXX), Edna Renick (Recipient’s Name), Administrative Support Department (Recipient’s Department), and Current Date.",
+    "Team ID is required for all submissions.",
+    "Materials from non-registered members and/or those missing team ID cannot be accepted.",
+    "The team is responsible for securing a BPA Release Form(s) from any person, including themselves, whose image or work is used in the project.",
+    "The team is responsible for citing all sources, including themselves and any AI tools used, on the Works Cited page for any work used on the project.",
+    "In-text citations are required throughout all papers.",
+    "Materials must follow the organization's BPA Graphic Standards and make proper use of the BPA logo and/or organization's name."
+  ],
+  "presubmit_items": [
+    "Finance Artifact",
+    "IT Artifact",
+    "Business/Marketing Artifact",
+    "Digital Media Design Artifact",
+    "AI Usage Log",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "The registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National Deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Demonstrate understanding of AI concepts, capabilities, and limitations",
+    "Apply AI tools to finance, IT operations, marketing, and digital media design",
+    "Use structured case study data to drive evidence-based decisions",
+    "Design AI workflows and prompts that are structured and reproducible",
+    "Demonstrate ethical and responsible AI use, including bias mitigation, transparency, data privacy, and security",
+    "Communicate complex technical information to non-technical stakeholders",
+    "Produce professional written, visual, and strategic deliverables",
+    "Demonstrate teamwork, project management, and decision-making skills",
+    "Apply principles of design and rules for proper layout in developing business publications for multiple screens and printing situations",
+    "Use principles of design, layout, and typography in media and user experience design",
+    "Demonstrate effective persuasive and informative communication and presentation skills"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF with all four (4) functional-area artifacts, the AI Use Log, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s) and the AI Usage and Documentation Form. Artifacts 1, 2, and 3 each comply with the two-page limit and follow the report format in the Style & Reference Manual.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Financial Artifact",
+      "max_points": 20.0,
+      "description": "Analysis is highly accurate, demonstrates strong financial reasoning, and aligns precisely with the data pack."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Data Analysis Accuracy",
+      "max_points": 20.0,
+      "description": "Forecast is well-modeled, clearly visualized, and tied directly to subscription-tier behavior and growth scenarios."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Revenue Forecast Quality",
+      "max_points": 20.0,
+      "description": "Forecast is well-modeled, clearly visualized, and tied directly to subscription-tier behavior and growth scenarios."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Series B Memo",
+      "max_points": 20.0,
+      "description": "Recommendation is decisive, evidence-based, and clearly tied to forecast outcomes and investor concerns."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Use & Verification",
+      "max_points": 20.0,
+      "description": "AI outputs are carefully verified, cross-checked, and improved by the team beyond the initial AI output."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Concision & Synthesis",
+      "max_points": 20.0,
+      "description": "Brief makes excellent use of two pages, surfacing only the most decision-relevant insights with clear prioritization."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Artifact",
+      "max_points": 20.0,
+      "description": "Cloud-scaling plan is detailed, well-justified, and demonstrates strong technical reasoning."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Infrastructure Plan",
+      "max_points": 20.0,
+      "description": "Cloud-scaling plan is detailed, well-justified, and demonstrates strong technical reasoning."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Data Privacy & FERPA",
+      "max_points": 20.0,
+      "description": "Risk assessment is thorough, prioritizes risks, and includes clear mitigation strategies."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Model Selection",
+      "max_points": 20.0,
+      "description": "Model recommendation is well-justified, addresses trade-offs (cost, latency, bias), and aligns with the data pack."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Use & Verification",
+      "max_points": 20.0,
+      "description": "AI outputs are rigorously verified, with technical claims supported by cited sources or team analysis."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Concision & Synthesis",
+      "max_points": 20.0,
+      "description": "Brief makes excellent use of two pages, using tables and visuals efficiently to convey dense technical content."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Business/Marketing Artifact",
+      "max_points": 20.0,
+      "description": "Segmentation is insightful, well-supported by the data pack, and reveals actionable customer behavior patterns."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Customer Segmentation",
+      "max_points": 20.0,
+      "description": "Segmentation is insightful, well-supported by the data pack, and reveals actionable customer behavior patterns."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Campaign Strategy",
+      "max_points": 20.0,
+      "description": "Campaign brief is strategically sharp, tightly targeted, and includes measurable KPIs tied to subscription growth."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Messaging & Audience Fit",
+      "max_points": 20.0,
+      "description": "Messaging is highly tailored, emotionally resonant, and clearly differentiated by audience and tier."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Use & Verification",
+      "max_points": 20.0,
+      "description": "AI outputs are substantially refined, fact-checked, and improved with original team input."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Concision & Synthesis",
+      "max_points": 20.0,
+      "description": "Brief makes excellent use of two pages, presenting segmentation and campaign strategy with clarity and focus."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Digital Media Design Artifact",
+      "max_points": 20.0,
+      "description": "Brand identity sheet is highly polished, distinctive, and demonstrates intentional design choices."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Identity Quality",
+      "max_points": 20.0,
+      "description": "Brand identity sheet is highly polished, distinctive, and demonstrates intentional design choices."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Storyboard Quality",
+      "max_points": 20.0,
+      "description": "Storyboard is creative, well-paced, and visually compelling, with strong message-to-image alignment"
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Brand Consistency",
+      "max_points": 20.0,
+      "description": "Brand elements are flawlessly consistent and reinforce a unified, recognizable identity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Use & Verification",
+      "max_points": 20.0,
+      "description": "AI-generated visuals are substantially refined by the team and integrated with original design work."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "AI Use Log & Ethics",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Log Completeness",
+      "max_points": 20.0,
+      "description": "Log is thorough, organized by artifact, and includes verification notes for every entry."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Prompt Quality",
+      "max_points": 20.0,
+      "description": "Prompts demonstrate iterative refinement, role/context framing, and a clear workflow."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Ethics & Responsible Use",
+      "max_points": 20.0,
+      "description": "Log demonstrates a strong ethical framework, including bias checks, transparency, privacy review, and clear human-in-the-loop oversight."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Integration & Communication",
+      "max_points": 20.0,
+      "description": "The four artifacts integrate tightly, building toward a single, coherent strategy for the company."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cross-Functional Alignment",
+      "max_points": 20.0,
+      "description": "The four artifacts integrate tightly, building toward a single, coherent strategy for the company."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing & Editing Quality",
+      "max_points": 20.0,
+      "description": "Artifacts are polished, professional, and read as if produced by a consulting team."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual & Layout Quality",
+      "max_points": 20.0,
+      "description": "Layout is highly polished, visually consistent, and supports the message across all four deliverables."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation",
+      "max_points": 20.0,
+      "description": "Team excels in delivery, presents with clarity and enthusiasm, and shows deep understanding of the topic."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Explanation of AI Solution",
+      "max_points": 20.0,
+      "description": "Thoroughly explains all four artifacts and how they integrate into a single, coherent AI strategy."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "AI Tools & Workflow",
+      "max_points": 20.0,
+      "description": "Offers detailed and thoughtful explanation of tools, prompts, and verification workflow, showing strong understanding."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Ethical & Responsible Use",
+      "max_points": 20.0,
+      "description": "Team articulates a strong ethical framework, including bias, transparency, privacy, and human-in-the-loop oversight."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Roles",
+      "max_points": 20.0,
+      "description": "Provides a comprehensive and engaging explanation of team roles, collaboration, and decision-making."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Structure & Flow",
+      "max_points": 20.0,
+      "description": "Presentation is highly engaging, with excellent structure and smooth transitions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges' Questions",
+      "max_points": 20.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 510.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 155.0
+    }
+  ],
+  "judging_notes": [
+    "Judges' comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary, or postsecondary contestant may enter this event.",
+    "A team will consist of 2–4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Teams participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "AI",
+    "team event",
+    "virtual",
+    "SaaS",
+    "finance",
+    "IT",
+    "marketing",
+    "digital media design",
+    "case study"
+  ]
+}

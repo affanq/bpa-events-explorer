@@ -1,0 +1,103 @@
+{
+  "summary": "Contestants analyze and interpret a human resources management scenario, then prepare and deliver an oral presentation demonstrating HR knowledge, professionalism, and communication skills. The event includes a preparation period, a timed presentation, and a Q&A session with judges. Scoring is based on delivery, organization, content knowledge, responses to questions, and adherence to event rules.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than twenty (20) minutes preparation time",
+    "No less than three (3) and no more than five (5) minutes for oral presentation",
+    "No more than three (3) minutes judges’ questions",
+    "Presentation will be stopped at five (5) minutes"
+  ],
+  "submission_requirements": [
+    "Only the three (3) notecards may be used in the presentation room",
+    "The Human Resources Manual may not be used during the presentation"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Human Resources Manual",
+    "Sharpened pencils, pens"
+  ],
+  "competencies": [
+    "Communicate HR concepts and recommendations clearly and professionally using data, policy references, and supportive reasoning",
+    "Organize the presentation using a clear introduction, body, and conclusion to create a coherent and persuasive HR message",
+    "Use effective verbal and nonverbal delivery skills, including vocal variety, posture, gestures, and eye contact—to support confident and professional HR communication",
+    "Model professional behaviors that support the organization’s mission and values",
+    "Describe and apply workplace safety, health, and compliance requirements",
+    "Model ethical, legal, and responsible conduct by maintaining confidentiality, understanding liability, and supporting organizational integrity",
+    "Demonstrate technical HR knowledge across areas such as staffing, training, compliance, and employee relations",
+    "Analyze HR issues and apply relevant policies to develop fair, compliant, and effective solutions",
+    "Demonstrate respectful, fair, and professional interactions in workplace scenarios",
+    "Follow laws and professional guidelines to ensure your actions protect both yourself and the organization in HR settings",
+    "Respond to judge questions clearly and confidently, using BPA’s Human Resources Manual, scenario details, examples, and sound HR reasoning from your preparation"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": "If no to the question, please stop scoring and provide a brief reason for the disqualification:"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "The presentation lasted no less than three (3) minutes and no more than five (5) minutes and the contestant did not use any materials other than those specified."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "The contestant will be given warnings via flash cards when there are two (2) minutes remaining and when there is one (1) minute remaining during the speaking time",
+    "Judges’ comments will be returned digitally through the online judging system at the national level"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "The event may be repeated"
+  ],
+  "keywords": [
+    "human resources",
+    "HR management",
+    "employment law",
+    "oral presentation",
+    "workplace scenarios",
+    "talent management",
+    "professionalism",
+    "legal compliance",
+    "BPA event",
+    "communication skills"
+  ]
+}

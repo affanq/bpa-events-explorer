@@ -1,0 +1,223 @@
+{
+  "summary": "Teams of 2-4 middle level students create a 1-2 minute educational video about how a specific piece of technology has changed over time. The video must include voice-over narration, at least one live recorded scene, and a fun fact segment. Teams submit their video and supporting documents online and present their project at the competition.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than five (5) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at five (5) minutes"
+  ],
+  "submission_requirements": [
+    "Entries must follow the provided topic",
+    "Entries must follow Copyright and/or Fair Use Guidelines",
+    "Entries must follow Artificial Intelligence Usage & Citation Policy",
+    "Entries must be submitted as PDFs bundled together in one PDF file",
+    "Team ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and proper use of BPA logo and/or organization’s name",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Signed BPA Release Form(s) required for any person whose image or work is used",
+    "Works Cited page required for any work used in the project"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Video",
+    "Storyboard",
+    "Script",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Submit the URL to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Apply knowledge of software, equipment, and skills related to video production by using various video-editing applications",
+    "Create storyboards and scripts with the target audience in mind",
+    "Apply camera techniques, transitions, audio editing, titles and animations to produce video content",
+    "Apply copyright, licensing, and intellectual property laws in all video content",
+    "Collaborate effectively to edit video in a team environment using project management and communication tools"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The following items have been saved as PDFs and bundled together in one PDF file. 1. Clickable URL to Video 2. Script 3. Storyboard 4. Works Cited (formatted according to the Style & Reference Manual) 5. BPA Release Form(s) 6. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included one “live” recorded scene",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included one voice over",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Included purchasing details",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Video lasted no less than one (1) minute and no more than two (2) minutes",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Originality of Content",
+      "max_points": 20.0,
+      "description": "Majority original footage; highly creative and original."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Theme Development",
+      "max_points": 20.0,
+      "description": "Theme is strong, well-developed, and engaging."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Focus and Steadiness",
+      "max_points": 20.0,
+      "description": "Smooth, professional-quality footage."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Production Effectiveness",
+      "max_points": 20.0,
+      "description": "Message is powerful, clear, and impactful."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Free of typos",
+      "max_points": 20.0,
+      "description": "No typos; polished and professional."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Effects & Transitions",
+      "max_points": 20.0,
+      "description": "Effects enhance storytelling and visual appeal."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Color & Lighting",
+      "max_points": 20.0,
+      "description": "Excellent lighting and color that enhance visuals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio",
+      "max_points": 20.0,
+      "description": "High-quality, well-balanced, and engaging audio."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, use appropriate gestures and body language, and vary their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "Presentation content flows adequately, and each team contestant’s role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges’ questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes and presentation lasted no more than five (5) minutes."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 210.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "video production",
+    "team event",
+    "technology history",
+    "voice-over",
+    "live scene",
+    "fun fact",
+    "middle level",
+    "storyboard",
+    "script",
+    "presentation"
+  ]
+}

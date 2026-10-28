@@ -1,0 +1,200 @@
+{
+  "summary": "Contestants create a 1-2 minute informational video explaining how AI is used in everyday life and how individuals can responsibly interact with emerging technologies. The video is submitted online and presented to judges, who evaluate both the technical quality and the contestant's presentation. The target audience is middle school and high school students beginning to interact with AI.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit all of the following in one combined PDF: Clickable URL to video, Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "Saved File Name(s): DMP-ContestantID.pdf",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Contestant ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted",
+    "The contestant is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "The contestant is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to video",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Apply user-centered design principles & elements analysis to create, manage, and distribute digital media content - including graphics, audio, video, and interactive elements - for a target audience, tailored to specific demographics, needs, and behaviors across web, social, and mobile platforms.",
+    "Utilize industry-standard software applications (such as Adobe Creative Cloud, video editing suites, and web development tools) and integrate graphic design principles with multimedia elements—color, animation, audio, and video—to produce engaging, accessible, and brand-consistent digital experiences."
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted one (1) combined PDF file containing clickable URL to Project, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Video Clarity",
+      "max_points": 30.0,
+      "description": "The video exhibits outstanding clarity, sharpness, and precise focus throughout—enhancing visual engagement and presenting content with professional-level quality."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Framing and Composition",
+      "max_points": 30.0,
+      "description": "Thoughtful and intentional framing enhances the message with strong visual impact; composition is balanced and aesthetically engaging throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality",
+      "max_points": 30.0,
+      "description": "Audio quality is professional-grade—exceptionally clear, balanced, and crisp, with no detectable distractions; elevates the listening experience and enhances engagement."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Voice Clarity",
+      "max_points": 30.0,
+      "description": "Dialogue or voice-over is crystal clear, well-paced, and delivered with ideal volume and tone; enhances comprehension and reinforces the message with professional polish."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Editing Techniques",
+      "max_points": 30.0,
+      "description": "Editing is polished and purposeful, with creative cuts and transitions that enhance the story, rhythm, and viewer experience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Transitions",
+      "max_points": 30.0,
+      "description": "Transitions are well-timed and thoughtfully placed, enhancing storytelling and creating a smooth, unified visual flow."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Graphics and Text",
+      "max_points": 30.0,
+      "description": "Graphics are well-designed and strategically used—clear, integrated text enhances understanding and elevates the viewer’s experience, with every element supporting the message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting",
+      "max_points": 30.0,
+      "description": "Lighting is expertly balanced and purposefully enhances the subject. It adds depth, clarity, and mood that elevate the video’s quality and viewer engagement."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content",
+      "max_points": 30.0,
+      "description": "The content delivers a strong and engaging message, using creativity and emotional appeal to effectively appeal to the audience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Time Management",
+      "max_points": 20.0,
+      "description": "The video makes strategic use of its full time—content is well-structured, purposeful, and engaging."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the contestant within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "digital media",
+    "video production",
+    "AI",
+    "artificial intelligence",
+    "editing",
+    "graphics",
+    "audio",
+    "presentation",
+    "secondary",
+    "postsecondary"
+  ]
+}

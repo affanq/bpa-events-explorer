@@ -1,0 +1,107 @@
+{
+  "summary": "Contestants prepare and deliver a well-organized speech on a business, leadership, or professional development topic. The speech must be researched, structured, and presented using effective communication skills, lasting between three and five minutes. Contestants submit a speech outline, works cited, release form, and AI documentation for each round.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes setup",
+    "No less than three (3) and no more than five (5) minute presentation",
+    "Speech will be stopped at five minutes"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the Speech Outline for each round (prelims and finals)",
+    "Works Cited formatted according to the Style & Reference Manual for each round",
+    "BPA Release Form(s) for each round",
+    "AI Usage and Documentation Form for each round",
+    "All copies must be printed in black ink on 8 1/2”x11” plain white paper",
+    "Copies should be collated and stapled as separate sets",
+    "No binders will be accepted",
+    "No materials other than the required submission may be left with judges"
+  ],
+  "presubmit_items": [
+    "Speech Outline",
+    "Works Cited formatted according to the Style & Reference Manual",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [],
+  "what_to_bring": [
+    "Optional - Easel, flipchart, posterboard and props"
+  ],
+  "competencies": [
+    "Communicate ideas clearly, professionally, and confidently through effective speaking skills",
+    "Organize the speech using a clear introduction, body, and conclusion to create a coherent and engaging message",
+    "Use appropriate tempo, pitch, vocal variety, gestures, posture, and eye contact to support confident and professional delivery",
+    "Incorporate research, evidence, and credible sources to strengthen key points and support the overall message",
+    "Adapt content, tone, and delivery to meet the needs and expectations of the intended audience",
+    "Demonstrate professionalism and ethical communication by using original work, citing sources appropriately, and presenting respectfully"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 20.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 20.0,
+      "description": "The speech content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no more than three (3) and the speech is no less than three (3) and no more than five (5) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC"
+  ],
+  "eligibility_notes": [
+    "The event may be repeated, but the topic may not",
+    "Contestants may not enter Extemporaneous Speech, Presentation Team, or Prepared Speech in the same year",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "prepared speech",
+    "public speaking",
+    "business",
+    "leadership",
+    "professional development",
+    "research",
+    "presentation",
+    "communication",
+    "BPA",
+    "individual event"
+  ]
+}

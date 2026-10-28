@@ -1,0 +1,246 @@
+{
+  "summary": "Teams create a complete brand identity and multimedia promotional campaign for a new digital streaming channel targeting Gen Z and young adults. Deliverables include a channel logo, motion intro, 30-second video trailer, and social media posts for YouTube, Instagram, and TikTok, all submitted virtually. Teams also present their project to judges in a videoconference.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing URL link to Channel Logo, Motion Intro, 30-second video trailer, Social Media posts, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name: V10-TeamID.pdf",
+    "Submission at https://upload.bpa.org",
+    "Team ID is required for all submissions",
+    "Only the team captain should complete the submission"
+  ],
+  "presubmit_items": [
+    "Channel Logo",
+    "Motion Intro",
+    "30-second Video Trailer",
+    "Social media posts (YouTube, Instagram, TikTok)",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "National submission deadline is January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Demonstrate knowledge of transitions, audio and video editing techniques, and the proper placement of titles and visual effects to produce a polished, professional final product",
+    "Demonstrate teamwork skills required to collaborate effectively in a professional business and virtual branding environment",
+    "Develop and implement a cohesive cross-medium promotional strategy, integrating interconnected design plans across multiple platforms and formats",
+    "Demonstrate awareness of target audience requirements and accessibility standards to ensure content is inclusive, relevant, and appropriately tailored",
+    "Apply principles of design, layout, and typography across print, digital, and multi-screen environments to produce effective, visually consistent business and media publications",
+    "Demonstrate effective persuasive and informative communication and presentation skills to convey creative and strategic decisions to a professional audience"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing URL link to the Channel Logo, Motion Intro, 30-second video trailer, Social Media posts, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content Quality",
+      "max_points": 20.0,
+      "description": "The content is well-structured, highly accurate, relevant, and reflects strong depth and breadth of understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical Execution",
+      "max_points": 20.0,
+      "description": "Execution is highly proficient, well-structured, and demonstrates expert use of tools and resources to enhance the presentation."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 20.0,
+      "description": "The content is highly original, innovative, and showcases distinctive thinking and a fresh, engaging perspective."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audience Impact",
+      "max_points": 20.0,
+      "description": "The presentation is captivating, highly persuasive, and powerfully resonates with the target audience, inspiring interest or action."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technology Integration",
+      "max_points": 20.0,
+      "description": "Technology is seamlessly embedded, utilizes cutting-edge tools, and creates engaging, intuitive user experience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "30-Second Video Trailer: Creativity of Concept",
+      "max_points": 20.0,
+      "description": "The concept is highly original, memorable, and demonstrates exceptional creativity in delivering the message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "30-Second Video Trailer: Clarity of Messaging for Target Audience",
+      "max_points": 20.0,
+      "description": "The message is exceptionally clear, compelling, and precisely crafted to resonate with the target audience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cross-Platform Launch Graphics: Visual Appeal",
+      "max_points": 20.0,
+      "description": "The design is striking, polished, and creatively enhances the message with strong visual impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cross-Platform Launch Graphics: Graphic Effectiveness",
+      "max_points": 20.0,
+      "description": "Graphics are highly effective, seamlessly integrated, and elevate the message through creative and purposeful design."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cross-Platform Launch Graphics: Branding Consistency",
+      "max_points": 20.0,
+      "description": "Branding is flawlessly consistent and reinforces a strong, unified identity across all visuals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Channel Logo: Visual Appeal",
+      "max_points": 20.0,
+      "description": "The design is striking, polished, and creatively enhances the message with strong visual impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Channel Logo: Graphic Effectiveness",
+      "max_points": 20.0,
+      "description": "Graphic is highly effective, seamlessly integrated, and elevate the message through creative and purposeful design."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Motion Intro: Creativity of Concept",
+      "max_points": 20.0,
+      "description": "The concept is highly original, memorable, and demonstrates exceptional creativity in delivering the message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Motion Intro: Clarity of Messaging for Target Audience",
+      "max_points": 20.0,
+      "description": "The message is exceptionally clear, compelling, and precisely crafted to resonate with the target audience."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation",
+      "max_points": 20.0,
+      "description": "Team excels in delivery, presents with clarity and enthusiasm, and shows deep understanding of the topic."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Explanation of Project Phases",
+      "max_points": 20.0,
+      "description": "Thoroughly explains all phases with insight and strong connection to project goals."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Technology & Software Use",
+      "max_points": 20.0,
+      "description": "Offers detailed and thoughtful explanation of tools, showing strong understanding."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Roles",
+      "max_points": 20.0,
+      "description": "Provides a comprehensive and engaging explanation of team roles and collaboration."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Structure & Flow of Presentation",
+      "max_points": 20.0,
+      "description": "Presentation is highly engaging, with excellent structure and smooth transitions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 20.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 310.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 135.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2 -4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Teams participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "branding",
+    "digital media",
+    "video production",
+    "graphic design",
+    "social media",
+    "teamwork",
+    "presentation",
+    "Gen Z",
+    "streaming",
+    "virtual event"
+  ]
+}

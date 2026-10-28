@@ -1,0 +1,211 @@
+{
+  "summary": "Contestants develop a comprehensive business plan and operating strategy for a new venture or startup, then prepare and present an investor-ready pitch to secure financing. The event includes a written business plan submission and an oral presentation, plus a certification exam at the National Leadership Conference.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes setup",
+    "No less than five (5) and no more than seven (7) minutes oral presentation, including the pitch to the investors",
+    "No more than five (5) minutes judges’ questions",
+    "No more than fifty (50) minutes for certification test"
+  ],
+  "submission_requirements": [
+    "One combined PDF file containing Business Plan, Title Page, Table of Contents, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "Certiport Parental Consent Form REQUIRED",
+    "Contestant ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted",
+    "Business Plan must not exceed ten (10) pages single-sided; Title Page, Table of Contents, and Works Cited are not included in the ten (10) page limit",
+    "Business Plan must follow the Business Plan format (Sections I-VIII) in the Style & Reference Manual",
+    "Business Plan, including Title Page, Table of Contents, and Works Cited must be formatted according to the Style & Reference Manual",
+    "Contestant is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "Contestant is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Business Plan in one combined PDF to include: Title Page, Table of Contents, Business Plan, Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "Certiport Parental Consent Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Supporting materials (e.g., research charts, brochures, etc.) for each round of presentations",
+    "One single-sided laptop, notebook, or tablet for presentation",
+    "Optional: Product displays and props (product samples and promotional items), prepared posters, flip charts, easels, or graphs in presentation"
+  ],
+  "competencies": [
+    "Develop a comprehensive business plan that demonstrates understanding of entrepreneurship, feasibility, and startup requirements",
+    "Communicate research clearly and professionally in both written and oral formats",
+    "Identify and use internal and external resources that support business development and planning",
+    "Identify and analyze target customer groups, demographics, and customer relationship needs",
+    "Develop and justify pricing strategies based on customer value, costs, and competition",
+    "Prepare and justify the loan amount and financial data needed to establish the business, including startup costs and basic financial projections",
+    "Deliver clear, persuasive, and informative presentations that effectively communicate the business concept"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Business Plan did not exceed ten (10) pages single-sided. The Title Page, Table of Contents, and Works Cited are not included in the ten (10) page limit.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted one (1) combined PDF file containing their Business Plan to include the Title Page, Table of Contents, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Executive Summary",
+      "max_points": 30.0,
+      "description": "Compelling, detailed, thoroughly engages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Description of Proposed Business",
+      "max_points": 30.0,
+      "description": "Thorough, intriguing, captivates interest."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Objectives of Business",
+      "max_points": 30.0,
+      "description": "Clear, inspiring Mission and Vision."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Proposed Business Strategies",
+      "max_points": 30.0,
+      "description": "Well-structured, innovative, achievable."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Product(s) and/or Service(s)",
+      "max_points": 30.0,
+      "description": "Detailed, compelling, highlights advantages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Management and Ownership of the Business",
+      "max_points": 30.0,
+      "description": "Comprehensive chart with detailed roles."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Marketing Analysis",
+      "max_points": 30.0,
+      "description": "In-depth analysis, strong edge, justified pricing."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Financial Analysis",
+      "max_points": 50.0,
+      "description": "Comprehensive, realistic, detailed balance sheet."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Appearance, Conciseness, and Completeness",
+      "max_points": 15.0,
+      "description": "Plan is exceptionally well-organized, concise, and complete."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 15.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, with a mostly clear structure and smooth transitions between points."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no less than five (5) and no more than seven (7) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the contestants and take place within the time allotted",
+    "No Internet access will be provided on-site at the NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "At NLC, contestants will take the Entrepreneurship and Small Business (ESB) certification exam. Contestants passing this certification will have 50 points added to their event score.",
+    "Reference materials are not allowed for certification testing",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Presentation will be stopped at seven (7) minutes"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "entrepreneurship",
+    "business plan",
+    "startup",
+    "pitch",
+    "presentation",
+    "marketing analysis",
+    "financial analysis",
+    "management",
+    "investor",
+    "certification exam"
+  ]
+}

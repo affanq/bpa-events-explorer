@@ -1,0 +1,184 @@
+{
+  "summary": "Contestants demonstrate job search and interview readiness by creating a resume and cover letter, researching career qualifications, and participating in a formal interview. Evaluation focuses on written and oral communication, professional image, workplace ethics, and interpersonal effectiveness. Both a combined PDF submission and an in-person interview are required.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than fifteen (15) minutes for interview"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file: Resume and Cover Letter",
+    "Saved file name: IS-ContestantID.pdf",
+    "Submission at https://upload.bpa.org",
+    "Contestant ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and proper use of BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Resume",
+    "Cover Letter"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One (1) copy of your resume and cover letter submitted at presentation check-in (both preliminaries and finals)"
+  ],
+  "competencies": [
+    "Create a professional Applicant Tracking System (ATS) optimized, résumé and cover letter demonstrating employability, career-readiness skills, and alignment with industry expectations",
+    "Research career pathways, job requirements, and advancement opportunities using credible resources and professional networks",
+    "Demonstrate a professional image and strong communication skills through effective verbal and nonverbal interaction",
+    "Apply workplace ethics, professional conduct, and respect for diverse work environments",
+    "Demonstrate effective, professional responses to judge questions using clear, relevant, example-based communication"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Materials indicate contestant applied for one of the positions shown on the Organizational Chart of Digital Solutions found in the Style & Reference Manual.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted their Cover Letter and Resume in one (1) combined PDF file.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter - Introduction and Address",
+      "max_points": 10.0,
+      "description": "Engaging and specific, effectively captures attention."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter - Relevance of Skills",
+      "max_points": 10.0,
+      "description": "All skills are clearly relevant to the position, well-explained, and directly applicable to the requirements."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter - Closing Statement",
+      "max_points": 10.0,
+      "description": "Strong, compelling summary leaves a memorable impression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter - Writing Accuracy",
+      "max_points": 10.0,
+      "description": "Error-free, polished grammar and spelling."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter - Layout and Formatting",
+      "max_points": 10.0,
+      "description": "Well-organized, enhances readability and visual appeal."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume - Job Position Listed",
+      "max_points": 10.0,
+      "description": "Clearly listed at the top, prominently highlights target role."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume - Layout and Formatting",
+      "max_points": 10.0,
+      "description": "Well-organized, enhances readability and visual appeal."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume - Order of Work/Volunteer History",
+      "max_points": 10.0,
+      "description": "Completely in reverse chronological order, facilitating clear career progression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Resume - Writing Accuracy",
+      "max_points": 10.0,
+      "description": "Error-free, polished grammar and spelling."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "First Impressions",
+      "max_points": 35.0,
+      "description": "Strong introduction; made a very positive first impression."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Applicant’s Appearance",
+      "max_points": 30.0,
+      "description": "Neat, well-groomed, and appropriately attired."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Personality and Poise",
+      "max_points": 30.0,
+      "description": "Positive, courteous, sincere, confident; good posture and eye contact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Communication Skills",
+      "max_points": 30.0,
+      "description": "Proper grammar and pronunciation; pleasant voice and tone."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Skills & Qualifications",
+      "max_points": 30.0,
+      "description": "Demonstrated strong job skills, good work habits, and problem-solving abilities."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 100.0,
+      "description": "Appropriate and informed answers; good knowledge of the position and company; demonstrated initiative and enthusiasm."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Final Impressions",
+      "max_points": 35.0,
+      "description": "Expressed thanks and concluded the interview effectively."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Documentation",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 100.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 300.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this application event.",
+    "Contestants may not enter both Interview Skills and Advanced Interview Skills in the same year.",
+    "This event may not be repeated.",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Each state is allowed three (3) entries."
+  ],
+  "keywords": [
+    "interview",
+    "resume",
+    "cover letter",
+    "job search",
+    "employability",
+    "communication",
+    "professional image",
+    "workplace ethics",
+    "career preparation",
+    "presentation"
+  ]
+}

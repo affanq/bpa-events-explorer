@@ -1,0 +1,183 @@
+{
+  "summary": "Teams of 2-4 students design and develop a website for Marlowby, a subscription service featuring local products from U.S. cities. The website must be visually engaging, easy to navigate, and explain how Marlowby works, including subscription options and featured cities. Teams present their website live and submit a clickable URL, works cited, release forms, and AI documentation by the deadline.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit all the following in one PDF file: Clickable URL to Project (including any necessary login credentials), Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "Saved File Name(s): WDT -TeamID.pdf",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Team ID cannot be accepted",
+    "The team is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "The team is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Project (including any necessary login credentials)",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Device loaded with website for presentation",
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation",
+    "Optional - Props"
+  ],
+  "competencies": [
+    "Apply audience analysis and design principles and elements to create intuitive navigation, engaging content, and effective page layouts using UX/UI best practices, ensuring accessibility and visual appeal across devices and platforms",
+    "Assess project requirements and delegate tasks effectively within multidisciplinary teams, utilizing project management tools, agile methodologies, and collaborative workflows to create and maintain high-quality, SEO-optimized site content",
+    "Implement accessibility standards (WCAG, ADA), develop responsive designs for multiple devices, integrate search functionality, and incorporate optimized graphics and multimedia elements to enhance usability, engagement, and compliance",
+    "Develop web applications using current standards-based languages (HTML5, CSS3, JavaScript) and implement functionality with modern scripting frameworks (React, Vue) following best practices for performance and security"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted clickable Project URL (with login credentials if needed), Works Cited formatted according to the Style & Reference Manual and BPA Release Form(s ), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Page Layout",
+      "max_points": 60.0,
+      "description": "Visual organization is clear and intuitive; colors and fonts are highly aesthetic and enhance readability; consistent format is maintained across all pages."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Graphic Media Use",
+      "max_points": 60.0,
+      "description": "Graphics strongly enhance the topic; highly creative and original design using templates, code, or both."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content",
+      "max_points": 60.0,
+      "description": "Well-developed, comprehensive information; website strongly supports campaign goals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical",
+      "max_points": 60.0,
+      "description": "Website works seamlessly across browsers; source code is clean, organized, and validated; innovative technologies (e.g., SASS, Python, JavaScript) are effectively used; grammar and spelling are flawless."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Navigational Theme",
+      "max_points": 50.0,
+      "description": "All links present, fully functional, consistently formatted; navigation path is clear, logical, and easy to follow."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Only the team captain should complete the submission",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "website design",
+    "web development",
+    "team event",
+    "UX/UI",
+    "accessibility",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "presentation",
+    "subscription service"
+  ]
+}

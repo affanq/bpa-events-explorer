@@ -1,0 +1,182 @@
+{
+  "summary": "Contestants create and edit a photograph using a natural or constructed frame to highlight the main subject. Entries are submitted digitally and judged on technical quality, creativity, and presentation, with finalists presenting their work to judges in a videoconference.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than seven (7) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at seven (7) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one (1) original photo as a JPG",
+    "Submit one (1) edited photo as a JPG",
+    "Submit one combined PDF file of the Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "Each file must be no larger than 5 megabytes",
+    "Files must be in JPEG or JPG format",
+    "Photos must be at least 1,600 pixels wide or 1,600 pixels tall, OR image size must have a long dimension of at least 1,000 pixels and no more than 3,000 pixels",
+    "Contestant ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Original Photo as JPG",
+    "Edited Photo as JPG",
+    "Works Cited, BPA Release Form(s), and AI Usage and Documentation Form in one combined PDF"
+  ],
+  "deadlines": [
+    "Event registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "Submission deadline is January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Apply professional camera techniques, including proper focus, intentional shot composition, and creative framing strategies to capture compelling, high-quality images",
+    "Demonstrate knowledge of lighting principles, exposure settings, and shutter speed to achieve consistent and technically sound photographic output",
+    "Demonstrate proficiency in industry-standard photography software and equipment to manage all phases of the photographic production process, including digital editing and image refinement",
+    "Demonstrate knowledge of copyright laws and ethical standards as they apply to the creation, use, and distribution of photographic work",
+    "Demonstrate an understanding of audience analysis by designing and delivering a final photographic product that effectively communicates to a defined target audience"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The contestant submitted both the original and edited photos in JPG format.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted one (1) original photo as a JPG, one (1) corrected photo as a JPG, and one combined PDF of the Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical Photo Quality",
+      "max_points": 40.0,
+      "description": "Both photos exceed technical standards with exceptional clarity, composition, and visual appeal, showing creativity or professional-level quality."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Both photos are highly creative, using unique angles or framing to create a visually striking and original image."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Image Quality",
+      "max_points": 20.0,
+      "description": "Both photos are exceptionally sharp and clear, with expert use of depth of field that enhances the subject and overall composition. The image demonstrates a high level of technical skill and visual impact."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting & Exposure",
+      "max_points": 20.0,
+      "description": "Both photos feature expertly controlled lighting and exposure, enhancing the subject and creating a compelling mood. The use of light is intentional and artistic, with no distracting exposure flaws."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Composition",
+      "max_points": 20.0,
+      "description": "Both photos showcase exceptional compositional skill. The arrangement within the frame is deliberate and creative, using advanced techniques to draw attention, create depth, and enhance storytelling through visual structure."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Editing Skill & Effectiveness",
+      "max_points": 20.0,
+      "description": "The edited photo demonstrates expert-level editing with precise and tasteful adjustments. Manipulation is seamless and enhances the image’s clarity, mood, and composition while maintaining authenticity."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery",
+      "max_points": 20.0,
+      "description": "Presentation is well-structured and engaging; the contestant communicates effectively, shows strong enthusiasm, and delivers accurate, insightful content."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Lighting",
+      "max_points": 20.0,
+      "description": "Lighting is intentional and effective, with expert exposure and techniques that enhance subject, mood, and impact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Camera Setting",
+      "max_points": 20.0,
+      "description": "Strong command of camera settings; intentional choices enhance the image, with clear links between technical decisions and creative outcomes."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Audience Engagement",
+      "max_points": 20.0,
+      "description": "Contestant captivates the audience with dynamic and engaging delivery. The theme of the photo is communicated with clarity and impact, creating a strong emotional or intellectual connection between the image and the audience."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges Questions",
+      "max_points": 20.0,
+      "description": "Responses are clear, confident, and insightful; contestant explains technical and creative choices with depth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 150.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 110.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Contestants who do not submit an entry following the topic listed or do not follow the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Contestant ID is required for all submissions. Materials from non-registered members and/or those missing Contestant ID cannot be accepted."
+  ],
+  "keywords": [
+    "photography",
+    "image editing",
+    "creative framing",
+    "digital photo",
+    "visual arts",
+    "presentation",
+    "lighting",
+    "composition",
+    "AI usage",
+    "BPA event"
+  ]
+}

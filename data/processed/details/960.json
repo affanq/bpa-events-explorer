@@ -1,0 +1,195 @@
+{
+  "summary": "Teams design a complete branding package for a school farmers market event, including a required event poster and at least three additional marketing items. The project is submitted as a PDF bundle and presented live to judges, demonstrating design skills, creativity, and teamwork.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "All graphics must be computer generated. Only team-prepared graphics may be used in the design",
+    "Originality and effectiveness will be given greater consideration",
+    "It is recommended to be designed at least 300 dpi",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Team ID is required for all submissions. Materials from non-registered contestants and/or those missing Team ID cannot be accepted",
+    "The team is responsible for securing a signed BPA Release Form(s) from any person, including themselves, whose image or work is used in the project",
+    "The team is responsible for citing all sources, including themselves, on the Works Cited page for any work used on the project",
+    "It is the policy of Business Professionals of America to comply with copyright law. The Style & Reference Manual contains guidelines for Copyright and/or Fair Use",
+    "Contestant will be disqualified for violations of the guidelines",
+    "This is a pre-submitted event. Regional and state conferences have specific deadlines prior to the national deadlines. Please consult the regional or state conference administrator for those deadlines",
+    "For the National Leadership Conference, submit the URL to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027"
+  ],
+  "presubmit_items": [
+    "Event Poster (Required)",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form",
+    "Three (3) of the following: Event Logo, Vendor Table Sign, Reusable Shopping Bag Graphic, Social Media Announcement Graphic, Event Program/Map"
+  ],
+  "deadlines": [
+    "April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation. Projection equipment and external displays will not be provided or permitted"
+  ],
+  "competencies": [
+    "Apply graphic design principles & elements, layouts, and typography to align with brand guidelines for digital and print media",
+    "Use color theory, visual hierarchy, and illustration techniques to create cohesive, theme-based designs",
+    "Create marketing assets to manipulate images and graphics using industry-standard tools for optimization",
+    "Develop and present design concepts tailored to target audiences using digital mockups and interactive prototypes",
+    "Collaborate effectively as a team in design environments using project management and communication tools"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The following items have been saved as PDFs and bundled together in one PDF file: 1. Event Poster (Required) 2. Works Cited 3. BPA Release Form(s) 4. AI Usage and Documentation Form Three (3) of the following: 5. Event Logo 6. Vendor Table Sign 7. Reusable Shopping Bag Graphic 8. Social Media Announcement Graphic 9. Event Program/Map",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Target Audience Awareness",
+      "max_points": 20.0,
+      "description": "Design strongly reflects student needs and interests; highly appropriate."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Designs show exceptional imagination and unique ideas."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Visual Appeal",
+      "max_points": 20.0,
+      "description": "Design is highly engaging and attention-grabbing."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design Cohesion",
+      "max_points": 20.0,
+      "description": "All designs complement each other while maintaining distinctiveness."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Composition (Balance, Unity, Harmony)",
+      "max_points": 20.0,
+      "description": "All designs are well-balanced and harmonious; strong sense of unity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Color & Font Use",
+      "max_points": 20.0,
+      "description": "Colors and fonts are aesthetically pleasing and enhance the design."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Whitespace Usage",
+      "max_points": 20.0,
+      "description": "Excellent use of negative and positive space; enhances clarity and focus."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Element Placement & Emphasis",
+      "max_points": 20.0,
+      "description": "Design elements are placed with purpose; strong use of rule of thirds and emphasis."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "Presentation content flows adequately, and each team contestant’s role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges’ questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing\nSetup lasted no longer than three (3) minutes and presentation lasted no more than ten (10) minutes.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members\nAt least two original team members were present during the presentation.",
+      "max_points": 5.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified"
+  ],
+  "keywords": [
+    "visual design",
+    "branding",
+    "graphic design",
+    "team event",
+    "farmers market",
+    "poster",
+    "logo",
+    "marketing materials",
+    "presentation",
+    "UI/UX"
+  ]
+}

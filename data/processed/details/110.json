@@ -1,0 +1,56 @@
+{
+  "summary": "Contestants complete the accounting cycle for different business types, apply accounting standards, and prepare and analyze financial statements. The event tests accuracy, compliance, and decision-making skills using accounting systems and automation tools. Only secondary division students may enter, and contestants must follow strict equipment and material guidelines.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than ten (10) minutes for orientation",
+    "No more than ninety (90) minutes for testing",
+    "No more than ten (10) minutes for wrap-up"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials",
+    "Sharpened pencils, pens, ruler",
+    "Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines. Contestants who violate this rule will be disqualified."
+  ],
+  "competencies": [
+    "Execute and analyze the accounting cycle using accounting systems and automation tools to ensure accuracy, compliance, and efficiency",
+    "Apply GAAP and relevant international standards to assess and report the value of assets, liabilities, and equity",
+    "Apply accounting principles across service, merchandising, and various business structures",
+    "Analyze and record business and equity transactions using integrated accounting platforms, emphasizing automation, audit trails, and compliance",
+    "Evaluate and manage uncollectible accounts using predictive analytics within accounting platforms",
+    "Apply depreciation methods within accounting systems, incorporating tax regulations and asset lifecycle management",
+    "Calculate and analyze interest using financial modeling tools, with emphasis on real-time data and compliance",
+    "Apply inventory valuation methods using inventory management systems integrated with accounting platforms",
+    "Prepare, interpret, and analyze financial statements, emphasizing real-time data to support decision-making",
+    "Perform departmental allocations using integrated financial systems, focusing on cost centers, shared services, and performance metrics"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective | application",
+    "AI Policy Level 1 No AI Allowed",
+    "No equipment, supplies, or materials other than those specified for an event will be allowed in the testing area",
+    "Previous Business Professionals of America tests and/or sample tests or facsimiles (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification."
+  ],
+  "eligibility_notes": [
+    "Any secondary division contestant may enter this application event.",
+    "Contestants may not enter Fundamental Accounting and Advanced Accounting in the same year.",
+    "SECONDARY EVENT ONLY"
+  ],
+  "keywords": [
+    "accounting",
+    "GAAP",
+    "financial statements",
+    "automation",
+    "business structures",
+    "predictive analytics",
+    "inventory valuation",
+    "departmental allocations",
+    "secondary division",
+    "BPA competition"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "summary": "Contestants analyze and apply ethical frameworks to real-world business scenarios involving ethical dilemmas. They prepare and deliver an oral presentation proposing solutions, demonstrating professionalism, integrity, and ethical reasoning. The event includes a preparation period, a timed presentation, and a judges' question session.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than twenty (20) minutes preparation time",
+    "No less than five (5) minutes and no more than seven (7) minutes for oral presentation",
+    "No more than three (3) minutes judges’ questions",
+    "Presentation will be stopped at seven (7) minutes"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Ethics and Professionalism Resources Manual",
+    "Sharpened pencils, pens"
+  ],
+  "competencies": [
+    "Communicate ethical ideas clearly and professionally using effective verbal and nonverbal communication skills",
+    "Organize the presentation using a clear introduction, body, and conclusion to explain and support an ethical position",
+    "Apply recognized ethical principles and professional standards when evaluating dilemmas and making decisions",
+    "Analyze ethical dilemmas and apply critical thinking to propose fair, logical, and defensible solutions.",
+    "Demonstrate integrity, professionalism, and respect when presenting ethical viewpoints and interacting with others",
+    "Support arguments with relevant examples, evidence, policies, or real-world business practices",
+    "Respond to judge questions clearly and confidently, using BPA’s Ethics and Professionalism Resources Manual, scenario details, examples, and sound ethical reasoning developed during your preparation"
+  ],
+  "rubric": [
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": "If any question results in a NO, please assign a score of 0"
+    },
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, with a mostly clear structure and smooth transitions between points."
+    },
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "The presentation lasted no less than five (5) minutes and no more than seven (7) minutes and the contestant did not use any materials other than those specified."
+    }
+  ],
+  "rubric_total_points": 100.0,
+  "rubric_section_totals": [
+    {
+      "section": "750 Ethics & Professionalism Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Judges’ comments will be returned digitally through the online judging system at the national level"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event."
+  ],
+  "keywords": [
+    "ethics",
+    "professionalism",
+    "business",
+    "presentation",
+    "critical thinking",
+    "decision making",
+    "oral presentation",
+    "ethical reasoning",
+    "problem solving",
+    "BPA event"
+  ]
+}

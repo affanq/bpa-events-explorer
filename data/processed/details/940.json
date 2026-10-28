@@ -1,0 +1,230 @@
+{
+  "summary": "Teams create a digital game that teaches players about personal finance and money management, including budgeting, saving, investing, and making financial decisions. The game must be educational, engaging, and based on real-world scenarios, and teams present their game to judges. Teams must submit a combined PDF with required documentation and a clickable URL to the game before the deadline.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing all required items",
+    "File must be named DGDT-TeamID.pdf",
+    "Submit at https://upload.bpa.org",
+    "No changes can be made to the project after the date of submission",
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Team ID cannot be accepted"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Game (may include Artwork, Executable File, Storyboard, etc.)",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage & Documentation Form"
+  ],
+  "deadlines": [
+    "April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation",
+    "Optional: Props"
+  ],
+  "competencies": [
+    "Design engaging and balanced gameplay mechanics using player-experience, data-driven methods, and continuous refinement",
+    "Develop clear rules and embed essential information within gameplay through integrated tutorials and visual cues",
+    "Integrate storyline and scoring systems to enhance player engagement and progression",
+    "Deliver game prototype and presentation to highlight key features and explain design"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing URL to Project Files, Works Cited formatted according to the Style & Reference Manual and BPA Release Form(s), and AI Usage & Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creative Core Mechanics",
+      "max_points": 20.0,
+      "description": "Highly creative and engaging mechanics."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Player Choice and Agency",
+      "max_points": 20.0,
+      "description": "Choices significantly impact gameplay."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Balance Use of Chance",
+      "max_points": 20.0,
+      "description": "Chance enhances strategy and engagement."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Clear Rules",
+      "max_points": 20.0,
+      "description": "Rules are well-written and intuitive."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Logical Rules",
+      "max_points": 20.0,
+      "description": "Rules are consistently applied and well-integrated."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Rules Tested in Varied Play",
+      "max_points": 20.0,
+      "description": "Thorough testing across varied scenarios."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Narrative Supports Gameplay",
+      "max_points": 20.0,
+      "description": "Narrative is immersive and well-developed."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Appropriate Play Time",
+      "max_points": 20.0,
+      "description": "Duration enhances gameplay experience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Fair Gameplay",
+      "max_points": 20.0,
+      "description": "Game is balanced and inclusive."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Progression Difficulty",
+      "max_points": 20.0,
+      "description": "Difficulty scales thoughtfully and effectively."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Effective Topic Education",
+      "max_points": 20.0,
+      "description": "Educational content is engaging and insightful."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Research-Based Content",
+      "max_points": 20.0,
+      "description": "Research is thorough and well-integrated."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Clear Win/Loss Conditions",
+      "max_points": 20.0,
+      "description": "Conditions are clear and enhance gameplay."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Thematic and Appealing Design",
+      "max_points": 20.0,
+      "description": "Design is polished, thematic, and engaging."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, use appropriate gestures and body language, and vary their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "Presentation content flows adequately, and each team contestant's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 290.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the time allotted",
+    "No Internet access will be provided on-site at the NLC; however, contestants/teams may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic, the Copyright and/or Fair Use Guidelines or Artificial Intelligence Usage & Citation Policy will be disqualified"
+  ],
+  "keywords": [
+    "digital game design",
+    "personal finance",
+    "money management",
+    "budgeting",
+    "educational game",
+    "team event",
+    "presentation",
+    "game development",
+    "middle level",
+    "BPA"
+  ]
+}

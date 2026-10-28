@@ -1,0 +1,47 @@
+{
+  "summary": "Contestants demonstrate their skills in spreadsheet applications by formatting data, creating formulas, and sharing information for analysis. All work is completed on-site and submitted electronically. The event is open to any middle level contestant.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than ten (10) minutes orientation",
+    "no more than sixty (60) minutes testing time",
+    "no more than ten (10) minutes wrap-up"
+  ],
+  "submission_requirements": [
+    "All student-produced jobs completed on-site are uploaded electronically and are not printed at the national level"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials"
+  ],
+  "competencies": [
+    "Demonstrate basic skills in the creation and editing of spreadsheets",
+    "Create formulas, including calculations that include order of operations and absolute cell reference",
+    "Create graphs and charts using spreadsheet data",
+    "Display spreadsheets to show formulas and gridlines",
+    "Export files as pdf to submit"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: application",
+    "AI Policy Level 1 No AI Allowed"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this application event."
+  ],
+  "keywords": [
+    "spreadsheet",
+    "formulas",
+    "charts",
+    "graphs",
+    "data analysis",
+    "middle level",
+    "BPA",
+    "application event",
+    "Excel",
+    "PDF export"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "summary": "Contestants demonstrate foundational knowledge of computer programming concepts through an objective test. The event covers languages, logic, algorithm design, data structures, and core software development principles.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than sixty (60) minutes testing time"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "(Optional) Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines."
+  ],
+  "competencies": [
+    "Demonstrate foundational understanding of computer science principles, including logic, data structures, and algorithms, and demonstrate proficiency in modern programming languages with adaptability to others as needed",
+    "Design and implement efficient algorithms using structured and object-oriented design techniques to create scalable and maintainable software solutions",
+    "Develop applications using control flow, logical operations, strings, arrays, classes, file I/O, loops, and advanced data structures to process and manage data effectively",
+    "Apply the software development lifecycle and create design artifacts such as UML diagrams, flowcharts, and pseudocode to plan, implement, and communicate system architecture",
+    "Write and optimize SQL queries to interact with relational databases for data storage, retrieval, and analysis"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed. Contestants who violate this rule will be disqualified"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Unlimited entries by state"
+  ],
+  "keywords": [
+    "computer programming",
+    "algorithm design",
+    "data structures",
+    "programming languages",
+    "software development",
+    "SQL",
+    "UML diagrams",
+    "flowcharts",
+    "objective test",
+    "BPA open event"
+  ]
+}

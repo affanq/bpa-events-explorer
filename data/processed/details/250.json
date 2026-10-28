@@ -1,0 +1,210 @@
+{
+  "summary": "Teams conduct a simulated business meeting using parliamentary procedure, demonstrating leadership, correct meeting management, and professional decorum. The event includes a parliamentary demonstration, an oral examination, and an objective test. Teams are evaluated on their ability to apply Robert’s Rules of Order, process motions, communicate clearly, and record accurate minutes.",
+  "team_size_min": 4,
+  "team_size_max": 8,
+  "time_limits": [
+    "No more than fifteen (15) minutes preparation time",
+    "No more than fifteen (15) minutes parliamentary demonstration",
+    "No more than five (5) minutes judges’ questions"
+  ],
+  "submission_requirements": [
+    "Secretary’s handwritten notes and contest agenda submitted to judges immediately after the presentation"
+  ],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Robert’s Rules of Order Newly Revised (current edition)",
+    "Sharpened pencils, pens for secretary’s minutes",
+    "Gavel",
+    "Published and/or unpublished reference materials in the preparation room only",
+    "Opening and Closing a Meeting scripts in the preparation room only"
+  ],
+  "competencies": [
+    "Demonstrate accurate knowledge of parliamentary procedures and apply the rules correctly during a meeting",
+    "Apply democratic principles to ensure fair, orderly, and inclusive decision-making",
+    "Conduct or participate in a structured business meeting using proper procedures, agendas, and meeting etiquette",
+    "Correctly process, state, handle, and dispose of assigned parliamentary motions, demonstrating proper use of debate, precedence, and voting procedures",
+    "Manage time effectively to keep the meeting progressing efficiently and within required limits",
+    "Work effectively as a team by assigning roles, collaborating respectfully, and supporting a smooth and efficient meeting demonstration",
+    "Communicate clearly and professionally when stating motions, presenting arguments, and debating, using effective verbal and nonverbal delivery skills",
+    "Interpret and follow an agenda to maintain proper meeting flow and sequencing of business",
+    "Demonstrate professional conduct and meeting etiquette, showing respect for members, officers, and the decision-making process",
+    "Record clear, accurate, and essential meeting minutes in real time, following basic RONR guidelines"
+  ],
+  "rubric": [
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Chairperson’s presiding ability Subject #1",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Chairperson’s presiding ability Subject #2",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Chairperson’s presiding ability Subject #3",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Clarity and correctness of business transactions Subject #1",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Clarity and correctness of business transactions Subject #2",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 1 Only",
+      "criterion": "Clarity and correctness of business transactions Subject #3",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Followed voting procedures Subject #1",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Followed voting procedures Subject #2",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Followed voting procedures Subject #3",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Judges’ questions Question #1",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Judges’ questions Question #2",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 2 Only",
+      "criterion": "Judges’ questions Question #3",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "General participation by contestants, excluding secretary. Subject #1",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "General participation by contestants, excluding secretary. Subject #2",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "General participation by contestants, excluding secretary. Subject #3",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Quality of discussion and power of expression, communication skills, and poise. Subject #1",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Quality of discussion and power of expression, communication skills, and poise. Subject #2",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Quality of discussion and power of expression, communication skills, and poise. Subject #3",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Included Opening and Closing ceremonies",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Followed designated order of business",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "Secretary’s handwritten notes of the meeting prepared in a legible manner",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Judge 3 Only",
+      "criterion": "At least four original team members were present during the presentation",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Judge 1 Only",
+      "total_points": 120.0
+    },
+    {
+      "section": "Judge 2 Only",
+      "total_points": 90.0
+    },
+    {
+      "section": "Judge 3 Only",
+      "total_points": 160.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "All team members must take an objective parliamentary procedure test. The test should be administered to all team members at the same time. The average score will be added to the team score.",
+    "The test is specific to this event. Reference materials are NOT allowed.",
+    "Suggested resource for objective portion: Dunbar’s Manual of Parliamentary Procedure",
+    "Finals may be part of the competition",
+    "Judge questions will be directed to the Chairperson for any contestant to answer. Questions from the judges will have reference to the abilities demonstrated during the event.",
+    "Judges’ comments will be returned digitally through the online judging system at the national level."
+  ],
+  "eligibility_notes": [
+    "Any secondary division contestant may enter this team event.",
+    "SECONDARY EVENT ONLY",
+    "Each state is allowed three (3) entries.",
+    "Contestants who participate in this event at the national level are eligible for twelve (12) years of paid membership offered by the American Institute of Parliamentarians."
+  ],
+  "keywords": [
+    "parliamentary procedure",
+    "business meeting",
+    "Robert’s Rules of Order",
+    "leadership",
+    "team event",
+    "meeting management",
+    "debate",
+    "minutes",
+    "voting",
+    "secondary division"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "summary": "Teams design and prototype a digital wellness experience for Gen Z called BalanceMe, including an educational website, a mobile app with five screens, and a social media campaign artboard. The project must be submitted as a combined PDF and presented live, with scoring based on technical execution and presentation. Teams must follow all guidelines, including copyright and AI usage policies.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing Clickable URL to Project Files, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Website",
+    "Mobile App Prototype",
+    "Campaign Artboard",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for their presentation",
+    "Optional - Props"
+  ],
+  "competencies": [
+    "Develop and implement integrated design strategies that maintain consistent branding and visual style across digital, print, and interactive media platforms, employing advanced design principles & elements and layout techniques—including grid systems, hierarchy, and whitespace—for readability and accessibility",
+    "Apply audience analysis and user-centered design principles & elements while incorporating accessibility standards (WCAG) and responsive design techniques to create content that is relevant, engaging, and usable for all audiences across devices",
+    "Collaborate effectively within multidisciplinary teams and communicate ideas persuasively using digital tools and visual storytelling techniques, adapting style and content to audience and context",
+    "Conduct usability testing and gather user feedback to iteratively refine designs, ensuring optimal user experience and accessibility"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing their Clickable URL to Project Files, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audience Insight & Content Relevance",
+      "max_points": 35.0,
+      "description": "Strong insight into the audience. Content is engaging, relevant, and consistently tailored across platforms."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Technical Execution & Usability",
+      "max_points": 35.0,
+      "description": "Flawless execution — visuals, navigation, and interactions are intuitive, responsive, and polished."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Originality",
+      "max_points": 35.0,
+      "description": "Highly creative and original. Ideas are fresh, engaging, and imaginative."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design Principles & Layout Consistency",
+      "max_points": 35.0,
+      "description": "Exceptional use of design principles. Layouts are cohesive, visually engaging, and enhance user experience across all materials."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Incorporation of Design Trends",
+      "max_points": 35.0,
+      "description": "Cutting-edge visual trends are seamlessly integrated, enhancing the design’s appeal to modern audiences and building credibility within gaming culture."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cross-Platform User Experience (UX)",
+      "max_points": 35.0,
+      "description": "Flawless, platform-specific UX that flows cohesively across web, app, and social. User goals are anticipated and met at every touchpoint."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Use of Innovative Technology",
+      "max_points": 35.0,
+      "description": "Strong, strategic use of advanced tools or platforms (e.g., Figma prototyping, animation, responsive elements) that elevate the user experience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall User Experience",
+      "max_points": 35.0,
+      "description": "UX is seamless, intuitive, and fully aligns with branding and user expectations. Experiences feel complete, logical, and immersive."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 10.0,
+      "description": "The text is clean, polished, and free of grammar, spelling, and punctuation errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information"
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the team within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Only the team captain should complete the submission",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event",
+    "A team will consist of 2 -4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "user experience",
+    "UX design",
+    "digital wellness",
+    "mobile app prototype",
+    "website design",
+    "social media campaign",
+    "team event",
+    "design principles",
+    "visual storytelling",
+    "accessibility"
+  ]
+}

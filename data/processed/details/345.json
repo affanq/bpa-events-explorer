@@ -1,0 +1,53 @@
+{
+  "summary": "Contestants demonstrate their knowledge of database development and SQL scripting by completing an objective test. The event covers topics such as database design, advanced SQL queries, and security best practices. Secondary and postsecondary students can participate, and certification testing is included at the National Leadership Conference.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than sixty (60) minutes testing time",
+    "No more than fifty (50) minutes for certification test"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Published and/or unpublished non-electronic written reference materials"
+  ],
+  "competencies": [
+    "Design and implement normalized relational database schemas by applying keys, constraints, and normalization techniques (up to 3NF) to ensure data integrity and scalability",
+    "Select appropriate data types and design indexes to optimize storage, accuracy, and query performance in medium- to large-scale database systems",
+    "Design and manage schemas and use DDL and DML commands to create, modify, and manipulate database structures and data securely and efficiently",
+    "Write advanced SQL queries using WHERE clauses, joins, set operations (UNION, INTERSECT), and aggregate functions to retrieve, combine, and analyze data for business insights",
+    "Create and manage views, implement transactions, and design backup and recovery strategies to ensure secure, consistent, and resilient database operations",
+    "Develop and manage stored procedures to automate database operations, enforce business logic, and improve performance",
+    "Distinguish and evaluate relational and NoSQL database architectures for diverse business applications",
+    "Configure and manage traditional on-premises database servers to support scalable, secure, and highly available database environments",
+    "Demonstrate awareness of Object-Relational Mapping (ORM) technologies —including Hibernate and Entity Framework Core —to understand how applications interact with relational databases through abstraction layers",
+    "Apply advanced query optimization strategies beyond basic indexing, such as execution plan analysis, query refactoring, partitioning, and memory/IO tuning to improve performance in complex workloads",
+    "Implement security best practices for stored procedures, including input validation, least-privilege execution, schema separation, and protection against SQL injection and privilege escalation"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "Previous Business Professionals of America tests and/or sample tests (handwritten, photocopied or keyed) may not be taken into the testing area. Violation of this rule will result in disqualification.",
+    "At NLC, contestants will take IT Specialist - Databases certification as part of the event. Contestants passing this certification will have 50 points added to their event score.",
+    "Reference materials are not allowed for certification testing"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Entries vary by state"
+  ],
+  "keywords": [
+    "SQL",
+    "database",
+    "relational schema",
+    "normalization",
+    "query optimization",
+    "stored procedures",
+    "NoSQL",
+    "certification",
+    "IT Specialist",
+    "BPA"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "summary": "Contestants demonstrate foundational knowledge of information technology, including hardware, software, operating systems, networking, security, and technology applications. The event is an objective test with a time limit of sixty minutes. Any secondary or postsecondary student may enter, and reference materials or AI use are not allowed.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than sixty (60) minutes testing time"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "(Optional) Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines."
+  ],
+  "competencies": [
+    "Demonstrate foundational understanding of core IT concepts, including hardware, software, operating systems, and networking, and apply practical skills to configure, manage, and troubleshoot these components for secure and efficient operations",
+    "Explain the evolution of programming languages and apply this knowledge to evaluate language paradigms, features, and appropriate use cases when selecting technologies for various projects",
+    "Demonstrate understanding of cybersecurity principles, including risk management, access control, authentication, threat awareness, and best practices for protecting information systems",
+    "Demonstrate understanding of legal, ethical, and policy considerations in IT environments, including data privacy, intellectual property, compliance standards, and responsible technology use",
+    "Demonstrate foundational knowledge of database concepts, including relational structures, SQL basics, data integrity, storage practices, and the role of data management in organizational operations",
+    "Demonstrate understanding of operating system concepts such as file systems, process management, user permissions, configuration tools, and system utilities as they relate to supporting business technology environments",
+    "Demonstrate foundational knowledge of emerging and modern IT technologies —including cloud computing, virtualization, IoT, automation, and AI-related concepts —and evaluate their impact on organizational efficiency and technology strategy"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed. Contestants who violate this rule will be disqualified.",
+    "Contestants who violate calculator rule will be disqualified."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Unlimited entries by state"
+  ],
+  "keywords": [
+    "information technology",
+    "hardware",
+    "software",
+    "networking",
+    "cybersecurity",
+    "database",
+    "operating systems",
+    "cloud computing",
+    "virtualization",
+    "objective test"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "summary": "Teams create and submit a comprehensive social media marketing campaign for the Riverside Rockets, a fictional minor league baseball team. The campaign must include strategies for community engagement, content calendars, sponsorship promotion, geo-targeted advertising, a detailed budget with ROI estimates, and measurable success metrics. Teams present their campaign virtually to judges and are scored on both their written submission and oral presentation.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing the Social Media Marketing Campaign, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name: V12-TeamID.pdf",
+    "Submit to https://upload.bpa.org",
+    "Team ID is required for all submissions",
+    "Only the team captain should complete the submission"
+  ],
+  "presubmit_items": [
+    "Social Media Marketing Plan",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time on December 1, 2026",
+    "Submission deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Develop a comprehensive written social media marketing campaign that integrates strategy, content planning, and measurable goals aligned to business objectives",
+    "Demonstrate effective oral and written communication skills, including the ability to present research, information, and persuasive content in a clear and professional manner",
+    "Identify and utilize internal and external resources to support campaign planning, content development, and marketing execution",
+    "Identify and analyze the target customer base — including consumer buyer personas, organizational markets, and demographics — and demonstrate how content strategy is informed by and aligned to audience needs",
+    "Develop and execute effective content creation strategies across relevant social media platforms, ensuring consistency, engagement, and alignment with campaign goals",
+    "Utilize fixed financial resources strategically within a marketing environment to maximize campaign reach and impact",
+    "Demonstrate an understanding of how digital marketing influences and responds to shifts in consumer demographics and behavior",
+    "Demonstrate the teamwork skills required to collaborate effectively and perform at a high level in a professional, world-class workforce environment"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing the Social Media Campaign, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Executive Summary",
+      "max_points": 20.0,
+      "description": "Provides a compelling and strategic overview of the campaign."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Event/Product/Service Description",
+      "max_points": 20.0,
+      "description": "Offers a vivid and engaging description that enhances understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Marketing Objectives",
+      "max_points": 20.0,
+      "description": "Objectives are strategic, measurable, and aligned with campaign goals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creative Content",
+      "max_points": 20.0,
+      "description": "Content is highly engaging, original, and tailored to the audience."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Content Strategy",
+      "max_points": 20.0,
+      "description": "Strategy is innovative, cohesive, and well-integrated across platforms."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Campaign Budget",
+      "max_points": 20.0,
+      "description": "Budget is detailed, realistic, and strategically allocated."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Methods of Measuring Success",
+      "max_points": 20.0,
+      "description": "Metrics are comprehensive, actionable, and aligned with objectives."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Overall Appearance",
+      "max_points": 20.0,
+      "description": "Document is visually polished and enhances readability and engagement."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Stage Presence",
+      "max_points": 20.0,
+      "description": "Team is highly confident, expressive, and fully engages the audience throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Explanation of Development & Design",
+      "max_points": 20.0,
+      "description": "Thoroughly explains and connects all phases of development to project objectives."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Technology & Techniques",
+      "max_points": 20.0,
+      "description": "Provides detailed, insightful explanation of innovative tools and techniques used."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Media Elements & Assets",
+      "max_points": 20.0,
+      "description": "Offers a comprehensive and engaging explanation of asset creation and integration."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Roles",
+      "max_points": 20.0,
+      "description": "Provides a thoughtful and detailed explanation of team collaboration and responsibilities."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Oral Presentation Quality/Style & Effectiveness",
+      "max_points": 20.0,
+      "description": "Presentation style is polished, dynamic, and powerfully enhances audience understanding and engagement."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 20.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 170.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 155.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at ten (10) minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event.",
+    "A team will consist of 2-4 contestants.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams who do not submit an entry following the topic listed below, do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible."
+  ],
+  "keywords": [
+    "social media marketing",
+    "team event",
+    "minor league sports",
+    "community engagement",
+    "content calendar",
+    "sponsorship promotion",
+    "geo-targeted advertising",
+    "campaign budget",
+    "ROI",
+    "digital marketing"
+  ]
+}

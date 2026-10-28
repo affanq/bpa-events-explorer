@@ -1,0 +1,211 @@
+{
+  "summary": "Teams of 2-4 students create a 3-5 minute podcast episode exploring myths and realities about teenagers and technology. The podcast must address two specific myths, use real-world evidence, demonstrate effective audio production, and include a clear takeaway message. Teams submit their podcast and supporting documents before the deadline and present their work to judges at the competition.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing clickable URL to Podcast, Works Cited, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name: PPT-TeamID.pdf",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Team ID cannot be accepted",
+    "Secure a signed BPA Release Form(s) from any person, including themselves, whose image or work is used in the project",
+    "Cite all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Materials must follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Podcast",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation"
+  ],
+  "competencies": [
+    "Apply audience analysis and design principles & elements to research and develop discussion points, outlines, and scripts, ensuring clear messaging and engagement for a defined target audience across platforms",
+    "Develop and edit professional lead-in and lead-out segways and implement audio editing and splicing workflows using industry-standard software, incorporating nonlinear editing, mixing, and effects to enhance storytelling and production value",
+    "Utilize industry-standard audio production software, hardware, and workflows and apply modern recording techniques to capture clear, high-quality sound in various environments, adapting to project needs and technical requirements",
+    "Collaborate effectively within multidisciplinary audio production teams, utilizing project management and communication platforms to optimize workflow and production quality"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing clickable URL to Podcast, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Episode title and cover art",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Opening/Introduction/Transitions",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Closing",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Topic addressed with multiple actors and viewpoints",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Podcast made effective use of time and was within the audio time limit of 3-5 minutes",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Introduction",
+      "max_points": 35.0,
+      "description": "Catchy, clever intro with relevant info and a clear purpose that engages the listener right away."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Topic Development",
+      "max_points": 35.0,
+      "description": "Creative, original content supports the podcast’s purpose. Information is accurate."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Message",
+      "max_points": 35.0,
+      "description": "The podcast is presented in highly engaging, conversational way that draws the listener in."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Music, Tone, and Audience Appeal",
+      "max_points": 35.0,
+      "description": "Music enhances the podcast, suits the mood and content. Volume is well-balanced and clear."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Professionalism & Voice Quality",
+      "max_points": 35.0,
+      "description": "Delivery is well-rehearsed & smooth. The speaker enunciates clearly & uses an appropriate expression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Use of Ambient Sound & Noise Control",
+      "max_points": 35.0,
+      "description": "Podcast has zero to very minimal background noise and/or interruptions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the team within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Only the team captain should complete the submission",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event",
+    "A team will consist of 2-4 contestants",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified",
+    "AI Policy Level 1 No AI Allowed",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "podcast",
+    "audio production",
+    "team event",
+    "teenagers and technology",
+    "myth vs reality",
+    "presentation",
+    "K-12 audience",
+    "voice clarity",
+    "transitions",
+    "sound elements"
+  ]
+}

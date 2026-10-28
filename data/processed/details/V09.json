@@ -1,0 +1,133 @@
+{
+  "summary": "Teams participate in a virtual investment simulation, managing a $100,000 portfolio by investing in stocks, mutual funds, and bonds. The top teams create a multimedia presentation explaining their investment strategies, choices, and performance, and answer judges' questions in a videoconference. Teams must follow specific investment rules and submit their entry by the deadline to be eligible.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Presentation WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "submission_requirements": [
+    "Team ID is required for all submissions",
+    "Materials from non-registered contestants and/or those missing Team ID cannot be accepted",
+    "The team is responsible for securing a BPA Release Form(s) from any person, including themselves, whose image or work is used in the project",
+    "The team is responsible for citing all sources, including themselves, on the Works Cited page for any work used on the project",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [],
+  "deadlines": [
+    "Event registration deadline is no later than 11:59 p.m. Eastern Time, on December 1, 2026",
+    "Teams must purchase at least $8,000-$10,000 of shares in at least 5 different stocks each in a different industry by 3:59 pm ET on Friday, December 19, 2026",
+    "Teams MUST purchase and hold $10,000 in mutual funds by 3:59 pm ET on Friday, December 19, 2026",
+    "Teams MUST make a minimum of six purchases by December 19th to be eligible for placement"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Research and analyze various investment options, evaluating cash and asset allocation strategies to maximize return within given restrictions",
+    "Calculate investment amounts and return on investments, applying relevant formulas and financial concepts to assess performance and value",
+    "Manage an online investment fund, applying real-world decision-making to monitor and adjust holdings over time",
+    "Determine the timing of buying and selling investments by interpreting market trends, economic indicators, and relevant financial factors",
+    "Prepare investment reports using spreadsheet software to organize, calculate, and present financial data in a clear and professional format",
+    "Develop and deliver a presentation of investment strategies, communicating findings, rationale, and recommendations to a professional audience"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Opening & Summary",
+      "max_points": 20.0,
+      "description": "Introduction is engaging; summary clearly reinforces key insights."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Investment Strategy",
+      "max_points": 20.0,
+      "description": "Strategy is well-justified and shows strong grasp of investment principles and goals."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Technical Language",
+      "max_points": 20.0,
+      "description": "Technical terms are used precisely and effectively, with clear, insightful explanations that enhance understanding."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Financial Understanding",
+      "max_points": 20.0,
+      "description": "The strategy and research reflect strong financial expertise, with thorough, well-supported analysis and clear insight."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Visual Design",
+      "max_points": 20.0,
+      "description": "Visual elements are polished, well-balanced, and enhance the message with strong visual appeal and clarity."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation Delivery",
+      "max_points": 20.0,
+      "description": "Delivery is polished and engaging, with strong vocal presence, precise diction, and consistent, natural eye contact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 20.0,
+      "description": "Responses are confident, detailed, and insightful."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 155.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary or postsecondary contestant may enter this event",
+    "A team will consist of 2-4 contestants",
+    "There are no restrictions on the number of entries per chapter or per state",
+    "Teams who do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy will be disqualified",
+    "Teams participating in the competition must be registered for the event prior to the submission deadline to be eligible"
+  ],
+  "keywords": [
+    "investment",
+    "portfolio management",
+    "stocks",
+    "mutual funds",
+    "bonds",
+    "financial analysis",
+    "virtual competition",
+    "presentation",
+    "team event",
+    "multimedia"
+  ]
+}

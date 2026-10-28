@@ -1,0 +1,181 @@
+{
+  "summary": "Teams research and develop strategies for competing in a virtual esports tournament, submit a research paper on the business of producing esports events, and deliver a presentation highlighting their strategies and lessons learned. The event includes both a written submission and a virtual presentation, and all materials are submitted and judged online.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "Setup: no more than three (3) minutes",
+    "Presentation: no more than ten (10) minutes",
+    "Judges’ questions: no more than five (5) minutes",
+    "Presentation will be stopped at 10 minutes"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file containing the Research Paper, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form",
+    "File name: V13-TeamID.pdf",
+    "Research paper must not exceed three (3) pages single-sided (excluding Works Cited)",
+    "Follow the Report format in the Style & Reference Manual (no Title Page required)",
+    "Header on the first page must include: Contestant ID Number (Sender’s ID Number - XXXXXXXX), Edna Renick (Recipient’s Name), Administrative Support Department (Recipient’s Department), and Current Date",
+    "In-text citations are required throughout the paper"
+  ],
+  "presubmit_items": [
+    "Research paper",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "Event registration deadline: no later than 11:59 p.m. Eastern Time on December 1, 2026",
+    "Submission deadline: January 15, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Analyze esports scenarios, gameplay data, and game characteristics to troubleshoot strategies, develop visualizations, and refine and execute strategic plans for effective competitive gameplay",
+    "Define and analyze how individual player personalities, play styles, and roles—including patterns observed in professional players—contribute to team dynamics and improve overall competitive performance",
+    "Create and communicate short- and long-term individual and team goals, incorporating time-management strategies that balance esports, academics, and personal responsibilities",
+    "Demonstrate effective technical reading, writing, and verbal/non-verbal communication skills to support collaboration, research, and professional presentation",
+    "Demonstrate healthy gaming concepts and strategies in local and virtual environments, promoting physical, mental, and social well-being in competitive settings",
+    "Demonstrate knowledge of intellectual property laws, legal responsibilities, and ethical standards in esports and gaming—including copyright, trademarks, DMCA, and patents—and evaluate how esports technology and social media have influenced culture, consumer behavior, and industry growth"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Research Paper did not exceed three (3) pages single-sided (excluding Works Cited).",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted one (1) combined PDF file containing the Research Paper, Works Cited formatted according to the Style & Reference Manual, BPA Release Form(s), and AI Usage and Documentation Form.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Introduction/Summary",
+      "max_points": 20.0,
+      "description": "Delivery of a compelling and well-supported summary that enhances understanding."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Comprehension of Topic",
+      "max_points": 20.0,
+      "description": "Shows deep insight and mastery of the subject matter."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Organization & Expansion of Ideas",
+      "max_points": 20.0,
+      "description": "Ideas are well-developed, insightful, and supported with strong analysis."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity",
+      "max_points": 20.0,
+      "description": "Presents a unique and innovative perspective with rich, varied sources."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "Contains very few or no grammar or spelling errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Opening & Summary",
+      "max_points": 20.0,
+      "description": "The introduction is engaging and well-structured, and the summary provides a clear, insightful wrap-up that reinforces key findings."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content of Presentation",
+      "max_points": 20.0,
+      "description": "Content is insightful, well-developed, and strongly supports the presentation goals."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Presentation Effectiveness",
+      "max_points": 20.0,
+      "description": "Delivery is polished, engaging, and enhances the impact of the presentation."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges Questions",
+      "max_points": 20.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 110.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 95.0
+    }
+  ],
+  "judging_notes": [
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "Presentation will be stopped at 10 minutes."
+  ],
+  "eligibility_notes": [
+    "Any middle level, secondary, or postsecondary contestant may enter this event.",
+    "A team will consist of 2–4 contestants, depending on the division.",
+    "There are no restrictions on the number of entries per chapter or per state.",
+    "Teams that do not submit an entry following the topic listed below or do not follow the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "All teams will play Fortnite and must have a minimum of three (3) contestants. Teams may have a maximum of four contestants; not all contestants of the team are required to play during the game play round.",
+    "Contestants participating in the competition must be registered for the event prior to the submission deadline to be eligible.",
+    "Only the team captain should complete the submission."
+  ],
+  "keywords": [
+    "esports",
+    "virtual competition",
+    "team event",
+    "research paper",
+    "presentation",
+    "event planning",
+    "sponsorship",
+    "broadcasting",
+    "cybersecurity",
+    "career opportunities",
+    "Fortnite"
+  ]
+}

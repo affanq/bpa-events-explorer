@@ -1,0 +1,131 @@
+{
+  "summary": "Teams analyze a real-world small business case and develop a strategic, data-driven growth plan. They present recommendations to address financial, operational, human resource, and marketing challenges, and respond to an additional scenario element at higher competition levels. The event includes both a prepared and an on-site component.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than five (5) minutes orientation",
+    "No more than thirty (30) minutes preparation time for state and national levels",
+    "No more than three (3) minutes setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than ten (10) minutes judges’ questions"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the Works Cited formatted according to the Style & Reference Manual for each round of presentations (preliminaries and finals)",
+    "Signed BPA Release Form(s) for each round of presentations",
+    "AI Usage and Documentation Form for each round of presentations"
+  ],
+  "presubmit_items": [],
+  "deadlines": [
+    "Teams must be registered for the national competition before the submission deadline"
+  ],
+  "what_to_bring": [
+    "Sharpened pencils, pens",
+    "Optional (Prep Room Only) – Laptop/notebook computer, portable printer with paper (1 per team)",
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation",
+    "Optional - Prepared posters, graphs, poster board, flip charts and markers, product props (samples and promotional items)"
+  ],
+  "competencies": [
+    "Develop and implement a strategic action plan, effectively managing time, finances, and personnel to achieve measurable outcomes",
+    "Apply entrepreneurial, managerial, and problem-solving principles to address business challenges and develop innovative solutions",
+    "Interpret and communicate data-driven insights, identifying key issues, assumptions, and evidence to support business recommendations",
+    "Conduct financial and situational analyses using SWOT, forecasting, and other strategic tools to evaluate short- and long-term impacts",
+    "Analyze team strengths, define roles, and delegate responsibilities to meet project goals",
+    "Deliver a persuasive, data-supported team presentation using clear visuals and appropriate digital tools",
+    "Apply ethical, legal, and socially responsible decision-making in all business recommendations",
+    "Use digital collaboration and productivity tools to plan, analyze, and present business solutions",
+    "Evaluate business strategies using KPIs and analytics to measure performance and guide decisions",
+    "Use innovation and change-management principles to create and implement effective business solutions"
+  ],
+  "rubric": [
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Inclusion of On-Site Information",
+      "max_points": 15.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 35.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 10.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    },
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "criterion": "Timing & Documentation",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, and the presentation lasted no more than ten (10) minutes. One (1) copy of the Works Cited, BPA Release Form(s) and the AI Usage and Documentation Form for each round of the event (preliminary and final) was submitted."
+    }
+  ],
+  "rubric_total_points": 100.0,
+  "rubric_section_totals": [
+    {
+      "section": "245 Small Business Strategy Team Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the contestant within the time allotted",
+    "No internet access will be provided on-site at the NLC. Contestants may bring their own internet access, but it may be used only during their presentation—not in the prep room.",
+    "No materials may be left with the judges",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "If any required element question results in a NO, assign a score of 0 and stop scoring.",
+    "If there is no additional element, do not score the Inclusion of On-Site Information criterion.",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event.",
+    "A team will consist of 2-4 contestants.",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage & Citation Policy will be disqualified.",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "small business",
+    "strategy",
+    "team event",
+    "presentation",
+    "case analysis",
+    "growth plan",
+    "operations",
+    "AI features",
+    "customer satisfaction",
+    "entrepreneurship"
+  ]
+}

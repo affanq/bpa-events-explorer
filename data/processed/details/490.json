@@ -1,0 +1,49 @@
+{
+  "summary": "Contestants take a timed test to assess their knowledge of animation, digital media, desktop publishing, and web design languages. The event covers visual design, media production, and ethical use of media assets. No reference materials or AI tools are allowed during the test.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than sixty (60) minutes testing time"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "(Optional) Cordless calculator. Electronic devices will be monitored according to ACT standards. See Calculator Guidelines."
+  ],
+  "competencies": [
+    "Apply core visual design principles —including layout, hierarchy, balance, alignment, contrast, and spacing—to create clear, effective, and audience -appropriate visual communications across digital media",
+    "Select and apply typography and color strategically to enhance readability, brand consistency, accessibility, and visual impact, following industry best practices",
+    "Integrate visual elements (graphics, shapes, imagery, icons, and motion) effectively to support messaging, usability, and storytelling objectives",
+    "Demonstrate ethical and legal use of media assets, including copyright, licensing (Creative Commons, royalty-free), attribution, and intellectual property considerations",
+    "Apply animation and motion design principles —including timing, transitions, and visual flow—to enhance engagement while maintaining clarity and purpose",
+    "Demonstrate proficiency in video editing techniques, including sequencing, transitions, titles, lower thirds, and visual effects, aligned to professional production standards",
+    "Apply audio fundamentals such as sound quality, balance, voice clarity, music selection, and synchronization to enhance overall media production quality",
+    "Demonstrate understanding of professional media production environments, including planning, scripting, production flow, and on-camera or broadcast considerations",
+    "Apply photography composition techniques (framing, lighting, perspective, rule of thirds, depth) to capture and select images that strengthen visual storytelling"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed. Contestants who violate this rule will be disqualified."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Unlimited entries by state"
+  ],
+  "keywords": [
+    "animation",
+    "digital media",
+    "desktop publishing",
+    "web design",
+    "visual design",
+    "media production",
+    "objective test",
+    "audio",
+    "video editing",
+    "photography"
+  ]
+}

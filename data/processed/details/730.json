@@ -1,0 +1,216 @@
+{
+  "summary": "Contestants prepare a resume, cover letter, and professional portfolio to demonstrate their skills and accomplishments. They participate in an advanced interview scenario and are evaluated on professionalism, portfolio quality, communication, and ethical workplace practices. The event includes both a technical submission and an in-person interview.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than fifty (50) minutes for certification test",
+    "No more than fifteen (15) minutes for interview"
+  ],
+  "submission_requirements": [
+    "Submit one combined PDF file: Resume and Cover Letter",
+    "Saved File Name: AIS-ContestantID-pdf",
+    "Certiport Parental Consent Form required",
+    "Contestant ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and proper use of BPA logo and/or organization’s name",
+    "Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted"
+  ],
+  "presubmit_items": [
+    "Resume",
+    "Cover Letter"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "Paper portfolio no larger than 8 1/2”x11” in plastic sheet protectors or electronic portfolios may be displayed on a notebook/laptop computer or tablet",
+    "One (1) copy of your resume and cover letter submitted at presentation check-in (both preliminaries and finals)"
+  ],
+  "competencies": [
+    "Create a tailored Applicant Tracking System (ATS) optimized résumé, cover letter, and a professional portfolio showcasing skills, accomplishments, and qualifications",
+    "Demonstrate strong employability and career advancement skills including adaptability, initiative, and continuous learning",
+    "Research career opportunities, industry trends, credentials, and expectations for professional image and branding",
+    "Communicate respectfully and ethically in diverse work environments, demonstrating integrity and effective collaboration with others",
+    "Exhibit advanced interview communication skills through persuasive storytelling, situational awareness, and confident interpersonal interaction",
+    "Demonstrate professionalism when discussing salary, benefits, and job offers",
+    "Use networking skills to build professional connections through career events, organizations, and personal interactions",
+    "Demonstrate advanced interviewing skills by giving clear, confident answers to interview and judge questions, and using examples to explain skills and experiences"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Materials indicate contestant applied for one of the positions shown on the Organizational Chart of Digital Solutions found in the Style & Reference Manual.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted their Cover Letter and Resume in one (1) combined PDF file.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Cover Letter Introduction and Address",
+      "max_points": 10.0,
+      "description": "Engaging and specific, effectively captures attention."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Relevance of Skills",
+      "max_points": 10.0,
+      "description": "All skills are clearly relevant to the position, well-explained, and directly applicable to the requirements."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Closing Statement",
+      "max_points": 10.0,
+      "description": "Strong, compelling summary; leaves a memorable impression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy (Cover Letter)",
+      "max_points": 10.0,
+      "description": "Error-free, polished grammar and spelling."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Layout and Formatting (Cover Letter)",
+      "max_points": 10.0,
+      "description": "Well-organized, enhances readability and visual appeal."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Job Position Listed (Resume)",
+      "max_points": 10.0,
+      "description": "Clearly listed at the top, prominently highlights target role."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Layout and Formatting (Resume)",
+      "max_points": 10.0,
+      "description": "Well-organized, enhances readability and visual appeal."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Order of Work History",
+      "max_points": 10.0,
+      "description": "Completely in reverse chronological order, facilitating clear career progression."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Accuracy (Resume)",
+      "max_points": 10.0,
+      "description": "Error-free, polished grammar and spelling."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "First Impressions",
+      "max_points": 30.0,
+      "description": "Strong introduction; made a very positive first impression."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Applicant’s Appearance",
+      "max_points": 20.0,
+      "description": "Neat, well-groomed, and appropriately attired."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Personality and Poise",
+      "max_points": 30.0,
+      "description": "Positive, courteous, sincere, confident; good posture and eye contact."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Communication Skills",
+      "max_points": 30.0,
+      "description": "Proper grammar and pronunciation; pleasant voice and tone."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Skills & Qualifications",
+      "max_points": 30.0,
+      "description": "Demonstrated strong job skills, good work habits, and problem-solving abilities."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 100.0,
+      "description": "Appropriate and informed answers; good knowledge of the position and company; demonstrated initiative and enthusiasm."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Final Impressions",
+      "max_points": 30.0,
+      "description": "Expressed thanks and concluded the interview effectively."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Portfolio",
+      "max_points": 20.0,
+      "description": "Well-organized; relevant and diverse information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Documentation",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 100.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 300.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own mobile device only as a hotspot to access their digital portfolio. The device(s) must be set up prior to entering the presentation room",
+    "No time will be given for the setup of equipment and must be done solely by the contestant",
+    "Portfolio will not be submitted; the contestant will take the portfolio into the interview to be used to demonstrate job competence. Portfolios must not be left with judges",
+    "At NLC, contestants will take the Professional Communications certification exam. Contestants passing this certification will have 50 points added to their event score.",
+    "Pearson profile must be created at https://certiport.pearsonvue.com before attending NLC",
+    "Contestants must include their BPA Contestant ID in their Pearson profile when they register",
+    "Certiport Parent/Legal Guardian Consent Form must be uploaded to: education@bpa.org",
+    "Reference materials are not allowed for certification testing",
+    "No more than fifty (50) minutes for certification test",
+    "Length of event: no more than fifteen (15) minutes for interview",
+    "Finals may be part of the competition",
+    "Business cards, thank you notes, etc. are not permitted",
+    "Contestant will indicate on his/her resume the position for which he/she is applying. There are openings in all departments of Digital Solutions shown on the Organizational Chart found in the Style & Reference Manual",
+    "Resume work/volunteer history must be in reverse chronological order",
+    "Contestant may interview for any position listed on the organizational chart for which he/she is qualified",
+    "Contestants that do not apply for a position for one of these positions will be disqualified",
+    "Information in the cover letter and resume must be authentic; however, contestants may choose to use a fictitious personal address and telephone number. The use of references on the resume is optional.",
+    "The cover letter must be addressed as follows: Ms. Julie Smith, Manager, Human Resources Department, Digital Solutions, 1365 King Avenue, Columbus, OH 43212",
+    "This is a pre-submitted event. Regional and state conferences have specific deadlines prior to the national deadlines. Please consult the regional or state conference administrator for those deadlines. For the National Leadership Conference, submit project files at https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027.",
+    "An auto-generated confirmation will be provided upon project submission for the National Leadership Conference; individual confirmation cannot be provided. No changes can be made to the project after the date of submission.",
+    "Contestant ID is required for all submissions. Materials from non-registered contestants and/or those missing Contestant ID cannot be accepted.",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name. Refer to the BPA Graphic Standards in the Style & Reference Manual.",
+    "Judges’ comments will be returned digitally through the online judging system at the national level. Materials submitted for technical judging will not be returned and will not be available at NLC."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event.",
+    "Contestants may not enter both Interview Skills and Advanced Interview Skills in the same year.",
+    "Advanced Interview Skills may be repeated.",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked."
+  ],
+  "keywords": [
+    "interview skills",
+    "resume",
+    "cover letter",
+    "portfolio",
+    "professional communication",
+    "career readiness",
+    "job search",
+    "presentation",
+    "business",
+    "BPA"
+  ]
+}

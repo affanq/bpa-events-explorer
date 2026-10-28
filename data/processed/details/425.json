@@ -1,0 +1,202 @@
+{
+  "summary": "Contestants research, design, and create a 3D model or scene based on the topic 'Future Digital Workspace.' They submit a combined PDF with required documentation and present their model to judges, demonstrating technical and artistic skills. The event includes both a technical submission and a live presentation, with scoring based on detailed rubrics.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions"
+  ],
+  "submission_requirements": [
+    "Submit all required items in one combined PDF",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings",
+    "Contestant ID is required for all submissions",
+    "Materials must follow BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Cite all sources, including oneself, on the Works Cited page",
+    "Secure a signed BPA Release Form(s) from any person whose image or work is used in the project"
+  ],
+  "presubmit_items": [
+    "Clickable URL to 3D Model",
+    "Concept Art",
+    "One-Page Profile",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation",
+    "Optional - Props"
+  ],
+  "competencies": [
+    "Create comprehensive profiles for characters, environments, or objects and demonstrate iterative development through research, concept art, digital prototyping, and refinement using collaborative platforms and version control.",
+    "Apply finishing, lighting, and texturing techniques using modern 3D software and design precise geometric models to meet technical and aesthetic requirements.",
+    "Employ artistic techniques —including digital painting, sculpting, and compositing—and conduct targeted research to inform design decisions, synthesizing findings into compelling visual presentations."
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted documentation as one (1) PDF file: 1. Clickable URL to 3D Model 2. Concept Art 3. One-Page Profile 4. Works Cited (formatted according to the Style & Reference Manual) 5. BPA Release Form(s) 6. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Model Profile",
+      "max_points": 30.0,
+      "description": "Profile is detailed, creative, and thoroughly describes the model’s appearance, abilities, origins, and accessories, enhancing the model’s narrative."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Concept Art & Planning",
+      "max_points": 30.0,
+      "description": "Concept art is well-developed, visually appealing, and clearly illustrates the model’s design and special features, effectively bridging concept to model."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Model Detail",
+      "max_points": 30.0,
+      "description": "Model exhibits exceptional topology with optimized, efficient, and clean geometry, suitable for animation or game use without mesh issues."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Textures & Lighting",
+      "max_points": 30.0,
+      "description": "Textures, materials, lighting, and shading are expertly applied to create a polished, realistic, and visually striking final model."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Special Features & Accessories",
+      "max_points": 30.0,
+      "description": "Special features and accessories are thoughtfully designed and seamlessly integrated, adding depth and storytelling value to the model."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Advanced Techniques",
+      "max_points": 30.0,
+      "description": "Consistent, skillful use of multiple advanced techniques, greatly enhancing the realism, intricacy, and visual impact of the final product."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Creativity & Execution",
+      "max_points": 30.0,
+      "description": "Model is highly original, imaginative, and creatively interprets the profile and prompt, standing out as an engaging, one-of-a-kind creation."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Model Appeal",
+      "max_points": 30.0,
+      "description": "Model is visually striking, highly creative, and fully realizes the model described in the profile while exceeding prompt expectations."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Clean Geometry",
+      "max_points": 30.0,
+      "description": "Model exhibits exceptional topology with optimized, efficient, and clean geometry, suitable for animation or game use without mesh issues."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Writing Quality",
+      "max_points": 20.0,
+      "description": "The text is clean, polished, and free of grammar, spelling, and punctuation errors."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the Copyright and/or Fair Use Guidelines, and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "Carry-in and setup of equipment must be done solely by the contestant and within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Finals may be part of the competition",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "eligibility_notes": [
+    "Any secondary division contestant may enter this judged event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries",
+    "SECONDARY EVENT ONLY"
+  ],
+  "keywords": [
+    "3D modeling",
+    "digital workspace",
+    "concept art",
+    "computer modeling",
+    "presentation",
+    "secondary division",
+    "textures",
+    "lighting",
+    "profile",
+    "technical rubric"
+  ]
+}

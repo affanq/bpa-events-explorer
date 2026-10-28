@@ -1,0 +1,351 @@
+{
+  "summary": "Teams create a three to five minute news broadcast on the rise of student entrepreneurship, featuring live interviews, a weather segment, and a promo. The project must include a script/creative brief and is judged on both technical and presentation criteria. Teams also complete an on-site one-minute news segment at nationals using provided materials.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than ten (10) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Finals: no more than four (4) hours to plan, produce, and export a one (1:00) minute news segment"
+  ],
+  "submission_requirements": [
+    "Submit the following in one combined PDF: Clickable URL to Broadcast, Script/Creative Brief, Works Cited, BPA Release Form(s), AI Usage and Documentation Form",
+    "Saved file name: BNPT -TeamID.pdf",
+    "Upload completed projects to a video/file sharing link (Vimeo, YouTube, Dropbox, etc.)",
+    "Projects must be viewable on Windows and Mac platforms",
+    "Set the access level of your project to one of BPA’s recommended settings"
+  ],
+  "presubmit_items": [
+    "Clickable URL to Broadcast",
+    "Script/Creative Brief",
+    "Works Cited",
+    "BPA Release Form(s)",
+    "AI Usage and Documentation Form"
+  ],
+  "deadlines": [
+    "National Deadline: April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [
+    "One single-sided laptop, notebook, or tablet for presentation (projection equipment and external displays not provided or permitted)",
+    "Film equipment (computer, software, camera, etc.) for NLC",
+    "Optional - Props"
+  ],
+  "competencies": [
+    "Utilize industry-standard broadcast software, hardware, and workflows to plan, capture, and edit high-quality broadcast content, integrating nonlinear editing techniques and strategic use of B-roll to enhance storytelling and production value",
+    "Create and refine broadcast scripts and scripting techniques to craft compelling, concise, and audience-focused stories",
+    "Design and implement effective introductions, segways, titles, lower thirds, and visual effects to structure broadcast segments, maintain engagement, and reinforce branding",
+    "Collaborate effectively within multidisciplinary broadcast teams, apply copyright and licensing laws, and conduct professional interviews with strong on-air presence to ensure ethical, engaging, and compliant broadcast content"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Team submitted the correct information, in the correct format, as one (1) PDF file. 1. Clickable URL to Broadcast 2. Script/Creative Brief 3. Works Cited (formatted in accordance with the Style & Reference Manual ) 4. BPA Release Form(s) 5. AI Usage and Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Introduction",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "News story and weather segment",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Outro (music) with credits/sources",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "15-30 second promo/tease",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Broadcast News Production made effective use of time and was within the video time limit of 3 -5 minutes.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Originality of Content",
+      "max_points": 20.0,
+      "description": "Highly original and creative; shows unique perspective."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Developed Storyline (B -roll & Interviews",
+      "max_points": 20.0,
+      "description": "Storyline is compelling and well-developed; B -roll and interviews enhance the message."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Segue Usage",
+      "max_points": 20.0,
+      "description": "Segues are smooth, purposeful, and enhance flow."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Onscreen Talent Presence",
+      "max_points": 20.0,
+      "description": "Talent is highly confident, engaging, and professional."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Talent Voice Effectiveness",
+      "max_points": 20.0,
+      "description": "Voice is clear, well -enunciated, and confidently projected."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Green Screen Technology Use",
+      "max_points": 20.0,
+      "description": "Green screen is seamlessly integrated and enhances the production."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Video Quality",
+      "max_points": 20.0,
+      "description": "Video is consistently sharp, steady, and visually dynamic."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Lighting Quality",
+      "max_points": 20.0,
+      "description": "Lighting is professional, consistent, and enhances visuals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Color Quality",
+      "max_points": 20.0,
+      "description": "Colors are vibrant, well -balanced, and visually appealing."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Audio Quality",
+      "max_points": 20.0,
+      "description": "Audio is crisp, wellleveled, and enhances the experience."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage and Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 45.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Contains at least one (1) interview",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Contains BPA provided graphics",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Appropriate use of B -roll",
+      "max_points": 50.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Video is exactly 1-minute in length",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Final export met timed event deadline",
+      "max_points": 50.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Exported in correct format",
+      "max_points": 20.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Content",
+      "max_points": 20.0,
+      "description": "Highly original content; all footage shot on-site."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Broadcast Content Developed Storyline",
+      "max_points": 20.0,
+      "description": "Well-developed and coherent storyline throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Effectiveness of Production",
+      "max_points": 20.0,
+      "description": "Production is highly effective and enhances the message."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Appropriate Usage of Existing Graphics/Audio",
+      "max_points": 20.0,
+      "description": "Graphics/audio are well-chosen and seamlessly integrated."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Effectiveness of On-screen Talent Presence",
+      "max_points": 20.0,
+      "description": "Talent is confident; excellent body language and speech."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Effectiveness of Talent Voice",
+      "max_points": 20.0,
+      "description": "Voice is clear, well -enunciated, and confidently projected."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Writing Accuracy",
+      "max_points": 20.0,
+      "description": "No errors; no copyright violations."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Quality Video",
+      "max_points": 20.0,
+      "description": "Video is consistently in focus with excellent shot variety."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Lighting",
+      "max_points": 20.0,
+      "description": "Lighting is high quality and enhances the video."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Color",
+      "max_points": 20.0,
+      "description": "Colors are vibrant and well-balanced."
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "criterion": "Audio",
+      "max_points": 20.0,
+      "description": "Audio is clear and effectively uses fades and ambient sounds."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 260.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    },
+    {
+      "section": "Technical Scoring Rubric - FINAL (Nationals Only)",
+      "total_points": 160.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the contestants within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "No materials may be left with the judges",
+    "Only the team captain should complete the submission",
+    "No presentation for the finals round at the National Leadership Conference. Scoring from the preliminary round will not be included in finals scoring. Video is judged on technical merit only.",
+    "Teams will have no more than four (4) hours to plan, produce, and export a news segment of one (1:00) minute in length.",
+    "Teams will each receive a flash drive containing graphics and B-roll, which must be included in the news package.",
+    "Teams will film their production on site. During this time, students may communicate with contestants of their team via telephone but may not communicate with others (including their advisor) concerning the production of their video. Team will be disqualified for violating this rule.",
+    "After filming is complete, teams will return to the contest room to edit and complete all production and post-production elements in their video.",
+    "The video must be one (1:00) minute in length, rendered and exported into a MOV, MP4, AVI, MKV or MPG format and submitted using the provided flash drive. If video is not in the appropriate format, it may not be judged.",
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC.",
+    "Props and/or additional items shall not be used as a basis for scoring.",
+    "PRESENTATION WILL BE STOPPED AT TEN (10) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event.",
+    "A team will consist of 2 -4 contestants.",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and the Artificial Intelligence Usage and Citation Policy will be disqualified.",
+    "Each state is allowed three (3) entries."
+  ],
+  "keywords": [
+    "broadcast news",
+    "video production",
+    "student entrepreneurship",
+    "team event",
+    "interview",
+    "weather segment",
+    "promo",
+    "digital media",
+    "storytelling",
+    "BPA"
+  ]
+}

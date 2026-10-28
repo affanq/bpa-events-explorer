@@ -1,0 +1,46 @@
+{
+  "summary": "Contestants demonstrate their understanding of basic math skills used in everyday life and simple business situations by completing an objective test. The event covers topics such as percentages, interest calculations, currency conversions, measurement conversions, ratios, and time calculations. Any middle level contestant may enter, and the test lasts no more than sixty minutes.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than sixty (60) minutes testing time"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Sharpened No. 2 pencils",
+    "Cordless calculator: electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines. Contestants who violate this rule will be disqualified."
+  ],
+  "competencies": [
+    "Apply percentage concepts, including base and rate, to analyze data and solve real-world business and financial problems",
+    "Calculate and interpret simple and compound interest and perform currency conversions using real-time exchange rates",
+    "Convert measurements accurately between metric and U.S. customary systems for global business and technical applications",
+    "Analyze and interpret ratios to evaluate financial performance, operational efficiency, and data trends",
+    "Apply time calculations for scheduling, productivity analysis, and project management"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this objective event.",
+    "Unlimited entries by state"
+  ],
+  "keywords": [
+    "business math",
+    "percentages",
+    "interest",
+    "currency conversion",
+    "measurement conversion",
+    "ratios",
+    "time calculations",
+    "objective test",
+    "middle level",
+    "BPA"
+  ]
+}

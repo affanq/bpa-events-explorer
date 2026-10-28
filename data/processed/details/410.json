@@ -1,0 +1,221 @@
+{
+  "summary": "Contestants design a logo, tagline, and brand identity for a fictional esports team, creating a cohesive theme across a branding document, team logo, jersey design, and promotional poster. All materials must be original, appeal to teen gamers, and follow provided guidelines. Contestants present their work to judges and answer questions.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than three (3) minutes for setup",
+    "No more than six (6) minutes for the presentation",
+    "No more than five (5) minutes for judges’ questions",
+    "Presentation will be stopped at six (6) minutes"
+  ],
+  "submission_requirements": [
+    "All graphics must be computer-generated",
+    "Only contestant-prepared graphics may be used in the design",
+    "It is recommended designs be at least 300 dpi",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name",
+    "Contestant ID is required for all submissions",
+    "The contestant is responsible for securing a signed BPA Release Form(s) from any person, including oneself, whose image or work is used in the project",
+    "The contestant is responsible for citing all sources, including oneself, on the Works Cited page for any work used on the project",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified"
+  ],
+  "presubmit_items": [
+    "One-Page Branding Document",
+    "Team Logo Design",
+    "Esports Team Jersey Design",
+    "Promotional Poster",
+    "Works Cited",
+    "BPA Release Form",
+    "AI Usage & Documentation Form"
+  ],
+  "deadlines": [
+    "Submit the URL to https://upload.bpa.org no later than 11:59 p.m. Eastern Time on April 1, 2027",
+    "National Deadline: April 1, 2027, 11:59 p.m Eastern Time"
+  ],
+  "what_to_bring": [
+    "Optional – Design printouts",
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation"
+  ],
+  "competencies": [
+    "Apply foundational graphic design principles —including layout, composition, color theory, typography, and visual hierarchy—to create cohesive, accessible, and visually compelling designs for print and digital media",
+    "Develop, articulate, and present creative concepts and original artwork that visually communicate themes, messages, and brand identity to clients and stakeholders using professional communication, and digital presentation tools",
+    "Utilize technical skills and industry-standard software to edit, manipulate, and optimize graphics, artwork, and images for diverse design applications, ensuring quality and efficiency"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "The following items have been saved as PDFs and bundled together in a single ZIP file. 1. One-Page Branding Document 2. Team Logo Design 3. Esports Team Jersey Design 4. Promotional Poster 5. Works Cited 6. BPA Release Form 7. AI Usage & Documentation Form",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Logo Design Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Distinctive, imaginative design that stands out."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Logo Design Visual Appeal",
+      "max_points": 20.0,
+      "description": "Visually striking and strongly aligned with brand identity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Logo Design Functionality & Versatility",
+      "max_points": 20.0,
+      "description": "Design seamlessly scales and maintains quality in all formats."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Jersey Design Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Distinctive, imaginative design that stands out."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Jersey Design Visual Appeal",
+      "max_points": 20.0,
+      "description": "Visually striking and strongly aligned with brand identity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Jersey Design Functionality & Versatility",
+      "max_points": 20.0,
+      "description": "Design seamlessly scales and maintains quality in all formats."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Promotional Poster Creativity & Originality",
+      "max_points": 20.0,
+      "description": "Distinctive, imaginative design that stands out."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Promotional Poster Visual Appeal",
+      "max_points": 20.0,
+      "description": "Visually striking and strongly aligned with brand identity."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Promotional Poster Functionality & Versatility",
+      "max_points": 20.0,
+      "description": "Design seamlessly scales and maintains quality in all formats."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Complementary Designs",
+      "max_points": 20.0,
+      "description": "Products are clearly distinct yet cohesive; each adds unique value to the whole."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design Elements/Focal Point",
+      "max_points": 30.0,
+      "description": "Center of interest is clearly defined and effectively emphasized in all products."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Balance, Unity, And Harmony",
+      "max_points": 30.0,
+      "description": "Designs are visually balanced, unified, and harmonious throughout."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Design Layout",
+      "max_points": 30.0,
+      "description": "Design elements are strategically placed using rule of thirds and strong emphasis."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "The presentation content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing Setup lasted no longer than three (3) minutes, and the presentation lasted no more than six (6) minutes.",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 300.0
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Carry-in and setup of equipment must be done solely by the contestant within the time allotted",
+    "No Internet access will be provided on-site at NLC; however, contestants may provide their own access to be used only for their presentation to the judges",
+    "Judges’ comments will be returned digitally through the online judging system at the national level",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC",
+    "Props and/or additional items shall not be used as a basis for scoring"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged event",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "graphic design",
+    "branding",
+    "logo design",
+    "esports",
+    "promotion",
+    "poster design",
+    "jersey design",
+    "teen audience",
+    "presentation",
+    "original artwork"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "summary": "Contestants take an objective test to demonstrate their understanding of project management concepts and practices. The event covers topics such as project life cycles, work breakdown structures, risk, quality, leadership, and ethics. No reference materials or AI tools are allowed, and contestants have up to 60 minutes to complete the test.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than sixty (60) minutes testing time"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "(Optional) Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines."
+  ],
+  "competencies": [
+    "Understand project life cycles, phases, organizational structures, and essential project management terminology",
+    "Understand work breakdown structures (WBS) and how they support planning, scheduling, and task management",
+    "Analyze project information including tasks, schedules, milestones, deliverables, budgets, and overall project strategies",
+    "Understand project risk, quality, and performance concepts, including how uncertainty and customer expectations impact outcomes",
+    "Understand leadership, teamwork, communication, stakeholder engagement, and collaboration tools that support project success",
+    "Understand ethical behavior, responsibility, and professional conduct in project management"
+  ],
+  "rubric": [],
+  "rubric_total_points": null,
+  "rubric_section_totals": [],
+  "judging_notes": [
+    "Method of evaluation: objective",
+    "AI Policy Level 1 No AI Allowed",
+    "Reference materials are not allowed. Contestants who violate this rule will be disqualified.",
+    "Contestants who violate calculator rule will be disqualified."
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this objective event.",
+    "Unlimited entries by state"
+  ],
+  "keywords": [
+    "project management",
+    "PMBOK",
+    "objective test",
+    "risk management",
+    "work breakdown structure",
+    "leadership",
+    "teamwork",
+    "quality",
+    "ethics",
+    "stakeholder engagement"
+  ]
+}

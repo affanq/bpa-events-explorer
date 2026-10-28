@@ -1,0 +1,161 @@
+{
+  "summary": "Contestants create a letter requesting a job shadow experience and participate in an interview about their career interests. The event includes both a written submission and a judged interview, and is open to middle level students. Contestants must submit their letter and compete in both parts to be ranked.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "no more than ten (10) minutes for interview"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the job shadow request letter formatted according to the Style & Reference Manual for each round of the event (preliminary and final)",
+    "Contestant ID is required for all submissions",
+    "Materials must follow the organization’s BPA Graphic Standards and make proper use of the BPA logo and/or organization’s name"
+  ],
+  "presubmit_items": [
+    "Job Shadow Request Letter - PDF Format"
+  ],
+  "deadlines": [
+    "April 1, 2027, 11:59 p.m. Eastern Time"
+  ],
+  "what_to_bring": [],
+  "competencies": [
+    "Apply technical writing skills to produce request letter for job shadow experience",
+    "Identify future career interests",
+    "Demonstrate quality grooming through proper dress",
+    "Demonstrate interpersonal skills",
+    "Demonstrate effective communication skills",
+    "Utilize nonverbal gestures as needed"
+  ],
+  "rubric": [
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Contestant submitted the Request Letter with Personal Statement in paragraph 2 (100 words or less) as PDF file.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Letter is addressed correctly and formatted according to the Style & Reference Manual.",
+      "max_points": 10.0,
+      "description": null
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Paragraph 1: Position and Career Interest",
+      "max_points": 20.0,
+      "description": "Clearly and thoughtfully identifies the job shadow position and career interest; includes relevant context or connection to future goals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Paragraph 2: Personal Statement",
+      "max_points": 20.0,
+      "description": "Personal statement is well within the limit; highly focused, impactful, and effectively communicates key points."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Paragraph 2: Abilities and Skills",
+      "max_points": 20.0,
+      "description": "Effectively showcases strengths with specific examples or achievements that align with career goals."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Paragraph 2: Description of Goals",
+      "max_points": 20.0,
+      "description": "Goals are well-articulated, thoughtfully connected to career interests, and demonstrate ambition and direction."
+    },
+    {
+      "section": "Technical Scoring Rubric",
+      "criterion": "Paragraph 3: Closing",
+      "max_points": 20.0,
+      "description": "Conclusion is thoughtful and professional; reinforces the message and ends with a strong, respectful salutation."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Contestant followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Contestant followed Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "First Impression",
+      "max_points": 30.0,
+      "description": "Strong introduction; made a very positive first impression."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Applicant’s Appearance",
+      "max_points": 20.0,
+      "description": "Neat, well-groomed, and appropriately attired."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Personality & Poise",
+      "max_points": 30.0,
+      "description": "Positive, courteous, sincere, confident; good posture and eye contact."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Communication Skills",
+      "max_points": 30.0,
+      "description": "Proper grammar and pronunciation; pleasant voice and tone."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Skills & Qualifications",
+      "max_points": 30.0,
+      "description": "Demonstrated strong job skills, good work habits, and problem-solving abilities."
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 100.0,
+      "description": "Appropriate and informed answers; good knowledge of the position and company; demonstrated initiative and enthusiasm"
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "criterion": "Documentation",
+      "max_points": 10.0,
+      "description": null
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Technical Scoring Rubric",
+      "total_points": 120.0
+    },
+    {
+      "section": "Presentation (Interview) Scoring Rubric",
+      "total_points": 250.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Judges’ comments will be returned digitally through the online judging system at the national level.",
+    "Materials submitted for technical judging will not be returned and will not be available at NLC."
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged team event.",
+    "This event may be repeated.",
+    "Contestants must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Each state is allowed three (3) entries."
+  ],
+  "keywords": [
+    "human resources",
+    "job shadow",
+    "career exploration",
+    "interview",
+    "technical writing",
+    "middle level",
+    "communication skills",
+    "personal statement",
+    "professional dress",
+    "team event"
+  ]
+}

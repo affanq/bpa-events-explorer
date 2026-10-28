@@ -1,0 +1,129 @@
+{
+  "summary": "Teams analyze financial data for a startup, prepare financial statements, calculate ratios, and present recommendations for funding strategies. Participants create a presentation justifying their recommendation using the provided financial data. Teams must follow all guidelines and present their findings to judges.",
+  "team_size_min": 2,
+  "team_size_max": 4,
+  "time_limits": [
+    "No more than three (3) minutes setup in presentation room",
+    "No more than ten (10) minutes presentation time",
+    "No more than ten (10) minutes of judges’ questions",
+    "No more than five (5) minutes proctor orientation for state and national levels",
+    "No more than thirty (30) minutes preparation time for state and national levels",
+    "Presentation will be stopped at ten (10) minutes"
+  ],
+  "submission_requirements": [
+    "One (1) copy of the Works Cited, BPA Release Form(s), and AI Usage and Documentation Form for each round (prelims and finals)",
+    "Published and/or unpublished non-electronic written reference materials"
+  ],
+  "presubmit_items": [],
+  "deadlines": [
+    "Teams must be registered for the national competition before the submission deadline"
+  ],
+  "what_to_bring": [
+    "Sharpened pencils, pens, ruler",
+    "Cordless calculator: Electronic devices will be monitored according to ACT standards. See NLC Calculator Guidelines. Contestants who violate this rule will be disqualified.",
+    "Optional: Easel, posters, graphs, poster board and/or flipcharts and markers and external displays will not be provided or permitted.",
+    "Students may use one single-sided laptop, notebook, or tablet for their presentation. Projection equipment and external displays will not be provided or permitted."
+  ],
+  "competencies": [
+    "Apply accounting principles to evaluate and report the value of assets, liabilities, and owner’s equity in accordance with GAAP",
+    "Prepare, interpret, and analyze financial statements to assess performance and support strategic decision-making across various business models",
+    "Apply planning and control principles, including budgeting, forecasting, differential analysis, and present-value concepts, to evaluate organizational performance and guide financial decisions for both the short and long-term",
+    "Evaluate credit options, costs, and legal implications, and identify financial risks to inform business decisions and develop mitigation strategies",
+    "Communicate financial insights clearly, courteously, and professionally to diverse stakeholders",
+    "Use ratio analysis to evaluate comparative financial statements and assess organizational trends and performance",
+    "Apply statistical procedures and utilize spreadsheet software to analyze, interpret, and model financial data efficiently and accurately",
+    "Present financial findings using formal presentations and supporting materials to communicate insights and recommendations effectively"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the topic.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team followed the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy.",
+      "max_points": null,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 15.0,
+      "description": "Team maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 15.0,
+      "description": "Presentation content flows adequately, and each team member's role is clear and integrated into the presentation. Transitions between speakers and/or points are smooth."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Presentation demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Inclusion of On-Site Information",
+      "max_points": 20.0,
+      "description": "Fully integrated the additional information with insightful adjustments."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Judges’ Questions",
+      "max_points": 10.0,
+      "description": "Responses are detailed, insightful, and effectively address the judges' questions."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Setup lasted no longer than three (3) minutes, presentation lasted no more than ten (10) minutes."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Team Members",
+      "max_points": 5.0,
+      "description": "At least two original team members were present during the presentation."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 125.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 2 Permitted with Citation",
+    "Carry-in and setup of equipment must be done solely by the team and must take place within the allotted time for orientation/warm-up",
+    "Business Professionals of America assumes no responsibility for hardware/software provided by the contestant",
+    "Finals may be required at state and national levels",
+    "Teams will be presented with an additional element to the scenario that requires revision of their final presentation",
+    "Judges’ comments will be returned digitally through the online judging system at the national level"
+  ],
+  "eligibility_notes": [
+    "Any secondary or postsecondary division contestant may enter this judged team event.",
+    "At least one (1) contestant should have an accounting background.",
+    "A team will consist of 2-4 contestants.",
+    "Teams must be registered for the national competition before the submission deadline and compete in both parts of the event to be ranked.",
+    "Entries that do not follow the provided topic or the Copyright and/or Fair Use Guidelines and Artificial Intelligence Usage & Citation Policy will be disqualified.",
+    "Each state is allowed three (3) entries"
+  ],
+  "keywords": [
+    "financial analysis",
+    "accounting",
+    "team event",
+    "presentation",
+    "ratios",
+    "business decision-making",
+    "funding strategies",
+    "financial statements",
+    "BPA",
+    "competition"
+  ]
+}

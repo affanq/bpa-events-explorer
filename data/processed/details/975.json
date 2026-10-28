@@ -1,0 +1,84 @@
+{
+  "summary": "Contestants draw two business-related topics, select one, and have ten minutes to prepare a speech using only provided notecards. They then deliver a two to four minute speech to judges, demonstrating effective communication and organization skills.",
+  "team_size_min": null,
+  "team_size_max": null,
+  "time_limits": [
+    "No more than ten (10) minutes preparation",
+    "No less than two (2) and no more than four (4) minutes speech"
+  ],
+  "submission_requirements": [],
+  "presubmit_items": [],
+  "deadlines": [],
+  "what_to_bring": [
+    "Sharpened pencils, pens"
+  ],
+  "competencies": [
+    "Communicate ideas clearly, professionally, and confidently through effective speaking skills",
+    "Apply professional communication strategies to develop a structured speech using storytelling, data visualization, and audience-focused messaging",
+    "Apply speaking techniques using appropriate tempo, pitch, and nonverbal gestures as needed"
+  ],
+  "rubric": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Contestant followed the topic .",
+      "max_points": 0.0,
+      "description": null
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Delivery & Engagement",
+      "max_points": 20.0,
+      "description": "Contestant maintains good eye contact, uses appropriate gestures and body language, and varies their tone and pace adequately."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Organization, Design & Structure",
+      "max_points": 20.0,
+      "description": "The speech content flows adequately, and the contestant demonstrates a clear and well-integrated structure throughout."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Content Knowledge",
+      "max_points": 50.0,
+      "description": "Speech demonstrates a good understanding of the topic and includes relevant and accurate information."
+    },
+    {
+      "section": "Presentation Scoring Rubric",
+      "criterion": "Timing",
+      "max_points": 10.0,
+      "description": "Speech lasted no less than two (2) and no more than four (4) minutes."
+    }
+  ],
+  "rubric_total_points": null,
+  "rubric_section_totals": [
+    {
+      "section": "Presentation Scoring Rubric",
+      "total_points": 100.0
+    }
+  ],
+  "judging_notes": [
+    "Method of evaluation: judged",
+    "AI Policy Level 1 No AI Allowed",
+    "Finals may be part of the competition",
+    "Each state is allowed three (3) entries",
+    "Contestant will be given warnings via flash cards when there is one (1) minute remaining and when there are thirty (30) seconds remaining during the speaking time",
+    "SPEECH WILL BE STOPPED AT FOUR (4) MINUTES"
+  ],
+  "eligibility_notes": [
+    "Any middle level contestant may enter this judged event.",
+    "The event may be repeated.",
+    "Contestants may not enter both Extemporaneous Speech and Prepared Speech in the same year."
+  ],
+  "keywords": [
+    "extemporaneous speech",
+    "public speaking",
+    "business topics",
+    "middle level",
+    "oral presentation",
+    "communication skills",
+    "speech competition",
+    "notecards",
+    "BPA event",
+    "impromptu speaking"
+  ]
+}

@@ -1,0 +1,2585 @@
+[
+  {
+    "id": "100",
+    "title": "Fundamental Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1unTAzht8FUq4s7CQK3Evwktxdv3Y9feZ/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1unTAzht8FUq4s7CQK3Evwktxdv3Y9feZ",
+    "pdf_file": "100_Fundamental_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "105",
+    "title": "College Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1aLUrmt3JfXFp3_LRPRch67AUN0kEcOhe/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1aLUrmt3JfXFp3_LRPRch67AUN0kEcOhe",
+    "pdf_file": "105_College_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "110",
+    "title": "Advanced Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1NLKvo2Ubdoj3_cUUbwPyy-M5E15xN--A/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1NLKvo2Ubdoj3_cUUbwPyy-M5E15xN--A",
+    "pdf_file": "110_Advanced_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "115",
+    "title": "Advanced College Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/108Al0QeMwVSsUelCXXIIXUtSN5hJcoXX/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=108Al0QeMwVSsUelCXXIIXUtSN5hJcoXX",
+    "pdf_file": "115_Advanced_College_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "125",
+    "title": "Payroll Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1BR4OMlT9XGaFOSfGm8iwKPXmGExMMU2v/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1BR4OMlT9XGaFOSfGm8iwKPXmGExMMU2v",
+    "pdf_file": "125_Payroll_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "135",
+    "title": "Managerial Accounting",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1rJl6ZolvlKy9PQ4MeiEI6YAEJgsk2WVm/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1rJl6ZolvlKy9PQ4MeiEI6YAEJgsk2WVm",
+    "pdf_file": "135_Managerial_Accounting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "145",
+    "title": "Banking & Finance",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1u4JIzIZitWfvyr9msz1vbV9rCuvSy4CT/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1u4JIzIZitWfvyr9msz1vbV9rCuvSy4CT",
+    "pdf_file": "145_Banking_Finance.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "150",
+    "title": "Financial Analyst Team",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/19cL6N_ljd0HuONGQal0qMsUEoYmxeOFO/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=19cL6N_ljd0HuONGQal0qMsUEoYmxeOFO",
+    "pdf_file": "150_Financial_Analyst_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "155",
+    "title": "Economic Trends Research Individual",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1jXZOQFHDoCMS7XoXqMFCbujEpWT0EHWG/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1jXZOQFHDoCMS7XoXqMFCbujEpWT0EHWG",
+    "pdf_file": "155_Economic_Trends_Research_Individual.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "160",
+    "title": "Economic Trends Research Team",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1A1Bb2v88YkOTsLRWLdMoVLhQh-GGRBdS/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1A1Bb2v88YkOTsLRWLdMoVLhQh-GGRBdS",
+    "pdf_file": "160_Economic_Trends_Research_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "165",
+    "title": "Personal Financial Management",
+    "subject": "Finance",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1bOm9JM-cj_7nDh1B1VoC3m-vBKBXzb4X/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1bOm9JM-cj_7nDh1B1VoC3m-vBKBXzb4X",
+    "pdf_file": "165_Personal_Financial_Management.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "200",
+    "title": "Integrated Office Applications",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1DhtkGlJpvSVpqS2BHQ-0GJoS1tpbgxcF/view?usp=share_link",
+    "download_url": "https://drive.google.com/uc?export=download&id=1DhtkGlJpvSVpqS2BHQ-0GJoS1tpbgxcF",
+    "pdf_file": "200_Integrated_Office_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "205",
+    "title": "Fundamental Spreadsheet Applications",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1j5ntGi_pkmNsLuKLIU7yqAJZkoKr_C64/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1j5ntGi_pkmNsLuKLIU7yqAJZkoKr_C64",
+    "pdf_file": "205_Fundamental_Spreadsheet_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "210",
+    "title": "Advanced Spreadsheet Applications",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1nF2H4xVcWIi8JtzirESycC1c2jtJ1qVR/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1nF2H4xVcWIi8JtzirESycC1c2jtJ1qVR",
+    "pdf_file": "210_Advanced_Spreadsheet_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "215",
+    "title": "Database Applications",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ZRsO8sM-tyGCPG1nyZEKf_iWbZHSKpG7/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ZRsO8sM-tyGCPG1nyZEKf_iWbZHSKpG7",
+    "pdf_file": "215_Database_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "220",
+    "title": "Legal Office Procedures",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ekm--3qu2RrvYZaOOxqRD4cy4Upc59-m/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ekm--3qu2RrvYZaOOxqRD4cy4Upc59-m",
+    "pdf_file": "220_Legal_Office_Procedures.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "225",
+    "title": "Administrative Support Team",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1hzxavcrt9Y2N5AGvhdqxgMutKpdNBfQA/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1hzxavcrt9Y2N5AGvhdqxgMutKpdNBfQA",
+    "pdf_file": "225_Administrative_Support_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "230",
+    "title": "Administrative Trends Research Individual",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ZxFQ2a27gaxWOQNjXY34NeUyf7vXJk36/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ZxFQ2a27gaxWOQNjXY34NeUyf7vXJk36",
+    "pdf_file": "230_Administrative_Trends_Research_Individual.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "235",
+    "title": "Business Law & Ethics",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ITdr_wt0bMcIXT448ACgoP4v0P73JmnZ/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ITdr_wt0bMcIXT448ACgoP4v0P73JmnZ",
+    "pdf_file": "235_Business_Law_Ethics.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "240",
+    "title": "Entrepreneurship",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/12VOM9-qFExf8uUrUsG8-921-fJxgS-sr/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=12VOM9-qFExf8uUrUsG8-921-fJxgS-sr",
+    "pdf_file": "240_Entrepreneurship.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "245",
+    "title": "Small Business Strategy Team",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1k7KwH-y_9pIxdtgiCBOOZVlkJElOg41i/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1k7KwH-y_9pIxdtgiCBOOZVlkJElOg41i",
+    "pdf_file": "245_Small_Business_Strategy_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "250",
+    "title": "Parliamentary Procedure Team",
+    "subject": "Management and Entrepreneurship",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Testing",
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/179O4VMq1gGkbe0Vk0iz5nR6LTbFcCFgu/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=179O4VMq1gGkbe0Vk0iz5nR6LTbFcCFgu",
+    "pdf_file": "250_Parliamentary_Procedure_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "300",
+    "title": "Computer Network Technology",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1CDBCRSF81bgWddGZuBw0yvpqfRTd0qMC/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1CDBCRSF81bgWddGZuBw0yvpqfRTd0qMC",
+    "pdf_file": "300_Computer_Network_Technology.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "305",
+    "title": "Device Configuration & Troubleshooting",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1_Erg9tGFDxiz-udxESbWqc3k-MnD7pRg/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1_Erg9tGFDxiz-udxESbWqc3k-MnD7pRg",
+    "pdf_file": "305_Device_Configuration_Troubleshooting.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "310",
+    "title": "Server Administration - Microsoft",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1pQLEchcIYfFASuZnny0-fbaYBnXfJLY1/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1pQLEchcIYfFASuZnny0-fbaYBnXfJLY1",
+    "pdf_file": "310_Server_Administration_-_Microsoft.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "315",
+    "title": "Network Administration - Cisco",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1UU8qHAxhwMw0wLZvUgCm8BmMPIwXriHK/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1UU8qHAxhwMw0wLZvUgCm8BmMPIwXriHK",
+    "pdf_file": "315_Network_Administration_-_Cisco.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "320",
+    "title": "Computer Security",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1i8XwmI8PWWjZFs6WIqOXtc9NKIO19ynJ/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1i8XwmI8PWWjZFs6WIqOXtc9NKIO19ynJ",
+    "pdf_file": "320_Computer_Security.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "325",
+    "title": "Network Design Team",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/13XBW28BrCTngULPvBZvdKoE_9bXUwdrf/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=13XBW28BrCTngULPvBZvdKoE_9bXUwdrf",
+    "pdf_file": "325_Network_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "330",
+    "title": "C# Programming",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1JpZBi4MIXQX1lDehdq0RkbFYlHzjZRmt/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1JpZBi4MIXQX1lDehdq0RkbFYlHzjZRmt",
+    "pdf_file": "330_C_Programming.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "335",
+    "title": "C++ Programming",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1v-7wvIj8M4qQXbUuaAI44vNmidLLt2Sf/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1v-7wvIj8M4qQXbUuaAI44vNmidLLt2Sf",
+    "pdf_file": "335_C_Programming.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "340",
+    "title": "Java Programming",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1xfDFWvmgdAbP-W0C38ZvWOmocRNZKT8z/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1xfDFWvmgdAbP-W0C38ZvWOmocRNZKT8z",
+    "pdf_file": "340_Java_Programming.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "345",
+    "title": "SQL Database Fundamentals",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1AnMzOnwm3JIGW06uflm9R_KGjZtE6VHr/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1AnMzOnwm3JIGW06uflm9R_KGjZtE6VHr",
+    "pdf_file": "345_SQL_Database_Fundamentals.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "350",
+    "title": "Linux Operating System Fundamentals",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1oL-2nSsfV7ONuGLOqnvhfxH3D3z-_6eH/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1oL-2nSsfV7ONuGLOqnvhfxH3D3z-_6eH",
+    "pdf_file": "350_Linux_Operating_System_Fundamentals.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "355",
+    "title": "Python Programming",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/11qT4B8eRXyO9T0OyxXgmOZWeOgfc6EaK/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=11qT4B8eRXyO9T0OyxXgmOZWeOgfc6EaK",
+    "pdf_file": "355_Python_Programming.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "360",
+    "title": "HTML and CSS Coding",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/16JO9AVtLqY6RxQW5-Dfpx_ERwptw5ban/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=16JO9AVtLqY6RxQW5-Dfpx_ERwptw5ban",
+    "pdf_file": "360_HTML_and_CSS_Coding.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "365",
+    "title": "Website Design and Development Team",
+    "subject": "Digital Technology",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1O5BtXGUJWE97ivEfWMOYntGWXhFzWzj2/view?usp=share_link",
+    "download_url": "https://drive.google.com/uc?export=download&id=1O5BtXGUJWE97ivEfWMOYntGWXhFzWzj2",
+    "pdf_file": "365_Website_Design_and_Development_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "400",
+    "title": "Fundamental Desktop Publishing",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1QfEMeH2lD0xZAReJB34rH0PTpd2sVxxx/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1QfEMeH2lD0xZAReJB34rH0PTpd2sVxxx",
+    "pdf_file": "400_Fundamental_Desktop_Publishing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "405",
+    "title": "Advanced Desktop Publishing",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1PuIrQS4wo1RkKK-ZILR4RWeiBbDnoORD/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1PuIrQS4wo1RkKK-ZILR4RWeiBbDnoORD",
+    "pdf_file": "405_Advanced_Desktop_Publishing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "410",
+    "title": "Graphic Design Promotion",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1O70QCL_VBtXFxNAbXxJSArQo6P8eq7iS/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1O70QCL_VBtXFxNAbXxJSArQo6P8eq7iS",
+    "pdf_file": "410_Graphic_Design_Promotion.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "420",
+    "title": "Digital Media Production",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1DZ1vhwiapfWSWeXwq6yrj3tTYaR4EO1o/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1DZ1vhwiapfWSWeXwq6yrj3tTYaR4EO1o",
+    "pdf_file": "420_Digital_Media_Production.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "425",
+    "title": "Computer Modeling",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1J-bqA_e8wglf-ZJ38q7sqD4kHpQCkZb_/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1J-bqA_e8wglf-ZJ38q7sqD4kHpQCkZb_",
+    "pdf_file": "425_Computer_Modeling.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "430",
+    "title": "Video Production Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/17PHlCddSGPjLdEknw8_smdIbkYdBiZQu/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=17PHlCddSGPjLdEknw8_smdIbkYdBiZQu",
+    "pdf_file": "430_Video_Production_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "440",
+    "title": "3D Computer Animation Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/14NYPv6e3PxAif7MFrLc2Xs1SZSoau-np/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=14NYPv6e3PxAif7MFrLc2Xs1SZSoau-np",
+    "pdf_file": "440_3D_Computer_Animation_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "445",
+    "title": "Broadcast News Production Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/16NH_CXZEC6fYzIVz1IxNoGxux_WIAPtc/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=16NH_CXZEC6fYzIVz1IxNoGxux_WIAPtc",
+    "pdf_file": "445_Broadcast_News_Production_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "450",
+    "title": "Podcast Production Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1O5MbDspiSq8I_afVtN3Ga0oysCGXEF19/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1O5MbDspiSq8I_afVtN3Ga0oysCGXEF19",
+    "pdf_file": "450_Podcast_Production_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "455",
+    "title": "User Experience Design Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1WiyHd4cmPA0XG3xPqTitZCxqXgFooqA-/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1WiyHd4cmPA0XG3xPqTitZCxqXgFooqA-",
+    "pdf_file": "455_User_Experience_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "460",
+    "title": "Visual Design Team",
+    "subject": "Arts, Entertainment & Design",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1-eZSBQGGPdtCWpBJQUhd6rDd-aqD35ao/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1-eZSBQGGPdtCWpBJQUhd6rDd-aqD35ao",
+    "pdf_file": "460_Visual_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "500",
+    "title": "Global Marketing Strategy Team",
+    "subject": "Marketing & Sales",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/16qTda8YSDwzSji68fWToresQ4eQBPb-_/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=16qTda8YSDwzSji68fWToresQ4eQBPb-_",
+    "pdf_file": "500_Global_Marketing_Strategy_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "505",
+    "title": "Sports Media Marketing Team Pilot",
+    "subject": "Marketing & Sales",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1qQAngbfoRWytEjs39KJ95uLk6YCiOWsw/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1qQAngbfoRWytEjs39KJ95uLk6YCiOWsw",
+    "pdf_file": "505_Sports_Media_Marketing_Team_Pilot.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "510",
+    "title": "Industry Pitch Team",
+    "subject": "Marketing & Sales",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1oEH1Kwm3MzfmDekBvnP7vcKqf2nzFlKA/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1oEH1Kwm3MzfmDekBvnP7vcKqf2nzFlKA",
+    "pdf_file": "510_Industry_Pitch_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "600",
+    "title": "Medical Coding",
+    "subject": "Healthcare & Human Services",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1cbUAafrE-On9wfO-CVVjY46l174CWb6u/view?usp=share_link",
+    "download_url": "https://drive.google.com/uc?export=download&id=1cbUAafrE-On9wfO-CVVjY46l174CWb6u",
+    "pdf_file": "600_Medical_Coding.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "605",
+    "title": "Health Insurance & Medical Billing",
+    "subject": "Healthcare & Human Services",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1JVvQ575UNSR1OeX9hMJlevWzVogaIPB4/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1JVvQ575UNSR1OeX9hMJlevWzVogaIPB4",
+    "pdf_file": "605_Health_Insurance_Medical_Billing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "610",
+    "title": "Health Administration Procedures",
+    "subject": "Healthcare & Human Services",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ntIqEHXPLOfdMRY-Gvnww-eMjNay_9AZ/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ntIqEHXPLOfdMRY-Gvnww-eMjNay_9AZ",
+    "pdf_file": "610_Health_Administration_Procedures.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "615",
+    "title": "Health Trends Presentation",
+    "subject": "Healthcare & Human Services",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1FvTVRgcckit_8LVIUGwsG_eU8eEBSfGa/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1FvTVRgcckit_8LVIUGwsG_eU8eEBSfGa",
+    "pdf_file": "615_Health_Trends_Presentation.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "700",
+    "title": "Fundamental Word Processing",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1uoqZJ26gi2mLQ8b8HuTp9Px0aAhXh0dp/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1uoqZJ26gi2mLQ8b8HuTp9Px0aAhXh0dp",
+    "pdf_file": "700_Fundamental_Word_Processing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "705",
+    "title": "Intermediate Word Processing",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ry7_5b9CB0xL5yIGt3o50TysaG6pheVy/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ry7_5b9CB0xL5yIGt3o50TysaG6pheVy",
+    "pdf_file": "705_Intermediate_Word_Processing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "710",
+    "title": "Advanced Word Processing",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ZCK19bPQsGyB7RHjjVN8ISAW39OAnsrF/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ZCK19bPQsGyB7RHjjVN8ISAW39OAnsrF",
+    "pdf_file": "710_Advanced_Word_Processing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "715",
+    "title": "Essential Workspace Skills",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/11HsWe4IZL9MiPOuQmMfvh0rwYluik_rX/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=11HsWe4IZL9MiPOuQmMfvh0rwYluik_rX",
+    "pdf_file": "715_Essential_Workspace_Skills.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "720",
+    "title": "Advanced Workspace Skills",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1KJCaq9PumcXKEGQkbVCFlsTtm2NbABJe/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1KJCaq9PumcXKEGQkbVCFlsTtm2NbABJe",
+    "pdf_file": "720_Advanced_Workspace_Skills.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "725",
+    "title": "Interview Skills",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1xIqM8X33WlcO8bRxnp54YAEKdo-PWOCE/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1xIqM8X33WlcO8bRxnp54YAEKdo-PWOCE",
+    "pdf_file": "725_Interview_Skills.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "730",
+    "title": "Advanced Interview Skills",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": true,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1bawraNm2u_WWzWkGJyMV0PUJ0yyzhLm3/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1bawraNm2u_WWzWkGJyMV0PUJ0yyzhLm3",
+    "pdf_file": "730_Advanced_Interview_Skills.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "735",
+    "title": "Extemporaneous Speech",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1OwGVQiohvOPOBQxz3ZfRCtdSGkSehC43/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1OwGVQiohvOPOBQxz3ZfRCtdSGkSehC43",
+    "pdf_file": "735_Extemporaneous_Speech.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "740",
+    "title": "Contemporary Issues",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1Jskk48_690QHGERM9h7E3sRK4g0sU4vJ/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1Jskk48_690QHGERM9h7E3sRK4g0sU4vJ",
+    "pdf_file": "740_Contemporary_Issues.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "745",
+    "title": "Human Resource Management",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1tzhKx6B9m6QEUfYIPXUBHp0LZw1Ipzws/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1tzhKx6B9m6QEUfYIPXUBHp0LZw1Ipzws",
+    "pdf_file": "745_Human_Resource_Management.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "750",
+    "title": "Ethics & Professionalism",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1iPHtGpdkHAR08nzpD4fojjUwq0bzyX_8/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1iPHtGpdkHAR08nzpD4fojjUwq0bzyX_8",
+    "pdf_file": "750_Ethics_Professionalism.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "755",
+    "title": "Prepared Speech",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1XXvmvxt_Rusz-C7piiH4BDPr5wYs1lIS/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1XXvmvxt_Rusz-C7piiH4BDPr5wYs1lIS",
+    "pdf_file": null,
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "760",
+    "title": "Presentation Individual",
+    "subject": "Career Ready Skills",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1T1CyCipLP9CRPaOfp5K524YVANIC7nbX/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1T1CyCipLP9CRPaOfp5K524YVANIC7nbX",
+    "pdf_file": "760_Presentation_Individual.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "900",
+    "title": "Financial Literacy",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1hq9u1SRj_-0UdPnQfdc76FUEoXhM9BxF/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1hq9u1SRj_-0UdPnQfdc76FUEoXhM9BxF",
+    "pdf_file": "900_Financial_Literacy.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "920",
+    "title": "Digital Citizenship",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": true,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1iutbeEHLyp06oJ4BElFjmo4Tt_O6Nbnd/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1iutbeEHLyp06oJ4BElFjmo4Tt_O6Nbnd",
+    "pdf_file": "920_Digital_Citizenship.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "925",
+    "title": "Word Processing",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1N6z6SrCwXu8505LfWog731-7DV4yuvmS/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1N6z6SrCwXu8505LfWog731-7DV4yuvmS",
+    "pdf_file": "925_Word_Processing.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "930",
+    "title": "Spreadsheet Applications",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1LvFhBFUdkc6lYTzxqT0z5yyAZTJJJ9tP/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1LvFhBFUdkc6lYTzxqT0z5yyAZTJJJ9tP",
+    "pdf_file": "930_Spreadsheet_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "945",
+    "title": "Graphic Design Promotion",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/121YCIiUwKf8OTmlytMKwsNk8QIbDdyuz/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=121YCIiUwKf8OTmlytMKwsNk8QIbDdyuz",
+    "pdf_file": "945_Graphic_Design_Promotion.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "970",
+    "title": "Entrepreneurship Exploration",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ft5Sr9JdF5E4-hvD4943ajoAWgTskZIk/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ft5Sr9JdF5E4-hvD4943ajoAWgTskZIk",
+    "pdf_file": "970_Entrepreneurship_Exploration.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "975",
+    "title": "Extemporaneous Speech",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1kYtVLE05Tp-uC4exJZ8-yZXUzcxtSmUH/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1kYtVLE05Tp-uC4exJZ8-yZXUzcxtSmUH",
+    "pdf_file": "975_Extemporaneous_Speech.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "980",
+    "title": "Prepared Speech",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1voXVC6KfLj08W31ceEamwNcUKd1wI5HM/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1voXVC6KfLj08W31ceEamwNcUKd1wI5HM",
+    "pdf_file": "980_Prepared_Speech.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "990",
+    "title": "Human Resource Exploration",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1RZ22K0hOV-_-Q8lY-yxpH4p0xbslOKtk/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1RZ22K0hOV-_-Q8lY-yxpH4p0xbslOKtk",
+    "pdf_file": "990_Human_Resource_Exploration.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "915",
+    "title": "Administrative Support Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1pTU4Y4vgJvmUsuc4JLHj8zoZM0tkJ3N0/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1pTU4Y4vgJvmUsuc4JLHj8zoZM0tkJ3N0",
+    "pdf_file": "915_Administrative_Support_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "940",
+    "title": "Digital Game Design Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1oflRLfXP6y88QquB_mlVnYti9Gt32-pi/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1oflRLfXP6y88QquB_mlVnYti9Gt32-pi",
+    "pdf_file": "940_Digital_Game_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "950",
+    "title": "Video Production Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1MmmIeDgro05ZHK7u8CGri7thwoQ2Gjlo/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1MmmIeDgro05ZHK7u8CGri7thwoQ2Gjlo",
+    "pdf_file": "950_Video_Production_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "955",
+    "title": "Website Design Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1NiIvDxJIfXmF6ZSq5QE5tDCH8b53IINL/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1NiIvDxJIfXmF6ZSq5QE5tDCH8b53IINL",
+    "pdf_file": "955_Website_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "960",
+    "title": "Visual Design Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": true,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/12CjAbTgkJzbFenCvfAkaGA9FSos7PjL6/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=12CjAbTgkJzbFenCvfAkaGA9FSos7PjL6",
+    "pdf_file": "960_Visual_Design_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "985",
+    "title": "Presentation Team",
+    "subject": "Middle School",
+    "format": "In-Person",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": false,
+    "presubmit": false,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1PvUivy76-gHYdU3NfJMpm89eZ0rbdqrf/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1PvUivy76-gHYdU3NfJMpm89eZ0rbdqrf",
+    "pdf_file": "985_Presentation_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V01",
+    "title": "Virtual Multimedia & Promotion Individual",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1SpurseCSY6FNspjtooLng3QtJSyRjufn/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1SpurseCSY6FNspjtooLng3QtJSyRjufn",
+    "pdf_file": "V01_Virtual_Multimedia_Promotion_Individual.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V05",
+    "title": "Virtual Mobile Applications",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1fIc855YtBuO5mHOgb6aMGGun6tfJ6YLh/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1fIc855YtBuO5mHOgb6aMGGun6tfJ6YLh",
+    "pdf_file": "V05_Virtual_Mobile_Applications.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V06",
+    "title": "Virtual Promotional Photography",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1RlDL9gMq0Y3cNosB0df4SUESTJDpQjPi/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1RlDL9gMq0Y3cNosB0df4SUESTJDpQjPi",
+    "pdf_file": "V06_Virtual_Promotional_Photography.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V07",
+    "title": "Virtual Cybersecurity/Digital Forensics",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1r8ZM7j_Rfc9NVOvBFYC6S-t2R3nbrypE/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1r8ZM7j_Rfc9NVOvBFYC6S-t2R3nbrypE",
+    "pdf_file": "V07_Virtual_Cybersecurity_Digital_Forensics.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V15",
+    "title": "Virtual Interview and Digital Portfolio Design",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Individual",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1VbPNLCNuO006n1mG0M7KX0EHR9r6j4wn/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1VbPNLCNuO006n1mG0M7KX0EHR9r6j4wn",
+    "pdf_file": "V15_Virtual_Interview_and_Digital_Portfolio_Design.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V02",
+    "title": "Virtual Multimedia & Promotion Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1nSJegU70_zUtfk1oOIU70rEaePVPA0Ct/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1nSJegU70_zUtfk1oOIU70rEaePVPA0Ct",
+    "pdf_file": "V02_Virtual_Multimedia_Promotion_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V03",
+    "title": "Virtual Game Development Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1NEOulu5L6QICTPnzPX_vc4hG-p3w3-FE/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1NEOulu5L6QICTPnzPX_vc4hG-p3w3-FE",
+    "pdf_file": "V03_Virtual_Game_Development_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V04",
+    "title": "Virtual Web Application Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1hskYMh-FO5fKjHCON6SBJ4kSSD-r9tGF/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1hskYMh-FO5fKjHCON6SBJ4kSSD-r9tGF",
+    "pdf_file": "V04_Virtual_Web_Application_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V08",
+    "title": "Start-up Enterprise Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1Ku711fohBmP2tQQ82k5shiOoaCmLjr3H/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1Ku711fohBmP2tQQ82k5shiOoaCmLjr3H",
+    "pdf_file": "V08_Start-up_Enterprise_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V09",
+    "title": "Financial Portfolio Management Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ied40YbjbUWbVkLHpmjYU_krYdWApUOb/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ied40YbjbUWbVkLHpmjYU_krYdWApUOb",
+    "pdf_file": "V09_Financial_Portfolio_Management_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V10",
+    "title": "Virtual Branding Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/173zU1TYZM4_Vlq6NfMM_U0orgf-3ANR4/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=173zU1TYZM4_Vlq6NfMM_U0orgf-3ANR4",
+    "pdf_file": "V10_Virtual_Branding_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V11",
+    "title": "Virtual 2D Animation Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/15vL6uf4zSvcdmk_I9rGiE2GlCG-geOAj/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=15vL6uf4zSvcdmk_I9rGiE2GlCG-geOAj",
+    "pdf_file": "V11_Virtual_2D_Animation_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V12",
+    "title": "Social Media Marketing Campaign Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/10wUQlMV8YiCjt3npQHNcCVoo13-2SmMq/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=10wUQlMV8YiCjt3npQHNcCVoo13-2SmMq",
+    "pdf_file": "V12_Social_Media_Marketing_Campaign_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V13",
+    "title": "Virtual Esports Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1T2gCrMrR_3B9924YUS09VmFRaNwKLDKR/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1T2gCrMrR_3B9924YUS09VmFRaNwKLDKR",
+    "pdf_file": "V13_Virtual_Esports_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V14",
+    "title": "Ethical Leadership and Decision-Making Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1nF3J8Rtfqy7nDWZr_2UYZdh3QW9O-Xof/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1nF3J8Rtfqy7nDWZr_2UYZdh3QW9O-Xof",
+    "pdf_file": "V14_Ethical_Leadership_and_Decision-Making_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "V16",
+    "title": "Virtual Artificial Intelligence Team",
+    "subject": "Virtual",
+    "format": "Virtual",
+    "participation": "Team",
+    "event_type": [
+      "Judged"
+    ],
+    "divisions": [
+      "MS",
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1UxwfJ69ympzBFqOE88jxfzd_A1fMDkSE/view?usp=share_link",
+    "download_url": "https://drive.google.com/uc?export=download&id=1UxwfJ69ympzBFqOE88jxfzd_A1fMDkSE",
+    "pdf_file": "V16_Virtual_Artificial_Intelligence_Team.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "190",
+    "title": "Financial Services Concepts Open Event",
+    "subject": "Finance",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": null,
+    "download_url": null,
+    "pdf_file": null,
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "290",
+    "title": "Management and Entrepreneurship Concepts - Open Event",
+    "subject": "Management and Entrepreneurship",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1RSHlU1ax7AoVRsmxAGSWp-WYoS6jZSM8/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1RSHlU1ax7AoVRsmxAGSWp-WYoS6jZSM8",
+    "pdf_file": "290_Management_and_Entrepreneurship_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "291",
+    "title": "Parliamentary Procedure Concepts - Open Event",
+    "subject": "Management and Entrepreneurship",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1Houx-jqXAg5YlE7xlThhX13oHrZSk8oY/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1Houx-jqXAg5YlE7xlThhX13oHrZSk8oY",
+    "pdf_file": "291_Parliamentary_Procedure_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "292",
+    "title": "Project Management Concepts - Open Event",
+    "subject": "Management and Entrepreneurship",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1gIHQ_VgPlHFjp5k7WrDuASWRHx2vzLaX/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1gIHQ_VgPlHFjp5k7WrDuASWRHx2vzLaX",
+    "pdf_file": "292_Project_Management_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "293",
+    "title": "Meeting and Event Planning Concepts Open Event",
+    "subject": "Management and Entrepreneurship",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1cCc9kl7CGpbRanlr0O8HOX7Sv6IDqOIa/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1cCc9kl7CGpbRanlr0O8HOX7Sv6IDqOIa",
+    "pdf_file": "293_Meeting_and_Event_Planning_Concepts_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "390",
+    "title": "Digital Technology Concepts - Open Event",
+    "subject": "Digital Technology",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/18E6CLLlhvxu--vWxXDmalj-5VPekzMiE/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=18E6CLLlhvxu--vWxXDmalj-5VPekzMiE",
+    "pdf_file": "390_Digital_Technology_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "391",
+    "title": "Computer Programming Concepts - Open Event",
+    "subject": "Digital Technology",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1UAWMT6NVduMZIU_EdMDRORKitWkic3HX/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1UAWMT6NVduMZIU_EdMDRORKitWkic3HX",
+    "pdf_file": "391_Computer_Programming_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "490",
+    "title": "Arts Entertainment and Design Concepts - Open Event",
+    "subject": "Arts, Entertainment & Design",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1LcBoWBA3Xqulk7KVwI2sJqYTldu36O-8/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1LcBoWBA3Xqulk7KVwI2sJqYTldu36O-8",
+    "pdf_file": "490_Arts_Entertainment_and_Design_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "590",
+    "title": "Marketing and Sales Concepts Open Event",
+    "subject": "Marketing & Sales",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1ch0_jirvqHtC-ga8D7Qp6bLRotSQbFGc/view?usp=share_link",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ch0_jirvqHtC-ga8D7Qp6bLRotSQbFGc",
+    "pdf_file": "590_Marketing_and_Sales_Concepts_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "690",
+    "title": "Healthcare and Human Services Concepts Open Event",
+    "subject": "Healthcare & Human Services",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1Mgm71h8kORItVD5zmG84lbMAwsTxeDCq/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1Mgm71h8kORItVD5zmG84lbMAwsTxeDCq",
+    "pdf_file": "690_Healthcare_and_Human_Services_Concepts_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "790",
+    "title": "Career Ready Skills Concepts Pilot Open Event",
+    "subject": "Career Ready Skills",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "HS",
+      "College"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1PSW-5CcPxuqfeFXxzuxw1RJgwI5vyZSS/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1PSW-5CcPxuqfeFXxzuxw1RJgwI5vyZSS",
+    "pdf_file": null,
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "995",
+    "title": "Business Communication Skills Concepts - Open Event",
+    "subject": "Middle School",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/12IMf2HiDeZLM8S9Ps-oX8hQ_f6b3LOn3/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=12IMf2HiDeZLM8S9Ps-oX8hQ_f6b3LOn3",
+    "pdf_file": "995_Business_Communication_Skills_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "996",
+    "title": "Business Fundamentals Concepts - Open Event",
+    "subject": "Middle School",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1x30iO9_s24BAj3IRA329-TRP-AaMR0Gn/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1x30iO9_s24BAj3IRA329-TRP-AaMR0Gn",
+    "pdf_file": "996_Business_Fundamentals_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "997",
+    "title": "Business Math Concepts - Open Event",
+    "subject": "Middle School",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1Ju5TKd4X2xiOiis0_pgIegsLzZ_kFG7W/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1Ju5TKd4X2xiOiis0_pgIegsLzZ_kFG7W",
+    "pdf_file": "997_Business_Math_Concepts_-_Open_Event.pdf",
+    "has_text": false,
+    "details": null
+  },
+  {
+    "id": "998",
+    "title": "Computer Literacy Concepts - Open Event",
+    "subject": "Middle School",
+    "format": "Open",
+    "participation": "Individual",
+    "event_type": [
+      "Testing"
+    ],
+    "divisions": [
+      "MS"
+    ],
+    "certification": null,
+    "presubmit": null,
+    "regional_deadline": null,
+    "nlc_deadline": null,
+    "view_url": "https://drive.google.com/file/d/1RFyk6pxFhYGA5Wn310w8I3bXlCY-2hz8/view?usp=sharing",
+    "download_url": "https://drive.google.com/uc?export=download&id=1RFyk6pxFhYGA5Wn310w8I3bXlCY-2hz8",
+    "pdf_file": null,
+    "has_text": false,
+    "details": null
+  }
+]
